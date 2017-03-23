@@ -1,5 +1,7 @@
 # The Ranking Hat (Duke CS316 Final Project)
 
+### Created by: Neil Wu, Steven Yang, Fred Xu, Andy Cho -- Spring 2017
+
 ## What is The Ranking Hat?
 
 #### Many sites such as US News, Forbes, and Niche have been releasing their college ranking lists for years. While these sources often give insight as to what factors play into their “ranking formula”, none of them allow the user to create their own formula. That is where The Ranking Hat comes into play. Our application will allow users to access a database of college data, manipulating certain attributes to their own will, culminating in a ranking that matches the weightings they provided. 
