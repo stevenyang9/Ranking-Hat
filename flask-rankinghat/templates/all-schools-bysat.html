@@ -1,0 +1,13 @@
+{% extends 'layout.html' %}
+{% block heading %}All Colleges{% endblock %}
+{% block content %}
+<ul>
+  {% for school in schools %}
+  
+  <li>{{school.instnm}} - {{school.sat_avg}}</li>
+  {% endfor %}
+</ul>
+<hr/>
+<p>{{schools|length}} school{{schools|length|pluralize}}
+  found in the database.</p>
+{% endblock %}
