@@ -1,5 +1,10 @@
-body {
+body{
     color: black;
     background: white;
     font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+h2{ 
+	text-align: center;
 }
