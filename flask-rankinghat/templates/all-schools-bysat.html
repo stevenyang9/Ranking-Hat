@@ -4,10 +4,9 @@
 <ul>
   {% for school in schools %}
   
-  <li>{{school.instnm}} - {{school.sat_avg}}</li>
+  <li>{{school.instnm}} - {{school.sat_avg}} - {{school.adm_rate}} - {{school.c150_4}}</li>
   {% endfor %}
 </ul>
 <hr/>
-<p>{{schools|length}} school{{schools|length|pluralize}}
-  found in the database.</p>
+
 {% endblock %}
