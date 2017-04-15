@@ -1,0 +1,12 @@
+{% extends 'layout.html' %}
+{% block heading %}User Input Test{% endblock %}
+{% block content %}
+<ul>
+  <div id="content">
+  	User <strong> {{inputweight}} </strong>
+  </div>	
+</ul>
+<hr/>
+<p>{{schools|length}} school{{schools|length|pluralize}}
+  found in the database.</p>
+{% endblock %}

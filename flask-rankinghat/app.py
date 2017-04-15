@@ -1,4 +1,4 @@
-from flask import Flask, render_template, redirect, url_for
+from flask import Flask, render_template, redirect, url_for, request
 from flask_sqlalchemy import SQLAlchemy
 import models
 from sqlalchemy import desc 
@@ -7,6 +7,14 @@ app = Flask(__name__)
 app.secret_key = 's3cr3t'
 app.config.from_object('config')
 db = SQLAlchemy(app, session_options={'autocommit': False})
+
+
+
+@app.route('/userinputtest', methods=['POST'])
+def printuserinput():
+    inputweight=request.form['inputweight']
+    return render_template('userinputtest.html', inputweight=inputweight)
+
 
 
 @app.route('/')
