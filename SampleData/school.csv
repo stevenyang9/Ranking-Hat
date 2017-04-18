@@ -1,4 +1,4 @@
-OPEID,CITY,INSTNM,INSTURL,STABBR
+opeid,city,instnm,insturl,stabbr
 130500,Stanford,Stanford University,www.stanford.edu/,CA
 215500,Cambridge,Harvard University,www.harvard.edu,MA
 142600,New Haven,Yale University,www.yale.edu,CT
@@ -395,6 +395,7 @@ OPEID,CITY,INSTNM,INSTURL,STABBR
 336000,Rosemont,Rosemont College,www.rosemont.edu,PA
 129300,Costa Mesa,Vanguard University of Southern California,www.vanguard.edu,CA
 322800,Bryn Athyn,Bryn Athyn College of the New Church,www.brynathyn.edu,PA
+332901,University Park,Pennsylvania State University-World Campus,www.worldcampus.psu.edu/,PA
 352400,Winston Salem,Tennessee Temple University,www.tntemple.edu,NC
 381100,Elkins,Davis & Elkins College,www.dewv.edu,WV
 131600,Riverside,University of California-Riverside,WWW.UCR.EDU,CA
