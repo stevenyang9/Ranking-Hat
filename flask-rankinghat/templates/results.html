@@ -1,3 +1,28 @@
+<style>
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center
+}
+
+h1{
+	color: black;
+	text-align: center;
+	position: relative;
+	font-size: 3em;
+}
+
+h2{
+	color: black;
+	text-align: center;
+	position: relative;
+	font-size: 2em;
+}
+
+</style>
+
 {% block html_attribs %} <meta name="viewport" content="width=device-width, initial-scale=1">
 {% endblock %}
 {% block styles %}
@@ -9,7 +34,15 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.js"></script>
 {% endblock %}
-{% block heading %}Ranking result{% endblock %}
+
+{% block heading %}
+<h1> Your Ranking Hat results are in! </h1>
+{% endblock %}
+
+{% block description %}
+<h2> Your ranking criteria was: {{inputweight}} </h2>
+{% endblock %}
+
 {% block content %}
 
 <hr/>
@@ -19,8 +52,31 @@
 		<div data-role="collapsible">
 			<h3>#{{pagenum*25-25+loop.index}} {{output.instnm}}</h3><br>
 			<a href="http://{{output.insturl}}" target = "_blank">Visit school website</a>
-			<p>Location: {{output.city}}, {{output.stabbr}}<br>
-			Admission rate: {{output.adm_rate * 100}}%</p>
+			<p>Location: {{output.city}}, {{output.stabbr}}</p>
+
+			<table style="width:100%">
+  				<tr>
+				    <th>Acceptance Rate</th>
+				    <th>SAT Average</th>
+				    <th>Instructional Expenditure</th>
+				    <th>Student Debt</th>
+				    <th>Full-time Faculty</th>
+				    <th>Locale</th>
+				    <th>Student Body Nonwhite Percentage</th>
+				    <th>Graduation Rate</th>
+  				</tr>
+  				<tr>
+				    <td>{{output.adm_rate * 100}}%</td>
+				    <td>{{output.sat_avg}}</td>
+				    <td>{{output.inexpfte}}</td>
+				    <td>{{output.grad_debt_mdn}}</td>
+				    <td>{{output.pftfac}}</td>
+				    <td>{{output.locale}}</td>
+				    <td>{{100 - output.ugds_white}}</td>
+				    <td>{{output.c150_4}}</td>
+				</tr>
+			</table> 
+			
 		</div>
 		<div style="height:3px;font-size:1px;">&nbsp;</div>
  		{% endfor %}
