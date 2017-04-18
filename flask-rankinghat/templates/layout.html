@@ -3,94 +3,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<style>
-.dropbtn {
-    background-color: #4CAF50;
-    color: white;
-    padding: 16px;
-    font-size: 16px;
-    border: none;
-    cursor: pointer;
-}
-
-.dropbtn:hover, .dropbtn:focus {
-    background-color: #3e8e41;
-}
-
-.dropdown {
-    position: relative;
-    display: inline-block;
-    margin-right: 5px;
-
-}
-
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 100%;
-    overflow: auto;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-}
-
-.dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-}
-
-h2{
-    text-align: center;
-    position: relative;
-    font-size: 4em;
-}
-
-p{
-    text-align: center;
-    position: relative;
-    font-size: 2em;
-}
-
-.categories{
-    text-align: center;
-    margin: 100px;
-}
-
-.txtbox{
-    height:45px;
-    font-size:10pt;
-}
-
-.rankbutton{
-  background-color: #4CAF50;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-  text-align: center;
-}
-
-.results{
-  text-align: center;
-  margin-top: 270px;
-  position: relative;
-
-}
-
-
-.dropdown a:hover {background-color: #f1f1f1}
-
-.show {display:block;}
-</style>
-
-
 
 <!-- <html xmlns="http://www.w3.org/1999/xhtml"> -->
   <head>
@@ -98,87 +10,21 @@ p{
     <meta name="description" content="The Ranking Hat"/>
     <meta name="keywords" content="The Ranking Hat"/>
     <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
-    <link rel="stylesheet" href="/static/css/style.css" type="text/css" media="screen"/>
+    <!-- <link rel="stylesheet" href="/static/css/style.css" type="text/css" media="screen"/> -->
+
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
     <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
   </head>
   <body>
-    <hr/>
+    <!-- <hr/> -->
     <h2 id="heading">{% block heading %}{% endblock %}</h2>
     {% block content %}{% endblock %}
-
-
-      <div class="categories">
-
-      <div class="dropdown">
-      <button onclick="myFunction1()" class="dropbtn">Admissions Data</button>
-        <div id="myDropdown1" class="dropdown-content">
-          <a href="#acceptancerate">Acceptance Rate</a>
-          <a href="#satscores">SAT Average</a>
-        </div>
-      </div>
-
-      <input type="text" value="" placeholder="Place weight here" class="txtbox"/>
-
-      <div class="dropdown">
-      <button onclick="myFunction2()" class="dropbtn">College Data</button>
-        <div id="myDropdown2" class="dropdown-content">
-          <a href="#instructionalexpenditure">Instructional Expenditure</a>
-          <a href="#studentdebt">Student Debt</a>
-          <a href="#fulltimefaculty">Full-Time Faculty</a>
-          <a href="#locale">Locale</a>
-          <a href="#studentbodydiversity">Student Body Diversity</a>
-        </div>
-      </div>
-
-      <input type="text" value="" placeholder="Place weight here" class="txtbox"/>
-
-      <div class="dropdown">
-      <button onclick="myFunction3()" class="dropbtn">Graduate Data</button>
-        <div id="myDropdown3" class="dropdown-content">
-          <a href="#graduationrate">Graduation Rate</a>
-        </div>
-      </div>
-
-      <input type="text" value="" placeholder="Place weight here" class="txtbox"/>
-
-    </div>
-
-    <div class="results">
-      <input type="rankbutton" class="rankbutton" value="Rank">
-    </div>
 
   </body>
 
 
-<script>
-/* When the user clicks on the button,
-toggle between hiding and showing the dropdown content */
-function myFunction1() {
-    document.getElementById("myDropdown1").classList.toggle("show");
-}
-function myFunction2() {
-    document.getElementById("myDropdown2").classList.toggle("show");
-}
-function myFunction3() {
-    document.getElementById("myDropdown3").classList.toggle("show");
-}
-
-
-// Close the dropdown if the user clicks outside of it
-window.onclick = function(event) {
-  if (!event.target.matches('.dropbtn')) {
-
-    var dropdowns = document.getElementsByClassName("dropdown-content");
-    var i;
-    for (i = 0; i < dropdowns.length; i++) {
-      var openDropdown = dropdowns[i];
-      if (openDropdown.classList.contains('show')) {
-        openDropdown.classList.remove('show');
-      }
-    }
-  }
-}
-</script>
 
 </html>
 

@@ -1,0 +1,133 @@
+{% extends 'layout.html' %}
+{% block heading %}The Ranking Hat{% endblock %}
+{% block content %}
+
+
+<div class="categories">
+
+	
+
+	<form method="post" action="{{url_for('printuserinput') }}">
+
+	<div class="container-fluid">
+		
+		<div class="row">
+
+			<div class="col-md-6">  
+				<div class="boxed">
+					Acceptance Rate
+				</div>
+				<input type="text" name="acceptancerate" placeholder="Place weight here" class="txtbox"/>
+			</div>
+
+			<div class="col-md-6">  
+				<div class="boxed">
+					SAT Average
+				</div>
+				<input type="text" name="sataverage" placeholder="Place weight here" class="txtbox"/>
+			</div>
+		
+		</div>	
+
+		<div class="row">
+
+			<div class="col-md-6">  
+				<div class="boxed">
+					Instructional Expenditure
+				</div>
+				<input type="text" name="instructionalexpenditure" placeholder="Place weight here" class="txtbox"/>
+			</div>
+
+			<div class="col-md-6">  
+				<div class="boxed">
+					Student Debt
+				</div>
+				<input type="text" name="studentdebt" placeholder="Place weight here" class="txtbox"/>
+			</div>
+		
+		</div>
+
+		<div class="row">
+
+			<div class="col-md-6">  
+				<div class="boxed">
+					Full-Time Faculty
+				</div>
+				<input type="text" name="fulltimefaculty" placeholder="Place weight here" class="txtbox"/>
+			</div>
+
+			<div class="col-md-6">  
+				<div class="boxed">
+					Locale
+				</div>
+				<input type="text" name="locale" placeholder="Place weight here" class="txtbox"/>
+			</div>
+		
+		</div>
+
+
+
+
+		<div class="row">	
+
+			<div class="col-md-6">
+				<div class="boxed">
+					Student Body Diversity
+				</div>
+				<input type="text" name="studentbodydiversity" placeholder="Place weight here" class="txtbox"/>
+			</div>	
+
+			<div class="col-md-6">
+				<div class="boxed">
+					Graduation Rate
+				</div>
+				<input type="text" name="graduationrate" placeholder="Place weight here" class="txtbox"/>
+			</div>	
+
+			
+		
+		</div>	
+	
+		<input type="submit" class="rankbutton" value="Rank">
+	</form>	
+</div>
+	
+      
+
+
+
+<!-- <script>
+/* When the user clicks on the button,
+toggle between hiding and showing the dropdown content */
+function myFunction1() {
+    document.getElementById("myDropdown1").classList.toggle("show");
+}
+function myFunction2() {
+    document.getElementById("myDropdown2").classList.toggle("show");
+}
+function myFunction3() {
+    document.getElementById("myDropdown3").classList.toggle("show");
+}
+
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script> -->
+
+
+<!-- <hr/> -->
+<!-- <p>{{schools|length}} school{{schools|length|pluralize}}
+  found in the database.</p> -->
+{% endblock %}

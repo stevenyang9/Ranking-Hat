@@ -16,6 +16,11 @@ def printuserinput():
     return render_template('userinputtest.html', inputweight=inputweight)
 
 
+@app.route('/inputweights')
+def inputweights():
+    return render_template('inputweights.html')
+
+
 
 @app.route('/')
 def all_schools_index():

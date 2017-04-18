@@ -1,27 +1,19 @@
 {% extends 'layout.html' %}
-{% block heading %}The Ranking Hat{% endblock %}
+{% block styles %}
+<link rel="stylesheet" href="{{url_for('static', filename='style.css')}}"/>
+{% endblock %}
+{% block heading %}{% endblock %}
 {% block content %}
-<ul>
+
+<body background="/static/img/DukeU.jpg">
+
+<div id="header">
     
-  <li><a href="{{url_for('rankbyadmission_schools')}}">Top 25 Schools By SAT Scores</a></li>
+        <h2>Hello</h2>
+        <a href="{{url_for('inputweights')}}">Rank Colleges</a>
+        
+</div>
 
-  <li><a href="{{url_for('admissionrate')}}">Top 25 Schools By Admission Rate</a></li>
-
- </ul>
-
-
-<div id="content">
-	<form method="post" action="{{url_for('printuserinput') }}">
-		<label for="inputweight">Enter weight:</label>
-		<input type="text" name="inputweight"/><br />
-		<input type="submit" />
-	</form>
-</div>		
-
-
-<!-- <hr/> -->
-<p>{{schools|length}} school{{schools|length|pluralize}}
-  found in the database.</p>
 {% endblock %}
 
 
