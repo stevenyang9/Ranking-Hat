@@ -1,0 +1,34 @@
+{% block html_attribs %} <meta name="viewport" content="width=device-width, initial-scale=1">
+{% endblock %}
+{% block styles %}
+<link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+<link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+
+{% endblock %}
+{% block scripts %}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.js"></script>
+{% endblock %}
+{% block heading %}Ranking result{% endblock %}
+{% block content %}
+
+<hr/>
+<div data-role="collapsible-set" data-theme="a" data-content-theme="a" data-iconpos="right" data-inset="false" data-mini="true">
+	<div style="margin:20px 50px 0px 50px">
+		{% for output in outputs.items %}
+		<div data-role="collapsible">
+			<h3>#{{pagenum*25-25+loop.index}} {{output.instnm}}</h3><br>
+			<a href="http://{{output.insturl}}" target = "_blank">Visit school website</a>
+			<p>Location: {{output.city}}, {{output.stabbr}}<br>
+			Admission rate: {{output.adm_rate * 100}}%</p>
+		</div>
+		<div style="height:3px;font-size:1px;">&nbsp;</div>
+ 		{% endfor %}
+	</div>
+</div>
+
+<div style="width: 300px; margin-left: auto; margin-right: auto; margin-top: 10px; margin-bottom: 5-px; font-size: 70%">
+	{% if outputs.has_prev %}<a href="{{ url_for('results', page=outputs.prev_num) }}" data-ajax="false" class="ui-btn ui-btn-inline ui-mini">&lt;&lt; Previous 25</a>{% else %}&lt;&lt; Previous 25{% endif %} | 
+	{% if outputs.has_next %}<a href="{{ url_for('results', page=outputs.next_num) }}" data-ajax="false" class="ui-btn ui-btn-inline ui-mini">Next 25 &gt;&gt;</a>{% else %}Next 25 &gt;&gt;{% endif %}
+</div>
+{% endblock %}

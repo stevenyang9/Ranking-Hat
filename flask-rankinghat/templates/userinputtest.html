@@ -1,4 +1,13 @@
 {% extends 'layout.html' %}
+{% block styles %}
+{{super()}}
+<link rel="stylesheet"
+      href="{{url_for('.static/css', filename='result.css')}}">
+{% endblock %}
+{% block scripts %}
+<script src="{{url_for('.static/js', filename='result.js')}}"></script>
+{{super()}}
+{% endblock %}
 {% block heading %}User Input Test{% endblock %}
 {% block content %}
 <ul>
