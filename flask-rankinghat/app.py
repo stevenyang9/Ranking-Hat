@@ -33,8 +33,8 @@ def getuserinput():
 	wdict[attrs[4]] = int(request.form['instructionalexpenditure']) if request.form['instructionalexpenditure'] else 0
 	wdict[attrs[5]] = int(request.form['studentdebt']) if request.form['studentdebt'] else 0
 	wdict[attrs[6]] = int(request.form['graduationrate']) if request.form['graduationrate'] else 0
-	return results(1)
 	# wdict[attrs[7]] = int(request.form['locale'])
+	return results(1)
 
 
 @app.route('/results', methods=['GET','POST'])
