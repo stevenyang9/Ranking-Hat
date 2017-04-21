@@ -11,14 +11,14 @@ h1{
 	color: black;
 	text-align: center;
 	position: relative;
-	font-size: 3em;
+	font-size: 2em;
 }
 
 h2{
 	color: black;
 	text-align: center;
 	position: relative;
-	font-size: 2em;
+	font-size: 1em;
 }
 
 </style>
@@ -40,9 +40,12 @@ h2{
 {% endblock %}
 
 {% block description %}
-<h2> Your ranking criteria was: {{inputweight}} </h2>
+<h2> Your ranking criteria was:  
+{% for key, value in inputdict.iteritems()%}
+{{key}}: {{value}}%&nbsp;&nbsp;	   
+{% endfor %}
 {% endblock %}
-
+</h2>
 {% block content %}
 
 <hr/>
@@ -73,7 +76,7 @@ h2{
 				    <td>{{output.pftfac}}</td>
 				    <td>{{output.locale}}</td>
 				    <td>{{100 - output.ugds_white}}</td>
-				    <td>{{output.c150_4}}</td>
+				    <td>{{output.c150_4 * 100}}%</td>
 				</tr>
 			</table> 
 			
