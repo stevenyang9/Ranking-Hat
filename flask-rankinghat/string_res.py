@@ -20,3 +20,8 @@ inputnames = {"models.admissiondata.adm_rate":"acceptance rate","models.admissio
 			"models.collegedata.pftfac":"full-time faculty", "models.collegedata.ugds_white":"student body diversity"
 ,"models.collegedata.inexpfte":"instructional expenditure","models.collegedata.grad_debt_mdn":"student debt",
 			"models.graddata.c150_4":"graduation rate","models.collegedata.locale":"locale"}
+
+localedict = {11:'city(large)', 12:'city(midsize)', 13:'city(small)', 
+				21:'suburb(large)', 22:'suburb(midsize)', 23:'suburb(small)',
+				31:'town(fringe)', 32:'town(distant)',33:'town(remote)',
+				41:'rural(fringe)',42:'rural(distant)',43:'rural(remote)' }
