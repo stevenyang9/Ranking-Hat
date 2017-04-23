@@ -1,0 +1,1251 @@
+OPEID,INSTNM,CITY,STABBR,INSTURL,ADM_RATE,SAT_AVG,GRAD_DEBT_MDN,INEXPFTE,PFTFAC,LOCALE,UGDS_WHITE,C150_4,adm_rank,sat_avg_rank,grad_debt_rank,ugrad_white_rank,inexpfte_rank,pftfac_rank,c150_rank
+130500,Stanford University,Stanford,CA,www.stanford.edu/,0.0509,1465,12782,93146,0.9789,21,0.3752,0.946,1,12,35,172,3,227,15
+215500,Harvard University,Cambridge,MA,www.harvard.edu,0.0596,1501,6500,49500,0.8653,12,0.4527,0.9752,2,3,5,244,12,377,2
+142600,Yale University,New Haven,CT,www.yale.edu,0.063,1493,13774,107982,0.7395,12,0.4705,0.962,3,6,45,262,1,570,4
+270700,Columbia University in the City of New York,New York,NY,www.columbia.edu,0.0695,1470,23000,80944,0.5344,11,0.3874,0.9469,4,11,472,183,6,924,13
+262700,Princeton University,Princeton,NJ,www.princeton.edu,0.0744,1491,7500,52224,0.8598,21,0.4597,0.9678,5,7,7,254,10,388,3
+217800,Massachusetts Institute of Technology,Cambridge,MA,web.mit.edu/student/,0.0788,1500,14990,62770,0.9891,12,0.3677,0.913,6,5,56,169,9,205,36
+340100,Brown University,Providence,RI,www.brown.edu,0.0874,1435,15500,33278,0.8821,12,0.4355,0.9612,7,24,68,224,24,347,5
+177400,University of Chicago,Chicago,IL,WWW.UCHICAGO.EDU,0.0876,1505,12500,83779,0.8204,11,0.4491,0.9288,8,2,34,236,5,445,25
+113100,California Institute of Technology,Pasadena,CA,www.caltech.edu,0.0883,1545,11812.5,92590,0.9462,12,0.2787,0.9153,9,1,26,124,4,280,32
+337800,University of Pennsylvania,Philadelphia,PA,www.upenn.edu,0.1037,1452,21500,49018,0.7158,11,0.4543,0.9561,10,18,350,245,13,612,7
+117000,Claremont McKenna College,Claremont,CA,www.cmc.edu,0.1077,1419,13500,25915,0.9126,21,0.4277,0.9031,11,30,41,217,45,320,46
+292000,Duke University,Durham,NC,WWW.DUKE.EDU,0.1141,1454,7500,50756,0.9447,12,0.4775,0.9485,12,16,7,267,11,281,12
+257300,Dartmouth College,Hanover,NH,www.dartmouth.edu,0.115,1444,12000,25102,0.7964,33,0.4804,0.9516,13,20,29,268,48,480,9
+3946300,Franklin W Olin College of Engineering,Needham,MA,www.olin.edu,0.12,1475,16125,30582,0.7593,21,0.5599,0.9467,14,10,87,385,29,536,14
+117300,Pomona College,Claremont,CA,www.pomona.edu,0.1219,1454,9788,37082,0.9712,21,0.4269,0.9267,15,16,14,216,20,241,28
+353500,Vanderbilt University,Nashville,TN,www.vanderbilt.edu,0.1309,1481,13000,79372,0.8207,11,0.5826,0.9286,16,8,38,431,7,444,26
+173900,Northwestern University,Evanston,IL,www.northwestern.edu,0.1311,1461,18900,37339,0.8196,13,0.5263,0.9331,17,13,162,326,19,449,21
+211500,Amherst College,Amherst,MA,www.amherst.edu,0.1384,1439,11706,25196,0.8988,21,0.4191,0.9406,18,22,25,206,47,333,20
+271100,Cornell University,Ithaca,NY,www.cornell.edu,0.1419,1422,12034.5,23818,0.9053,13,0.4209,0.932,19,28,30,209,53,326,22
+117100,Harvey Mudd College,Claremont,CA,https://www.hmc.edu,0.1425,1500,26000,30078,0.8796,21,0.4389,0.901,20,5,849,225,33,352,50
+271000,Cooper Union for the Advancement of Science and Art,New York,NY,www.cooper.edu,0.1506,1388,18250,21635,1,11,0.3333,0.839,21,39,141,146,65,190,82
+360400,Rice University,Houston,TX,www.rice.edu,0.151,1460,9641.5,40056,0.7844,11,0.3794,0.915,22,14,13,177,16,499,33
+131200,University of California-Berkeley,Berkeley,CA,www.berkeley.edu,0.1602,1382,14200,18988,0.7115,12,0.2758,0.9069,23,41,47,121,89,621,42
+207700,Johns Hopkins University,Baltimore,MD,www.jhu.edu,0.1608,1439,16250,77339,0.8777,11,0.4516,0.9308,24,22,90,241,8,356,23
+242400,Mississippi Valley State University,Itta Bena,MS,www.mvsu.edu,0.1633,825,30362.5,8966,0.7628,33,0.0303,0.2982,25,1229,1206,41,539,528,1179
+337000,Swarthmore College,Swarthmore,PA,www.swarthmore.edu,0.1702,1433,18100,32124,0.8745,21,0.4183,0.9409,26,25,139,203,25,363,19
+252000,Washington University in St Louis,Saint Louis,MO,www.wustl.edu,0.1713,1478,20500,105933,0.6222,21,0.5539,0.9496,27,9,268,373,2,788,10
+369100,Middlebury College,Middlebury,VT,www.middlebury.edu,0.1717,1379,17500,24640,0.8709,32,0.6501,0.941,28,45,128,586,49,368,18
+221900,Tufts University,Medford,MA,www.tufts.edu,0.1724,1423,18000,21543,0.6495,21,0.575,0.923,29,26,137,411,67,730,30
+144500,Georgetown University,Washington,DC,www.georgetown.edu,0.1735,1414,17000,31102,0.5175,11,0.5813,0.9491,30,31,112,424,28,949,11
+132800,University of Southern California,Los Angeles,CA,www.usc.edu/,0.1802,1380,21500,43170,0.5714,11,0.3644,0.9084,31,44,350,165,14,879,41
+131500,University of California-Los Angeles,Los Angeles,CA,www.ucla.edu/,0.1856,1330,16126,40020,0.6872,11,0.2784,0.9098,32,66,88,122,17,658,38
+222900,Williams College,Williamstown,MA,www.williams.edu,0.1932,1452,13211.5,39712,0.8231,31,0.5557,0.9535,33,18,39,377,18,442,8
+376800,Washington and Lee University,Lexington,VA,www.wlu.edu/,0.1946,1395,21500,31496,0.7434,32,0.8298,0.8767,34,36,350,1113,27,560,62
+202600,Southern University at New Orleans,New Orleans,LA,www.suno.edu,0.207,806,23590,5681,0.7651,11,0.0223,0.1172,35,1237,533,32,1095,522,1249
+184000,University of Notre Dame,Notre Dame,IN,www.nd.edu,0.2114,1450,21250,26632,0.8777,21,0.7067,0.9573,36,19,301,754,42,356,6
+291800,Davidson College,Davidson,NC,www.davidson.edu/,0.2167,1337,16385,19228,0.9624,21,0.6907,0.9271,37,61,94,704,85,261,27
+158700,Paine College,Augusta,GA,www.paine.edu,0.2181,760,38185,13491,0.6883,12,0.0214,0.1777,38,1247,1246,31,193,656,1239
+2053000,Liberty University,Lynchburg,VA,www.liberty.edu,0.2232,1040,23250,2350,0.6263,13,0.5121,0.5041,39,636,498,307,1249,779,729
+234000,Carleton College,Northfield,MN,www.carleton.edu,0.2277,1408,17500,26922,0.908,32,0.6499,0.9303,40,32,128,585,40,323,24
+289500,Vassar College,Poughkeepsie,NY,www.vassar.edu,0.2354,1403,16725,29919,0.8413,21,0.5885,0.9185,41,33,103,439,34,421,31
+270800,Barnard College,New York,NY,www.barnard.edu,0.2377,1343,16725,21263,0.6331,11,0.5501,0.8885,42,58,103,360,68,759,56
+376600,Virginia Union University,Richmond,VA,www.vuu.edu,0.2389,776,33450,6339,0.6173,12,0.0023,0.2551,43,1243,1234,6,1003,798,1210
+3982300,Visible Music College,Memphis,TN,www.visible.edu,0.2398,1031,25625,20566,0.9444,11,0.6696,0.5,44,685,779,647,73,283,744
+156600,Fort Valley State University,Fort Valley,GA,www.fvsu.edu,0.2419,873,36250,5226,0.9224,31,0.0373,0.3175,45,1192,1243,46,1155,310,1159
+301100,Art Academy of Cincinnati,Cincinnati,OH,www.artacademy.edu,0.2434,961,27000,5809,0.1818,11,0.7761,0.617,46,1014,1151,951,1078,1237,437
+324200,Carnegie Mellon University,Pittsburgh,PA,www.cmu.edu/,0.246,1436,25250,31807,0.9375,11,0.3538,0.883,47,23,747,158,26,291,59
+327400,Haverford College,Haverford,PA,www.haverford.edu,0.2469,1422,14000,28622,0.8538,21,0.6436,0.9419,48,28,46,572,38,397,16
+306500,Kenyon College,Gambier,OH,www.kenyon.edu/,0.2506,1332,19000,22319,0.9626,32,0.7371,0.8923,49,64,179,831,63,260,54
+884800,Warner University,Lake Wales,FL,www.warner.edu,0.26,863,23250,3151,0.3386,41,0.3788,0.3767,50,1204,498,175,1243,1150,1051
+270100,Colgate University,Hamilton,NY,www.colgate.edu,0.2624,1369,16114.5,22975,1,32,0.6723,0.924,51,50,86,656,55,190,29
+212100,Babson College,Wellesley,MA,www.babson.edu,0.2631,1272,27000,14110,0.7192,21,0.3863,0.9028,52,98,1151,182,168,600,47
+272800,Hamilton College,Clinton,NY,www.hamilton.edu,0.2635,1393,15300,30436,0.8941,41,0.6423,0.9111,53,37,66,569,30,338,37
+3088800,Watkins College of Art Design & Film,Nashville,TN,www.watkins.edu,0.2636,1000,29125,10380,0.3393,11,0.6979,0.4,54,850,1199,725,376,1147,1006
+156400,Emory University,Atlanta,GA,www.emory.edu,0.2682,1366,19000,40450,0.6659,21,0.4072,0.8892,55,51,179,197,15,700,55
+329000,Lincoln University,Lincoln University,PA,www.lincoln.edu,0.2716,862,31326.5,8047,1,21,0.014,0.4146,56,1205,1222,20,709,190,973
+727300,CUNY Bernard M Baruch College,New York,NY,www.baruch.cuny.edu,0.279,1235,11000,8733,0.4467,11,0.2503,0.656,57,127,23,112,574,1051,342
+202900,Tulane University of Louisiana,New Orleans,LA,tulane.edu,0.2795,1342,27000,21627,0.5755,11,0.7138,0.8293,58,59,1151,773,66,870,89
+186800,Grinnell College,Grinnell,IA,www.grinnell.edu,0.2801,1398,10876.5,23944,0.8402,33,0.5844,0.8939,59,35,19,434,52,423,51
+203900,Colby College,Waterville,ME,www.colby.edu,0.2805,1333,19195.5,19918,0.8296,33,0.601,0.9046,60,63,185,470,80,435,43
+710800,University of Puerto Rico-Rio Piedras,San Juan,PR,www.uprrp.edu,0.2817,1188,5500,12073,0.8747,11,0.0074,0.4698,61,181,3,16,262,362,831
+117400,Scripps College,Claremont,CA,www.scrippscollege.edu,0.284,1360,13749.5,28832,0.7168,21,0.4906,0.8685,63,52,43,281,37,607,67
+238300,Crown College,Saint Bonifacius,MN,www.crown.edu,0.284,1016,26259,3426,0.3056,41,0.7452,0.5714,63,757,870,857,1238,1175,543
+297400,University of North Carolina at Chapel Hill,Chapel Hill,NC,www.unc.edu,0.285,1328,16149,25710,0.8499,13,0.6517,0.9026,64,67,89,593,46,408,48
+702200,CUNY Lehman College,Bronx,NY,www.lehman.cuny.edu,0.2891,995,10000,9882,0.4649,11,0.0691,0.3708,65,874,15,60,432,1026,1063
+374500,University of Virginia-Main Campus,Charlottesville,VA,www.virginia.edu/,0.29,1357,19633,16988,0.937,23,0.6117,0.9416,66,53,215,498,102,292,17
+371400,Hampton University,Hampton,VA,www.hamptonu.edu,0.2906,999,27000,8563,1,12,0.0246,0.6647,67,855,1151,38,603,190,320
+328400,Lafayette College,Easton,PA,https://www.lafayette.edu/,0.2975,1300,25185,21109,0.8526,21,0.6819,0.9033,68,83,737,681,69,401,45
+169400,Chicago State University,Chicago,IL,www.csu.edu,0.2996,870,30269,15606,0.7487,11,0.0232,0.1915,69,1198,1205,34,123,551,1234
+222400,Wellesley College,Wellesley,MA,www.wellesley.edu,0.3011,1390,9000,34705,0.8564,21,0.4153,0.9144,70,38,9,201,22,394,34
+323800,Bucknell University,Lewisburg,PA,www.bucknell.edu,0.3072,1317,27000,20198,0.9766,32,0.7885,0.886,71,72,1151,994,78,233,58
+114300,California Polytechnic State University-San Luis Obispo,San Luis Obispo,CA,calpoly.edu,0.3089,1234,19166,9610,0.6649,23,0.5872,0.75,72,129,184,438,469,702,174
+125200,Hope International University,Fullerton,CA,www.hiu.edu,0.31,896,26000,6137,0.8444,21,0.3799,0.4943,73,1169,849,179,1035,418,761
+339600,Wilson College,Chambersburg,PA,www.wilson.edu,0.3128,976,27000,10092,0.94,13,0.6376,0.4138,74,945,1151,561,414,288,975
+374400,University of Richmond,University of Richmond,VA,www.richmond.edu,0.318,1337,19935,16287,0.6634,12,0.5901,0.8426,75,61,220,446,111,705,79
+219900,Northeastern University,Boston,MA,www.northeastern.edu,0.3222,1420,28501,15593,0.7385,11,0.4913,0.8162,76,29,1189,282,124,573,100
+232500,University of Michigan-Ann Arbor,Ann Arbor,MI,www.umich.edu,0.3224,1380,20495.5,22728,0.8135,12,0.6196,0.9087,77,44,253,520,58,463,39
+381900,Ohio Valley University,Vienna,WV,www.ovu.edu,0.3235,944,23250,5986,0.2558,13,0.6615,0.3465,78,1068,498,626,1062,1205,1105
+340900,Rhode Island School of Design,Providence,RI,www.risd.edu,0.3259,1254,27000,23184,0.3348,12,0.3193,0.8716,79,107,1151,140,54,1158,66
+308600,Oberlin College,Oberlin,OH,www.oberlin.edu,0.3272,1349,26000,28894,0.9122,31,0.6977,0.8781,80,55,849,724,36,321,61
+370500,College of William and Mary,Williamsburg,VA,www.wm.edu,0.3302,1373,19500,13546,0.8231,23,0.5895,0.9044,81,47,208,445,190,442,44
+342900,Columbia International University,Columbia,SC,www.ciu.edu,0.3322,1035,20750,6594,0.9231,12,0.721,0.6786,82,662,274,784,955,309,281
+131700,University of California-San Diego,La Jolla,CA,www.ucsd.edu,0.3329,1313,19000,24195,0.8368,11,0.2247,0.8618,83,77,179,102,51,426,71
+156900,Georgia Institute of Technology-Main Campus,Atlanta,GA,www.gatech.edu,0.3338,1400,24250,13216,0.9686,11,0.5308,0.8154,84,34,595,331,207,254,103
+195500,Berea College,Berea,KY,www.berea.edu,0.3366,1125,6056,14851,0.8586,32,0.6278,0.6223,85,313,4,538,145,390,422
+212800,Boston College,Chestnut Hill,MA,www.bc.edu,0.3391,1380,19000,20571,0.5956,13,0.6075,0.9131,86,44,179,489,72,836,35
+328900,Lehigh University,Bethlehem,PA,www.lehigh.edu,0.3427,1326,25000,20469,0.8161,13,0.6736,0.8739,87,69,731,662,76,461,64
+115100,San Diego State University,San Diego,CA,www.sdsu.edu,0.3448,1115,15998,6812,0.5229,11,0.3501,0.6599,88,334,81,156,909,940,334
+213000,Boston University,Boston,MA,www.bu.edu,0.3451,1300,27000,26542,0.6284,11,0.4564,0.847,89,83,1151,250,43,772,77
+268900,CUNY Hunter College,New York,NY,www.hunter.cuny.edu,0.3467,1160,10053,9116,0.3387,11,0.2954,0.5166,90,231,16,130,512,1149,698
+160600,Brigham Young University-Hawaii,Laie,HI,www.byuh.edu/,0.3486,1110,8291,12569,1,31,0.3739,0.5484,91,351,8,171,242,190,604
+213300,Brandeis University,Waltham,MA,www.brandeis.edu/,0.3522,1369,27000,14961,0.6506,13,0.4853,0.9085,92,50,1151,273,141,728,40
+386900,Mount Mary University,Milwaukee,WI,www.mtmary.edu/,0.3527,930,28134,7872,0.9155,11,0.4944,0.4943,93,1109,1183,285,729,317,761
+349503,Johnson University Florida,Kissimmee,FL,www.johnsonu.edu/florida,0.3533,940,20199,3929,1,21,0.7,0.3529,95,1082,240,731,1228,190,1097
+268700,CUNY Brooklyn College,Brooklyn,NY,www.brooklyn.cuny.edu,0.3533,1085,10456,8934,0.4573,11,0.3485,0.5023,95,441,18,155,547,1034,735
+153701,University of South Florida-St Petersburg,St. Petersburg,FL,www.usfsp.edu,0.3534,1162,19500,5642,0.9735,12,0.6751,0.3182,96,228,208,666,1103,236,1156
+278500,New York University,New York,NY,www.nyu.edu,0.3545,1344,23300,30237,0.4219,11,0.356,0.8301,97,57,501,159,31,1074,88
+113900,California State University-Long Beach,Long Beach,CA,www.csulb.edu,0.3546,1054,15446,7681,0.4885,11,0.1998,0.6517,99,556,67,93,764,995,350
+1014900,Pepperdine University,Malibu,CA,www.pepperdine.edu/,0.3546,1234,26500,11639,0.5633,21,0.4496,0.8412,99,129,885,239,289,888,81
+357600,Houston Baptist University,Houston,TX,www.hbu.edu,0.3573,1054,25000,6839,0.6261,11,0.2826,0.4458,100,556,731,125,903,780,899
+195100,Alice Lloyd College,Pippa Passes,KY,www.alc.edu,0.3617,1008,16495,4412,0.9032,43,0.9696,0.5132,101,807,95,1250,1207,328,711
+132000,University of California-Santa Barbara,Santa Barbara,CA,www.ucsb.edu,0.3634,1253,16800,11314,0.8347,22,0.3654,0.8129,102,109,104,166,302,429,106
+235800,Macalester College,Saint Paul,MN,www.macalester.edu,0.3635,1354,23747,19210,0.7787,11,0.6595,0.9017,103,54,542,618,87,504,49
+265400,New Mexico Institute of Mining and Technology,Socorro,NM,www.nmt.edu,0.3639,1193,16006,9260,0.6796,33,0.5587,0.4545,104,176,84,382,498,667,878
+1205900,Trinity Bible College,Ellendale,ND,trinitybiblecollege.edu/,0.3645,946,27592,4851,0.8519,43,0.783,0.3871,105,1064,1166,977,1181,405,1031
+134800,Colorado School of Mines,Golden,CO,www.mines.edu,0.3647,1333,26849,14527,0.8646,21,0.7525,0.7613,106,63,905,880,154,378,163
+223800,Andrews University,Berrien Springs,MI,www.andrews.edu,0.3688,1081,27750,12620,1,31,0.2732,0.5866,107,454,1171,120,241,190,506
+159600,Toccoa Falls College,Toccoa Falls,GA,www.tfc.edu,0.3705,970,23750,4983,0.5506,41,0.7757,0.5226,108,973,546,949,1174,902,685
+475900,CUNY York College,Jamaica,NY,www.york.cuny.edu,0.3713,900,9500,8699,0.3917,11,0.0663,0.29,109,1162,12,58,582,1100,1184
+269300,CUNY John Jay College of Criminal Justice,New York,NY,www.jjay.cuny.edu,0.3731,970,10092,8629,0.3514,11,0.2028,0.3857,110,973,17,96,594,1140,1035
+281400,Skidmore College,Saratoga Springs,NY,www.skidmore.edu/,0.3734,1241,19500,19668,0.7806,23,0.6286,0.8681,111,120,208,540,82,503,68
+133900,Corban University,Salem,OR,www.corban.edu,0.3738,1016,25000,5702,1,12,0.7868,0.5591,112,757,731,992,1089,190,569
+131400,University of California-Irvine,Irvine,CA,www.uci.edu/,0.3742,1168,17000,18713,0.8147,12,0.1607,0.8649,113,213,112,78,92,462,70
+280300,Rensselaer Polytechnic Institute,Troy,NY,www.rpi.edu,0.375,1372,27500,19069,0.8552,13,0.6172,0.8214,114,48,1164,512,88,396,94
+314100,Wilberforce University,Wilberforce,OH,www.wilberforce.edu,0.3754,735,18786,5631,0.2973,41,0.0027,0.3005,115,1249,158,7,1104,1178,1178
+302600,Central State University,Wilberforce,OH,www.centralstate.edu,0.3772,804,39793,6499,1,41,0.0139,0.2229,116,1238,1249,19,974,190,1221
+381000,Concord University,Athens,WV,www.concord.edu,0.3776,999,21200,5042,0.6667,32,0.8483,0.3371,117,855,296,1171,1171,698,1120
+2280900,Mid-Atlantic Christian University,Elizabeth City,NC,www.macuniversity.edu,0.3789,983,33500,4572,1,32,0.6564,0.3611,118,924,1236,607,1198,190,1079
+694100,Dallas Christian College,Dallas,TX,www.dallas.edu,0.3796,996,27121,5122,0.4231,21,0.4563,0.4,119,868,1154,248,1164,1072,1006
+268800,CUNY City College,New York,NY,www.ccny.cuny.edu,0.3806,1130,11551,13370,0.3997,11,0.1584,0.4415,122,291,24,76,199,1095,911
+350700,Memphis College of Art,Memphis,TN,www.mca.edu,0.3806,1025,33125,8870,0.3378,11,0.5781,0.5248,122,728,1231,419,553,1152,677
+364500,Texas Wesleyan University,Fort Worth,TX,www.txwes.edu,0.3806,984,25000,10124,0.5939,11,0.3085,0.403,122,921,731,137,409,841,1000
+153600,University of Miami,Coral Gables,FL,www.miami.edu/,0.3818,1330,21500,28897,0.7553,21,0.4257,0.8099,123,66,350,214,35,540,110
+302400,Case Western Reserve University,Cleveland,OH,www.case.edu,0.3831,1375,24250,30078,0.8101,11,0.5319,0.8113,124,46,595,334,33,467,109
+380900,Bluefield State College,Bluefield,WV,www.bluefieldstate.edu,0.3834,927,19500,6763,1,32,0.8437,0.337,125,1115,208,1162,921,190,1122
+290800,Barton College,Wilson,NC,www.barton.edu/,0.3846,962,27000,7130,0.7117,31,0.5842,0.4372,126,1011,1151,433,856,619,923
+270400,The College of New Rochelle,New Rochelle,NY,www.cnr.edu,0.3853,958,22175,5731,0.2472,21,0.0595,0.2897,127,1025,388,56,1085,1209,1185
+108600,University of Arkansas at Pine Bluff,Pine Bluff,AR,www.uapb.edu,0.3868,886,27728.5,7827,0.8194,13,0.0431,0.2721,128,1182,1168,50,739,450,1197
+321700,Reed College,Portland,OR,www.reed.edu,0.3873,1383,16000,22586,0.9689,11,0.591,0.7933,129,40,83,448,60,251,132
+243300,Rust College,Holly Springs,MS,www.rustcollege.edu,0.3885,760,25966,4765,0.9388,32,0.0042,0.1805,130,1247,799,12,1186,289,1238
+363000,Prairie View A & M University,Prairie View,TX,www.pvamu.edu,0.3913,850,28554,6662,0.8173,32,0.0437,0.3783,131,1217,1191,51,938,456,1047
+365800,The University of Texas at Austin,Austin,TX,www.utexas.edu,0.3966,1296,22159.5,16749,0.9071,11,0.4603,0.8064,132,87,387,256,106,325,115
+2328900,Emmaus Bible College,Dubuque,IA,www.emmaus.edu,0.3976,1018,17000,7013,0.8,13,0.7454,0.8197,133,750,112,859,871,478,96
+407215,Northwood University-Florida,West Palm Beach,FL,www.northwood.edu,0.3979,919,22750,7663,1,13,0.1779,0.2778,134,1129,445,84,767,190,1193
+269000,CUNY Queens College,Queens,NY,www.qc.cuny.edu,0.3982,1090,11000,8503,0.4037,11,0.3189,0.5664,135,419,23,139,613,1089,551
+138000,Western Connecticut State University,Danbury,CT,www.wcsu.edu,0.4003,981,24500,10530,0.898,13,0.6473,0.4289,136,931,617,581,364,334,949
+318500,University of Tulsa,Tulsa,OK,www.utulsa.edu,0.4026,1296,26000,15982,0.777,11,0.5495,0.7014,137,87,849,355,116,509,241
+243900,Tougaloo College,Tougaloo,MS,www.tougaloo.edu,0.403,864,32750,5457,0.7629,12,0.0045,0.5274,138,1203,1229,13,1127,526,669
+131300,University of California-Davis,Davis,CA,www.ucdavis.edu,0.4037,1226,14833,22820,0.852,23,0.2967,0.8321,139,137,53,131,57,404,86
+323700,Bryn Mawr College,Bryn Mawr,PA,www.brynmawr.edu,0.4047,1313,25000,27370,0.7328,21,0.3638,0.8169,140,77,731,164,39,582,98
+200400,Dillard University,New Orleans,LA,www.dillard.edu,0.4059,886,35000,12378,0.5271,11,0.0033,0.3642,142,1182,1239,9,251,930,1072
+228800,Rochester College,Rochester Hills,MI,www.rc.edu,0.4059,972,23529,5084,0.8182,21,0.5277,0.4455,142,953,529,328,1166,455,901
+121500,La Sierra University,Riverside,CA,www.lasierra.edu,0.4064,934,27000,11966,0.871,11,0.148,0.4967,143,1096,1151,74,267,367,751
+256700,York College,York,NE,www.york.edu/,0.4076,970,26540,5525,0.6154,33,0.6667,0.3661,144,973,887,642,1121,801,1069
+679100,SUNY at Purchase College,Purchase,NY,www.purchase.edu,0.4082,1095,22844,10439,0.3681,21,0.5549,0.6742,145,402,447,374,373,1120,291
+380300,Whitman College,Walla Walla,WA,www.whitman.edu,0.4101,1323,17500,19220,0.7854,13,0.7304,0.8728,146,71,128,811,86,497,65
+187100,Iowa Wesleyan University,Mount Pleasant,IA,www.iw.edu,0.4107,990,25538,10604,1,33,0.5983,0.3221,147,901,776,466,352,190,1145
+283800,Stony Brook University,Stony Brook,NY,www.stonybrook.edu,0.4134,1254,19351,20564,0.6131,21,0.3756,0.6857,148,107,188,173,74,804,270
+382600,West Virginia State University,Institute,WV,www.wvstateu.edu,0.4144,942,23250,7417,0.7117,22,0.5816,0.245,149,1073,498,426,811,619,1217
+395500,The University of West Florida,Pensacola,FL,uwf.edu,0.4167,1065,18750,6022,1,13,0.6625,0.5146,150,513,157,630,1053,190,705
+284600,State University of New York at New Paltz,New Paltz,NY,www.newpaltz.edu,0.4193,1122,19500,10550,0.5352,21,0.6504,0.7393,151,318,208,588,360,923,184
+124900,Occidental College,Los Angeles,CA,www.oxy.edu,0.4204,1300,23231.5,17405,0.7033,11,0.5111,0.8522,152,83,482,305,99,633,75
+106100,Alaska Pacific University,Anchorage,AK,www.alaskapacific.edu,0.4207,1054,23250,11261,0.5942,11,0.5309,0.6,153,556,498,332,307,840,468
+293600,Johnson C Smith University,Charlotte,NC,www.jcsu.edu,0.4225,808,31142,7593,0.6236,11,0.0036,0.4368,154,1235,1219,11,781,783,926
+897600,Clayton  State University,Morrow,GA,www.clayton.edu,0.4245,930,26250,5578,0.6736,21,0.189,0.3298,155,1109,869,88,1113,684,1129
+380600,Alderson Broaddus University,Philippi,WV,www.ab.edu/,0.4258,990,27000,5771,1,32,0.7354,0.4522,156,901,1151,826,1081,190,883
+314700,Bacone College,Muskogee,OK,www.bacone.edu,0.4296,845,26350,4240,0.3333,32,0.1917,0.1328,157,1221,875,89,1219,1159,1247
+298100,Western Carolina University,Cullowhee,NC,www.wcu.edu,0.4311,1035,21810,7845,0.7231,32,0.7965,0.5829,158,662,364,1020,736,596,519
+206800,Coppin State University,Baltimore,MD,www.coppin.edu,0.4312,880,19500,8576,0.5091,11,0.0147,0.1754,159,1187,208,24,601,968,1242
+398100,University of North Carolina School of the Arts,Winston-Salem,NC,www.uncsa.edu/,0.432,1116,26922.5,22850,0.7611,12,0.7289,0.5934,160,332,910,805,56,533,488
+295000,North Carolina Central University,Durham,NC,www.nccu.edu,0.4322,886,31000,10349,0.7201,12,0.0623,0.4678,161,1182,1218,57,380,599,838
+349900,Lane College,Jackson,TN,www.lanecollege.edu,0.4327,762,33170,4728,0.9545,13,0,0.3189,162,1245,1232,2,1189,271,1152
+201500,University of New Orleans,New Orleans,LA,www.uno.edu,0.4357,1082,16989,8102,0.7423,11,0.5531,0.3372,164,448,108,369,700,563,1119
+260900,Rowan University,Glassboro,NJ,www.rowan.edu,0.4357,1103,21500,16320,0.3008,21,0.7123,0.667,164,382,350,769,110,1176,312
+142800,Delaware State University,Dover,DE,www.desu.edu,0.4374,894,28500,11129,0.6088,13,0.1125,0.4258,165,1172,1188,69,312,808,957
+342400,Claflin University,Orangeburg,SC,www.claflin.edu,0.4377,806,29600,7699,0.7093,32,0.0146,0.4924,166,1237,1202,22,759,624,765
+263900,Stevens Institute of Technology,Hoboken,NJ,www.stevens.edu,0.4378,1346,27532.5,13732,1,21,0.6397,0.821,167,56,1165,564,183,190,95
+144400,George Washington University,Washington,DC,www.gwu.edu,0.4379,1297,25350,20938,0.4827,11,0.5835,0.7938,168,84,749,432,71,1003,130
+152100,Southeastern University,Lakeland,FL,www.seu.edu/,0.4394,965,22500,4482,0.9928,13,0.6056,0.4247,169,998,427,483,1203,198,961
+200600,Grambling State University,Grambling,LA,www.gram.edu,0.4395,868,37524,5199,0.9237,32,0.0148,0.3017,170,1199,1244,25,1157,307,1175
+283600,SUNY at Binghamton,Vestal,NY,www.binghamton.edu,0.4406,1287,20000,11395,0.6888,22,0.5498,0.8093,171,91,235,357,299,654,111
+104700,Troy University,Troy,AL,www.troy.edu,0.4414,1050,25000,5643,0.385,41,0.5132,0.3498,172,594,731,310,1102,1108,1102
+194500,Sterling College,Sterling,KS,www.sterling.edu,0.4437,978,25500,4448,0.5909,42,0.689,0.3933,173,939,773,699,1204,849,1020
+375300,Virginia Military Institute,Lexington,VA,www.vmi.edu,0.444,1162,24100,12896,0.9848,32,0.8141,0.7084,174,228,578,1074,225,214,227
+113700,California State University-Fullerton,Fullerton,CA,www.fullerton.edu,0.4447,1021,14944,7739,0.4618,21,0.2397,0.5572,175,740,55,108,751,1030,572
+254700,Grace University,Omaha,NE,https://www.graceuniversity.edu/,0.4462,1064,17625,10440,0.4366,11,0.7261,0.5484,176,519,130,797,372,1060,604
+148800,Florida Southern College,Lakeland,FL,www.flsouthern.edu,0.4481,1147,24873,6879,1,13,0.7232,0.6499,177,253,633,793,893,190,355
+206700,Washington Adventist University,Takoma Park,MD,www.wau.edu,0.4492,854,27000,10322,0.2827,21,0.0987,0.398,178,1211,1151,66,383,1187,1012
+123600,Menlo College,Atherton,CA,www.menlo.edu,0.4506,995,22746.5,7655,0.2772,21,0.3354,0.4331,179,874,439,148,769,1189,934
+396900,University of Minnesota-Twin Cities,Minneapolis,MN,www1.umn.edu/twincities/index.php,0.4535,1271,20500,13558,0.8302,11,0.7037,0.784,180,99,268,741,189,434,140
+266300,University of New Mexico-Main Campus,Albuquerque,NM,www.unm.edu,0.4538,1060,19576,11745,0.7115,11,0.3621,0.4778,181,528,211,163,277,621,809
+232200,Finlandia University,Hancock,MI,www.finlandia.edu,0.4545,910,27500,8519,0.6029,33,0.7004,0.3571,182,1148,1164,733,610,821,1090
+339900,York College Pennsylvania,York,PA,www.ycp.edu,0.4549,1050,26247,8285,0.3539,22,0.8256,0.6071,183,594,861,1103,679,1135,458
+2069000,New York School of Interior Design,New York,NY,www.nysid.edu,0.4551,940,24000,19412,0.0574,11,0.4844,0.6667,184,1082,572,272,83,1249,317
+153500,University of Florida,Gainesville,FL,www.ufl.edu/,0.4561,1273,15000,15962,0.8494,12,0.5783,0.8751,186,97,61,420,117,410,63
+677100,College for Creative Studies,Detroit,MI,www.collegeforcreativestudies.edu,0.4561,1010,27000,11285,1,11,0.585,0.6239,186,795,1151,436,304,190,418
+196000,Spalding University,Louisville,KY,www.spalding.edu,0.4571,967,25000,7192,0.5372,21,0.665,0.3824,187,987,731,637,853,921,1044
+349400,Hiwassee College,Madisonville,TN,www.hiwassee.edu,0.4575,843,12500,3784,0.3571,41,0.7821,0.1765,188,1223,34,971,1231,1132,1241
+143400,American University,Washington,DC,WWW.AMERICAN.EDU,0.4584,1252,24589,12620,0.5841,11,0.5765,0.8166,189,110,619,418,241,861,99
+294800,Montreat College,Montreat,NC,www.montreat.edu,0.4606,1016,27498,4666,1,21,0.5734,0.3729,190,757,1160,408,1193,190,1057
+295600,Piedmont International University,Winston-Salem,NC,www.piedmontu.edu,0.4607,937,20427,3805,0.6154,12,0.6684,0.3778,191,1089,250,643,1230,801,1049
+146600,Barry University,Miami,FL,www.barry.edu,0.4611,938,28250,9969,0.4308,21,0.2004,0.3596,193,1085,1185,94,424,1065,1081
+212400,Bentley University,Waltham,MA,www.bentley.edu,0.4611,1247,27000,13120,0.6282,13,0.6048,0.8816,193,113,1151,480,212,774,60
+356000,Dallas Baptist University,Dallas,TX,www.dbu.edu,0.4621,1075,22638,8737,1,11,0.6101,0.546,194,475,431,492,571,190,612
+1039500,University of San Diego,San Diego,CA,www.sandiego.edu,0.4625,1243,22750,13897,0.4862,11,0.5421,0.7673,195,119,445,344,176,1001,157
+348500,Cumberland University,Lebanon,TN,www.cumberland.edu,0.4642,1044,21875,5404,0.3758,31,0.6504,0.3711,196,624,368,588,1135,1116,1061
+121600,University of La Verne,La Verne,CA,www.laverne.edu/,0.4656,1014,24894,6518,0.3607,21,0.2389,0.5859,198,765,635,106,971,1127,509
+381300,Glenville State College,Glenville,WV,www.glenville.edu,0.4656,900,26000,6565,0.6147,33,0.7054,0.3223,198,1162,849,748,961,802,1144
+303500,Ohio Dominican University,Columbus,OH,www.ohiodominican.edu,0.4657,1005,28713,5335,1,11,0.6067,0.4326,199,824,1193,486,1146,190,935
+285800,Farmingdale State College,Farmingdale,NY,www.farmingdale.edu/,0.4665,982,15958.5,9828,0.3061,21,0.6044,0.4461,200,927,79,478,442,1174,898
+965100,Texas A & M International University,Laredo,TX,www.tamiu.edu/,0.467,906,14929,5524,0.6395,12,0.0186,0.454,201,1154,54,27,1122,744,879
+695100,University of South Carolina-Upstate,Spartanburg,SC,www.uscupstate.edu,0.4682,947,23000,6624,0.9678,22,0.5667,0.3842,202,1058,472,403,949,257,1037
+294900,University of Mount Olive,Mount Olive,NC,www.umo.edu,0.4685,902,27250,2935,1,31,0.4862,0.425,203,1158,1157,275,1245,190,959
+367000,Brigham Young University-Provo,Provo,UT,www.byu.edu,0.47,1290,11000,15124,0.747,12,0.832,0.7902,204,90,23,1123,135,554,135
+116400,Chapman University,Orange,CA,www.chapman.edu,0.4704,1210,21000,14025,1,12,0.6049,0.7448,205,157,289,481,171,190,176
+373800,Southern Virginia University,Buena Vista,VA,www.svu.edu,0.4707,1056,24185,6590,1,32,0.7838,0.3128,206,543,585,980,957,190,1163
+295500,Pfeiffer University,Misenheimer,NC,www.pfeiffer.edu,0.4723,948,24000,6953,0.6038,42,0.551,0.349,207,1055,572,362,880,818,1103
+371300,Hampden-Sydney College,Hampden-Sydney,VA,www.hsc.edu,0.4727,1098,26848.5,13194,0.9217,42,0.8163,0.6731,208,396,904,1080,208,311,296
+154400,Albany State University,Albany,GA,www.asurams.edu/,0.4729,875,32555,6772,0.894,13,0.0485,0.3962,209,1190,1227,53,916,339,1014
+350900,University of Memphis,Memphis,TN,www.memphis.edu,0.474,1029,25250,9720,0.6618,11,0.5058,0.44,211,713,747,296,450,707,914
+385000,Silver Lake College of the Holy Family,Manitowoc,WI,www.sl.edu/,0.474,820,26212,7713,0.381,32,0.625,0.3939,211,1230,859,527,756,1112,1018
+125800,Pacific Union College,Angwin,CA,www.puc.edu,0.4744,1017,28500,10227,0.8818,41,0.2786,0.4559,212,751,1188,123,394,348,872
+194300,University of Saint Mary,Leavenworth,KS,www.stmary.edu,0.475,1002,24000,7833,1,31,0.6178,0.3451,213,837,572,515,737,190,1108
+170800,Lincoln Christian University,Lincoln,IL,www.lincolnchristian.edu,0.4758,1006,22750,5688,0.9773,32,0.8047,0.5747,214,814,445,1046,1091,232,537
+196800,Kentucky State University,Frankfort,KY,www.kysu.edu,0.4769,883,30982,7500,0.8601,32,0.2532,0.1979,215,1186,1211,114,793,387,1230
+196500,Kentucky Christian University,Grayson,KY,www.kcu.edu,0.4774,966,26500,5343,1,32,0.6344,0.3438,216,991,885,553,1143,190,1110
+2169100,Davis College,Johnson City,NY,www.davisny.edu/,0.4779,954,21000,3164,0.1944,22,0.7024,0.3269,217,1030,289,738,1242,1235,1136
+370400,Bridgewater College,Bridgewater,VA,www.bridgewater.edu/about-us,0.4782,1056,27000,5651,0.7917,23,0.7568,0.6107,218,543,1151,893,1098,484,455
+356500,Texas A & M University-Commerce,Commerce,TX,www.tamuc.edu/,0.4784,909,20250,7619,0.831,32,0.5113,0.5185,219,1150,248,306,775,433,693
+284900,SUNY College at Plattsburgh,Plattsburgh,NY,www.plattsburgh.edu,0.4786,1031,22000,11263,0.5909,32,0.6926,0.6117,220,685,381,711,306,849,450
+103300,Oakwood University,Huntsville,AL,www.oakwood.edu,0.4787,928,27250,7701,1,12,0.0059,0.4371,221,1113,1157,14,757,190,925
+789300,Flagler College-St Augustine,Saint Augustine,FL,www.flagler.edu,0.4788,1058,23677.5,5649,0.4638,23,0.7387,0.5845,222,534,536,837,1099,1028,514
+210300,University of Maryland-College Park,College Park,MD,www.umd.edu,0.4793,1315,19500,13487,0.7758,21,0.5251,0.8475,223,74,208,323,194,511,76
+272200,Fordham University,Bronx,NY,www.fordham.edu,0.4812,1254,25000,14019,1,11,0.6039,0.8002,224,107,731,477,172,190,124
+284800,SUNY College at Oswego,Oswego,NY,www.oswego.edu/,0.4837,1106,22500,10636,0.5752,32,0.7777,0.6328,225,364,427,957,349,871,390
+157500,Gordon State College,Barnesville,GA,www.gordonstate.edu,0.4839,859,16807.5,4104,0.6182,32,0.5199,0.1295,226,1208,105,315,1224,794,1248
+144800,Howard University,Washington,DC,www.howard.edu,0.4841,1105,27000,22663,1,11,0.0144,0.6032,227,375,1151,21,59,190,462
+228400,Marygrove College,Detroit,MI,www.marygrove.edu,0.4842,800,35500,7473,0.8875,11,0.1657,0.1818,230,1240,1241,79,797,344,1237
+353600,Bryan College-Dayton,Dayton,TN,www.bryan.edu,0.4842,1065,18625,4227,0.3985,32,0.8648,0.5258,230,513,149,1198,1221,1096,675
+364700,Trinity University,San Antonio,TX,www.trinity.edu,0.4842,1281,21967,20116,0.7882,11,0.5623,0.8122,230,94,374,392,79,489,107
+362000,Southwestern University,Georgetown,TX,www.southwestern.edu,0.4852,1159,26278,12803,0.7012,21,0.6458,0.7307,231,233,872,576,229,639,191
+160100,University of West Georgia,Carrollton,GA,www.westga.edu,0.4861,950,24250,6635,0.8379,31,0.5208,0.4084,232,1046,595,319,947,425,988
+663900,Bellin College,Green Bay,WI,www.bellincollege.edu,0.4865,1050,15250,7700,0.85,41,0.9508,0.6429,233,594,65,1248,758,407,368
+150900,Nova Southeastern University,Fort Lauderdale,FL,www.nova.edu,0.4881,1143,25250,11457,0.3767,21,0.3234,0.4611,234,267,747,142,296,1114,856
+363600,Texas Christian University,Fort Worth,TX,www.tcu.edu/,0.4887,1207,22000,14768,0.9844,11,0.74,0.7545,235,161,381,840,147,217,170
+148000,Florida Agricultural and Mechanical University,Tallahassee,FL,www.famu.edu,0.4895,948,27750,9739,0.9971,12,0.0329,0.3957,237,1055,1171,43,448,192,1015
+284100,SUNY College at Brockport,Brockport,NY,www.brockport.edu,0.4895,1056,21500,11647,0.551,31,0.7232,0.6811,237,543,350,793,285,901,275
+264200,The College of New Jersey,Ewing,NJ,www.tcnj.edu,0.4897,1213,23250,11128,0.447,21,0.6563,0.8664,238,153,498,605,313,1050,69
+292600,Elizabeth City State University,Elizabeth City,NC,www.ecsu.edu,0.49,866,26000,9039,1,32,0.1446,0.3915,239,1202,849,73,524,190,1025
+190500,Bethel College-North Newton,North Newton,KS,www.bethelks.edu,0.491,1000,26050,7887,0.4933,32,0.706,0.5763,240,850,852,751,727,989,535
+156300,Emmanuel College,Franklin Springs,GA,www.ec.edu,0.4912,960,27000,4819,0.5663,32,0.7056,0.4524,241,1017,1151,750,1183,884,881
+214600,Emerson College,Boston,MA,www.emerson.edu,0.4918,1244,24000,9633,0.432,11,0.6657,0.7966,242,117,572,639,466,1064,129
+105000,Tuskegee University,Tuskegee,AL,www.tuskegee.edu,0.4922,978,33500,14344,0.9711,32,0.0035,0.4723,243,939,1236,10,161,242,824
+195800,Brescia University,Owensboro,KY,www.brescia.edu,0.4927,1039,30500,6483,0.4286,13,0.669,0.2566,244,639,1209,646,978,1068,1209
+338800,Villanova University,Villanova,PA,www.villanova.edu,0.4933,1313,26352,15732,0.6186,21,0.7566,0.8937,245,77,876,890,120,793,52
+132600,Santa Clara University,Santa Clara,CA,www.scu.edu,0.4935,1309,20500,12668,0.5852,12,0.4841,0.8525,246,79,268,271,236,857,74
+358400,LeTourneau University,Longview,TX,www.letu.edu,0.494,1177,28000,8285,0.4791,13,0.6571,0.5147,247,201,1181,609,679,1005,704
+206500,Notre Dame of Maryland University,Baltimore,MD,www.ndm.edu,0.4946,1048,27000,10387,0.4706,11,0.5681,0.581,248,609,1151,405,375,1018,525
+359800,Our Lady of the Lake University,San Antonio,TX,www.ollusa.edu,0.4952,941,25000,8470,0.3377,11,0.133,0.3758,249,1078,731,70,625,1153,1052
+395400,University of Central Florida,Orlando,FL,www.ucf.edu/,0.4961,1185,18350,5687,0.9739,21,0.5519,0.697,250,188,144,366,1092,234,248
+190800,Central Christian College of Kansas,McPherson,KS,www.centralchristian.edu,0.4963,966,23375,3250,0.2653,33,0.4294,0.3922,251,991,510,218,1240,1194,1024
+176800,Saint Xavier University,Chicago,IL,WWW.SXU.EDU,0.4964,1008,24250,8417,0.4485,11,0.484,0.5448,252,807,595,270,637,1046,618
+361900,Southwestern Adventist University,Keene,TX,www.swau.edu/,0.4965,905,25000,10119,0.5435,31,0.241,0.4018,253,1155,731,109,410,913,1002
+348200,Christian Brothers University,Memphis,TN,www.cbu.edu,0.4971,1105,26500,6825,1,11,0.4466,0.553,254,375,885,230,906,190,588
+167400,Eastern Illinois University,Charleston,IL,https://www.eiu.edu/,0.4976,1010,23250,13142,0.817,32,0.6974,0.5947,255,795,498,723,211,458,484
+186600,Graceland University-Lamoni,Lamoni,IA,www.graceland.edu,0.4984,938,24900,7762,1,43,0.641,0.5408,256,1085,636,566,747,190,628
+284700,SUNY Oneonta,Oneonta,NY,www.oneonta.edu,0.4988,1086,22500,8942,0.5606,33,0.7894,0.7338,257,436,427,998,544,890,189
+141700,University of Connecticut,Storrs,CT,uconn.edu/,0.4996,1246,21500,22554,0.9636,21,0.6168,0.809,258,114,350,510,62,259,112
+160400,Young Harris College,Young Harris,GA,www.yhc.edu,0.5029,990,26000,8794,0.6378,43,0.7636,0.4619,260,901,849,914,563,748,853
+332900,Pennsylvania State University-Main Campus,University Park,PA,www.psu.edu/,0.5029,1196,27000,17872,0.7536,13,0.7053,0.8611,260,169,1151,747,97,542,72
+292800,Fayetteville State University,Fayetteville,NC,www.uncfsu.edu,0.5032,892,21278,8035,0.9845,12,0.1746,0.346,261,1173,304,83,710,215,1106
+244700,William Carey University,Hattiesburg,MS,www.wmcarey.edu,0.5042,1080,21376.5,6703,0.5594,13,0.6008,0.5846,262,457,311,469,931,891,513
+353700,Abilene Christian University,Abilene,TX,www.acu.edu,0.5047,1091,25985,8741,0.8667,12,0.6739,0.62,263,410,800,665,570,375,429
+154000,Webber International University,Babson Park,FL,www.webber.edu,0.5056,950,21562,2949,1,31,0.3916,0.3012,265,1046,353,185,1244,190,1176
+166400,University of St Francis,Joliet,IL,www.stfrancis.edu,0.5056,1064,25000,5821,0.9018,21,0.6894,0.5616,265,519,731,701,1076,330,563
+169100,Illinois Institute of Technology,Chicago,IL,www.iit.edu,0.506,1266,27000,12262,0.5384,11,0.3326,0.6523,266,100,1151,145,256,919,349
+173700,Northern Illinois University,Dekalb,IL,www.niu.edu,0.5089,1030,23347,12837,0.7776,23,0.5811,0.4961,267,703,505,423,228,507,754
+342700,Coker College,Hartsville,SC,www.coker.edu,0.509,992,30112,6067,1,32,0.5185,0.4934,268,881,1204,314,1043,190,764
+105100,The University of Alabama,Tuscaloosa,AL,www.ua.edu/,0.5105,1185,23750,10239,0.7045,13,0.7825,0.6566,269,188,546,973,392,630,340
+285100,SUNY College of Environmental Science and Forestry,Syracuse,NY,www.esf.edu,0.5113,1193,20450,15092,0.7365,12,0.8359,0.6774,270,176,251,1135,137,577,283
+238200,St Olaf College,Northfield,MN,wp.stolaf.edu,0.5128,1292,27000,16837,0.7167,32,0.7662,0.8881,271,89,1151,923,105,608,57
+342500,Clemson University,Clemson,SC,www.clemson.edu,0.5152,1261,21830.5,11952,0.8454,21,0.8348,0.8231,272,103,365,1130,268,416,92
+297200,North Carolina State University at Raleigh,Raleigh,NC,www.ncsu.edu,0.516,1253,20500,13745,0.8801,11,0.7467,0.7498,273,109,268,869,181,351,175
+3941300,Ave Maria University,Ave Maria,FL,www.avemaria.edu,0.517,1085,22500,9458,0.9851,42,0.6663,0.4133,274,441,427,641,479,213,977
+104100,Spring Hill College,Mobile,AL,www.shc.edu,0.5177,1116,27000,7460,0.6822,12,0.6733,0.5814,275,332,1151,661,802,664,524
+114400,California State Polytechnic University-Pomona,Pomona,CA,www.cpp.edu,0.5187,1074,18500,7308,0.4892,21,0.2023,0.5638,276,480,148,95,832,994,558
+153800,The University of Tampa,Tampa,FL,www.ut.edu,0.5188,1094,26000,5784,1,11,0.5946,0.6238,277,405,849,459,1080,190,419
+154700,Point University,West Point,GA,point.edu,0.5189,917,30638,5833,0.1782,32,0.3989,0.3678,278,1134,1210,189,1072,1239,1066
+364200,Texas Southern University,Houston,TX,www.tsu.edu,0.5192,812,31000,9693,0.7176,11,0.019,0.1615,279,1231,1218,29,457,604,1245
+244900,Avila University,Kansas City,MO,www.Avila.edu,0.5198,1038,26625,6966,0.3571,11,0.6101,0.4863,280,646,892,492,878,1132,775
+343600,Limestone College,Gaffney,SC,www.limestone.edu,0.52,1020,28750,5196,1,31,0.4245,0.2838,281,745,1194,213,1158,190,1188
+256300,Union College,Lincoln,NE,www.ucollege.edu,0.5214,1030,27000,10177,0.9306,11,0.5957,0.4938,282,703,1151,461,403,301,762
+220800,Simmons College,Boston,MA,www.simmons.edu,0.5216,1170,26250,13365,0.3197,11,0.6752,0.6692,283,210,869,667,200,1165,306
+324300,Cedar Crest College,Allentown,PA,www.cedarcrest.edu,0.5233,1005,29183,9713,0.4022,12,0.671,0.6907,284,824,1200,651,452,1091,259
+2106400,O'More College of Design,Franklin,TN,www.omorecollege.edu,0.5234,1050,27250,8418,0.2558,13,0.7396,0.8113,285,594,1157,839,635,1205,109
+361300,Southern Methodist University,Dallas,TX,www.smu.edu,0.524,1316,22500,16035,0.6689,21,0.6579,0.7702,286,73,427,614,115,690,156
+363100,Tarleton State University,Stephenville,TX,www.tarleton.edu,0.5254,961,20500,6957,0.5425,33,0.7081,0.4466,287,1014,268,757,879,915,895
+100200,Alabama A & M University,Normal,AL,www.aamu.edu/,0.5256,827,33888,7437,0.8967,12,0.0333,0.3525,288,1227,1237,44,805,336,1098
+319100,Concordia University-Portland,Portland,OR,www.cu-portland.edu,0.5262,1037,25000,2545,0.1507,11,0.6533,0.55,289,652,731,597,1246,1242,596
+285300,SUNY Maritime College,Throggs Neck,NY,www.sunymaritime.edu,0.5265,1106,26500,11637,0.6224,11,0.7241,0.4672,290,364,885,795,290,786,840
+1164900,Loyola Marymount University,Los Angeles,CA,www.lmu.edu,0.5271,1218,22500,15175,0.5248,11,0.4672,0.7776,291,144,427,259,132,935,150
+963500,Florida International University,Miami,FL,www.fiu.edu,0.5278,1089,17250,6843,0.9811,21,0.0952,0.5419,292,425,117,64,902,223,627
+193900,Newman University,Wichita,KS,www.newmanu.edu,0.5281,1076,20216.5,4415,1,11,0.6641,0.4783,293,471,241,634,1205,190,807
+115300,California State University-Northridge,Northridge,CA,www.csun.edu,0.5286,914,15000,6730,0.4445,11,0.2446,0.4676,294,1138,61,111,929,1052,839
+214500,Eastern Nazarene College,Quincy,MA,www.enc.edu,0.5287,918,24362,6285,0.2883,21,0.5323,0.4663,295,1131,600,335,1013,1184,844
+248000,Lindenwood University,Saint Charles,MO,www.lindenwood.edu,0.5288,1038,27000,4135,1,13,0.6027,0.4972,296,646,1151,474,1223,190,749
+147800,Edward Waters College,Jacksonville,FL,www.ewc.edu,0.5295,825,32550.5,4413,0.6173,11,0.0367,0.1957,297,1229,1226,45,1206,798,1231
+309000,Ohio State University-Main Campus,Columbus,OH,www.osu.edu/,0.5296,1292,21959.5,16075,0.657,11,0.7194,0.835,298,89,373,780,114,716,85
+279800,Pratt Institute-Main,Brooklyn,NY,www.pratt.edu,0.5299,1141,26691,14711,0.146,11,0.4137,0.6369,299,270,893,199,149,1243,383
+337900,University of Pittsburgh-Pittsburgh Campus,Pittsburgh,PA,www.pitt.edu,0.5312,1275,26813.5,16522,0.7472,11,0.7571,0.8185,300,95,903,895,108,553,97
+1026600,Hillsdale Free Will Baptist College,Moore,OK,www.hc.edu,0.5313,940,19000,4695,0.339,21,0.5664,0.3188,301,1082,179,401,1191,1148,1153
+153700,University of South Florida-Main Campus,Tampa,FL,www.usf.edu,0.5316,1162,19500,8841,0.9514,11,0.5279,0.6719,302,228,208,329,558,276,300
+284400,SUNY at Fredonia,Fredonia,NY,www.fredonia.edu,0.5322,1056,24750,10948,0.548,32,0.7839,0.6695,303,543,628,982,326,909,305
+288200,Syracuse University,Syracuse,NY,syr.edu/,0.5323,1184,27000,15192,0.6722,12,0.5534,0.8035,304,190,1151,371,131,685,120
+100500,Alabama State University,Montgomery,AL,www.alasu.edu,0.5326,851,33118.5,7618,0.6539,12,0.0158,0.2632,306,1215,1230,26,776,723,1202
+295100,North Carolina Wesleyan College,Rocky Mount,NC,www.ncwc.edu,0.5326,923,22555,5527,0.1978,13,0.2994,0.3519,306,1123,429,133,1120,1232,1100
+1055400,Concordia College Alabama,Selma,AL,www.ccal.edu/,0.5328,942,32000,6755,0.6389,32,0.028,0.25,307,1073,1224,40,923,745,1216
+934400,Ramapo College of New Jersey,Mahwah,NJ,www.ramapo.edu,0.5332,1082,22500,9581,0.9169,21,0.6347,0.7241,308,448,427,554,470,315,199
+301800,Bowling Green State University-Main Campus,Bowling Green,OH,www.bgsu.edu,0.5337,1012,26000,8710,0.7012,31,0.7748,0.5525,309,767,849,945,577,639,589
+101200,Birmingham Southern College,Birmingham,AL,www.bsc.edu/,0.5339,1181,27000,10658,0.6419,12,0.7983,0.6422,310,196,1151,1025,346,739,369
+157700,Kennesaw State University,Kennesaw,GA,www.kennesaw.edu,0.5345,1076,22750,6167,0.5656,21,0.6082,0.4263,311,471,445,490,1029,886,955
+332800,West Chester University of Pennsylvania,West Chester,PA,www.wcupa.edu,0.5348,1079,23875,7851,0.7163,21,0.7957,0.6707,313,461,551,1018,735,610,303
+343100,Converse College,Spartanburg,SC,www.converse.edu,0.5348,1045,27000,6560,0.9419,13,0.6277,0.6026,313,619,1151,536,963,285,463
+251200,Stephens College,Columbia,MO,www.stephens.edu,0.536,1064,27000,9552,0.9804,12,0.6852,0.491,314,519,1151,693,474,224,768
+202500,Southern University and A & M College,Baton Rouge,LA,www.subr.edu,0.5365,910,31271.5,6523,0.9412,12,0.0244,0.3211,315,1148,1221,37,970,287,1147
+344500,Presbyterian College,Clinton,SC,https://www.presby.edu,0.5372,1090,25875,10008,0.9714,32,0.8062,0.6502,316,419,794,1051,421,240,354
+3440300,Baptist Memorial College of Health Sciences,Memphis,TN,www.bchs.edu,0.5373,1110,30000,9268,0.9877,11,0.5158,0.4314,317,351,1203,312,497,208,943
+166600,Concordia University-Chicago,River Forest,IL,www.cuchicago.edu,0.5385,1031,25000,8701,0.6045,21,0.5533,0.5783,318,685,731,370,581,817,530
+292700,Elon University,Elon,NC,www.elon.edu,0.5393,1225,23951,15016,0.7301,22,0.8222,0.8062,319,138,553,1096,138,586,116
+159400,Spelman College,Atlanta,GA,www.spelman.edu,0.54,1005,26996,10845,0.7377,11,5E-04,0.7407,321,824,915,5,333,576,180
+179900,Goshen College,Goshen,IN,www.goshen.edu,0.54,1109,20671,11031,0.7128,13,0.6769,0.7209,321,356,272,670,318,614,205
+159900,Valdosta State University,Valdosta,GA,www.valdosta.edu,0.5414,1018,25247,6493,0.7966,13,0.5208,0.3913,322,750,740,319,976,479,1027
+208000,Maryland Institute College of Art,Baltimore,MD,www.mica.edu,0.5416,1165,27000,13752,0.2585,11,0.5218,0.722,323,221,1151,320,180,1200,202
+285400,SUNY College of Technology at Alfred,Alfred,NY,www.alfredstate.edu,0.5424,982,14750,10105,0.7325,33,0.7957,0.4791,324,927,52,1018,412,583,804
+354300,Austin College,Sherman,TX,www.austincollege.edu,0.5438,1159,26000,12064,0.9583,13,0.555,0.7642,325,233,849,375,264,265,160
+201100,Louisiana State University-Alexandria,Alexandria,LA,www.lsua.edu,0.5455,987,16021.5,7243,0.5878,41,0.717,0.2059,326,909,85,775,844,855,1228
+173500,North Park University,Chicago,IL,www.northpark.edu,0.5461,1025,26500,6923,1,11,0.4984,0.5338,327,728,885,287,887,190,647
+385400,Lakeland College,Plymouth,WI,www.lakeland.edu,0.547,949,26915,5134,0.1667,41,0.655,0.5311,328,1049,908,601,1162,1241,656
+174800,Rockford University,Rockford,IL,www.rockford.edu,0.548,1009,25700,6256,0.419,12,0.6706,0.4463,329,803,783,650,1018,1078,896
+132900,University of the Pacific,Stockton,CA,www.pacific.edu,0.549,1185,23370,18824,0.5428,11,0.2985,0.6057,330,188,508,132,90,914,460
+178500,Anderson University,Anderson,IN,www.anderson.edu,0.5491,1048,27000,8594,1,13,0.7996,0.6278,331,609,1151,1029,600,190,403
+182400,Oakland City University,Oakland City,IN,www.oak.edu,0.5504,960,16973,6119,0.3462,32,0.7273,0.5992,332,1017,107,799,1037,1144,470
+206200,Bowie State University,Bowie,MD,www.bowiestate.edu,0.5506,867,22927,6933,0.5208,21,0.0239,0.3268,333,1200,453,36,884,944,1137
+379800,University of Washington-Seattle Campus,Seattle,WA,www.washington.edu,0.5521,1240,15797,24561,0.7179,11,0.4332,0.8373,334,123,75,223,50,602,83
+156100,Columbus State University,Columbus,GA,www.columbusstate.edu,0.5522,976,25039,7509,0.606,12,0.5206,0.3241,335,945,732,317,792,813,1140
+157800,LaGrange College,Lagrange,GA,www.lagrange.edu,0.5525,1035,27000,12322,1,32,0.6922,0.5321,336,662,1151,709,255,190,650
+185400,Coe College,Cedar Rapids,IA,www.coe.edu,0.553,1146,27000,12068,0.6,12,0.7652,0.7038,337,256,1151,921,263,829,237
+354500,Baylor University,Waco,TX,www.baylor.edu,0.5536,1227,25131,14139,0.809,12,0.6402,0.722,338,135,736,565,167,468,202
+148900,Florida State University,Tallahassee,FL,www.fsu.edu,0.5539,1228,20887,9688,0.8261,12,0.6576,0.7913,339,134,280,612,458,439,134
+1203100,San Diego Christian College,Santee,CA,www.sdcc.edu,0.555,992,20000,7034,0.2459,21,0.4574,0.4364,340,881,235,252,868,1211,928
+2159600,The Baptist College of Florida,Graceville,FL,www.baptistcollege.edu,0.5556,962,20052,6018,1,32,0.7996,0.4694,341,1011,236,1029,1054,190,833
+348600,Lipscomb University,Nashville,TN,www.lipscomb.edu,0.5558,1175,20500,9956,0.9796,11,0.7663,0.6189,342,206,268,924,425,226,432
+168400,Greenville College,Greenville,IL,www.greenville.edu,0.5568,1056,21500,7370,0.9412,32,0.7592,0.4754,343,543,350,900,819,287,814
+132100,University of California-Santa Cruz,Santa Cruz,CA,www.ucsc.edu/,0.5572,1149,19884,8835,0.6955,13,0.3465,0.7734,345,248,219,153,560,646,154
+159800,University of Georgia,Athens,GA,www.uga.edu,0.5572,1248,19000,8634,0.8847,12,0.7228,0.8462,345,112,179,790,592,346,78
+203100,University of Louisiana at Lafayette,Lafayette,LA,www.louisiana.edu,0.558,1070,20250,5433,0.8079,12,0.6774,0.4836,346,498,248,672,1131,470,786
+283500,SUNY at Albany,Albany,NY,www.albany.edu,0.5584,1098,21489.5,13815,0.5671,13,0.5126,0.6601,347,396,317,309,179,883,333
+364100,Texas Lutheran University,Seguin,TX,www.tlu.edu,0.5587,1020,27000,8384,0.6667,31,0.5441,0.4394,348,745,1151,345,646,698,917
+370600,Christopher Newport University,Newport News,VA,www.cnu.edu,0.5588,1152,25000,8550,0.6292,12,0.7531,0.6755,349,245,731,883,604,768,287
+294600,Methodist University,Fayetteville,NC,www.methodist.edu,0.5594,962,27000,7680,0.6923,12,0.5122,0.3394,350,1011,1151,308,765,649,1116
+356400,East Texas Baptist University,Marshall,TX,www.etbu.edu,0.5599,952,26000,8050,0.7172,32,0.6306,0.3831,351,1033,849,542,708,605,1040
+301600,Bluffton University,Bluffton,OH,www.bluffton.edu,0.5603,1029,27000,8685,0.9167,32,0.8516,0.5956,352,713,1151,1177,584,316,480
+1167800,SUNY Polytechnic Institute,Utica,NY,www.sunyit.edu,0.561,1099,17500,9924,0.5122,22,0.7868,0.43,353,393,128,992,429,960,946
+285900,Morrisville State College,Morrisville,NY,www.morrisville.edu,0.5619,895,20000,10657,0.5878,42,0.6833,0.2771,354,1170,235,687,347,855,1194
+170900,Lincoln College,Lincoln,IL,lincolncollege.edu,0.5624,1125,12000,3991,0.3364,32,0.4814,0.2593,355,313,29,269,1226,1155,1206
+349500,Johnson University,Knoxville,TN,www.johnsonu.edu/Home.aspx,0.5637,1034,20199,5568,1,41,0.8905,0.6695,356,665,240,1228,1115,190,305
+182100,Marian University,Indianapolis,IN,www.marian.edu,0.5644,1036,27000,12364,0.4749,11,0.7304,0.5399,357,654,1151,811,252,1011,632
+371500,Hollins University,Roanoke,VA,www.hollins.edu,0.5647,1082,27000,15806,0.6429,22,0.7126,0.622,358,448,1151,772,119,738,425
+290100,Wells College,Aurora,NY,www.wells.edu,0.5659,1053,27000,8376,0.5143,42,0.6629,0.5806,359,561,1151,631,649,956,526
+179200,DePauw University,Greencastle,IN,www.depauw.edu,0.566,1213,25000,18608,0.8853,32,0.6924,0.8017,360,153,731,710,93,345,123
+320600,Multnomah University,Portland,OR,www.multnomah.edu,0.5667,1047,23500,5142,0.3125,11,0.811,0.5352,361,613,527,1064,1161,1170,644
+349600,King University,Bristol,TN,www.king.edu,0.5668,1042,21260,4855,1,13,0.8084,0.5435,362,631,302,1057,1180,190,622
+143300,Wesley College,Dover,DE,www.wesley.edu,0.567,853,31000,6592,0.4516,13,0.4186,0.2169,363,1213,1218,204,956,1040,1225
+711300,Arizona Christian University,Phoenix,AZ,www.arizonachristian.edu,0.5673,988,22500,6537,0.1714,11,0.6016,0.6119,364,907,427,472,968,1240,449
+344000,Newberry College,Newberry,SC,www.newberry.edu,0.5675,945,27000,6619,1,32,0.5892,0.4108,365,1066,1151,442,950,190,981
+357100,Hardin-Simmons University,Abilene,TX,www.hsutx.edu,0.568,1037,25864,10505,0.6884,12,0.7126,0.5244,366,652,792,772,368,655,680
+187900,Morningside College,Sioux City,IA,www.morningside.edu,0.5682,1065,27000,5590,1,13,0.8275,0.5364,367,513,1151,1107,1110,190,640
+188000,Mount Mercy University,Cedar Rapids,IA,www.mtmercy.edu,0.5683,1030,23489.5,8414,1,12,0.8391,0.7151,368,703,517,1146,638,190,217
+141702,University of Connecticut-Stamford,Stamford,CT,uconn.edu/,0.5685,1001,21500,6037,1,12,0.4266,0.4831,369,843,350,215,1048,190,787
+263800,Saint Peter's University,Jersey City,NJ,www.saintpeters.edu,0.569,899,25000,8356,0.3517,12,0.1997,0.5303,370,1167,731,92,659,1139,661
+389500,University of Wisconsin-Madison,Madison,WI,www.wisc.edu,0.5694,1286,22805,14367,0.8165,12,0.7705,0.8368,371,92,446,934,160,459,84
+346700,Presentation College,Aberdeen,SD,www.presentation.edu,0.5695,980,25000,5930,0.7083,33,0.6525,0.4133,372,934,731,595,1067,627,977
+109300,Central Baptist College,Conway,AR,www.cbc.edu,0.5697,985,21500,5018,0.3671,13,0.6701,0.3173,373,916,350,649,1172,1124,1160
+290500,North Carolina A & T State University,Greensboro,NC,www.ncat.edu,0.57,910,28500,8997,0.6745,11,0.0442,0.4793,374,1148,1188,52,533,681,803
+118300,Holy Names University,Oakland,CA,www.hnu.edu,0.5706,885,27000,8413,0.2293,11,0.2087,0.4954,375,1184,1151,97,639,1222,758
+154001,St Andrews University,Laurinburg,NC,www.sa.edu,0.5713,940,21562,5734,0.5636,32,0.5574,0.2971,376,1082,353,380,1084,887,1181
+241400,Millsaps College,Jackson,MS,www.millsaps.edu,0.5718,1178,27000,14341,0.7807,12,0.7454,0.6429,377,200,1151,859,162,502,368
+345000,University of South Carolina-Beaufort,Bluffton,SC,www.uscb.edu,0.5724,933,23292,6669,0.6364,31,0.5994,0.2589,378,1098,500,467,937,753,1207
+639900,Bryan College of Health Sciences,Lincoln,NE,www.bryanhealthcollege.edu/bcohs/,0.573,1050,24280.5,11644,0.5,11,0.9133,0.8,379,594,597,1241,287,980,125
+129100,Simpson University,Redding,CA,www.simpsonu.edu,0.5736,1024,16666,6351,1,13,0.6207,0.5244,380,732,100,521,999,190,680
+227900,Lawrence Technological University,Southfield,MI,www.ltu.edu,0.5742,1127,27000,9838,0.3181,13,0.4893,0.4421,382,300,1151,279,441,1166,909
+348000,Bethel University,McKenzie,TN,www.bethelu.edu/,0.5742,930,25053,6356,0.9685,32,0.5015,0.3582,382,1109,733,292,998,256,1086
+280600,Rochester Institute of Technology,Rochester,NY,www.rit.edu/,0.5747,1240,27000,17731,0.675,21,0.6457,0.6253,383,123,1151,574,98,677,414
+252600,Carroll College,Helena,MT,www.carroll.edu,0.5753,1133,27000,7695,0.6345,33,0.8007,0.6316,384,286,1151,1034,760,756,395
+158800,Piedmont College,Demorest,GA,www.piedmont.edu,0.5755,968,23958,7524,0.5484,32,0.7309,0.5049,385,982,554,813,790,907,728
+260000,College of Saint Elizabeth,Morristown,NJ,www.cse.edu,0.5759,843,23000,11114,0.3416,21,0.3666,0.5,386,1223,472,168,315,1146,744
+169300,Northeastern Illinois University,Chicago,IL,www.neiu.edu/,0.5761,890,14293,12341,0.6108,11,0.3579,0.2185,387,1177,49,160,254,807,1224
+299400,Minot State University,Minot,ND,www.minotstateu.edu,0.5768,1035,18951,10193,0.6667,33,0.6922,0.399,388,662,163,709,399,698,1009
+246000,Culver-Stockton College,Canton,MO,www.culver.edu,0.5772,986,23702,6034,0.6341,43,0.739,0.4141,389,912,537,838,1049,757,974
+343500,Lander University,Greenwood,SC,www.lander.edu,0.5778,936,27000,5161,0.5294,32,0.5861,0.4495,390,1091,1151,437,1159,928,887
+379900,Walla Walla University,College Place,WA,www.wallawalla.edu,0.5779,1075,27000,10535,0.9691,23,0.6992,0.5581,391,475,1151,728,363,249,571
+283700,University at Buffalo,Buffalo,NY,www.buffalo.edu,0.5781,1165,19500,15806,0.6074,21,0.4868,0.7189,392,221,208,277,119,809,210
+335300,University of the Sciences,Philadelphia,PA,www.usciences.edu,0.5788,1169,27000,12724,0.99,11,0.3973,0.7397,394,211,1151,188,234,201,182
+336000,Rosemont College,Rosemont,PA,www.rosemont.edu,0.5788,993,27000,5995,0.2623,21,0.4205,0.4286,394,879,1151,208,1059,1196,951
+129300,Vanguard University of Southern California,Costa Mesa,CA,www.vanguard.edu,0.58,970,25000,6750,1,12,0.458,0.5518,395,973,731,253,925,190,591
+322800,Bryn Athyn College of the New Church,Bryn Athyn,PA,www.brynathyn.edu,0.5802,900,22294.5,12476,0.6667,21,0.6458,0.4762,396,1162,401,576,247,698,813
+332900,Pennsylvania State University-World Campus,University Park,PA,www.worldcampus.psu.edu/,0.5808,1040,27000,4260,1,41,0.732,0.25,397,636,1151,817,1218,190,1216
+352400,Tennessee Temple University,Winston Salem,NC,www.tntemple.edu,0.5817,962,24500,1694,1,12,0.6069,0.1825,398,1011,617,487,1250,190,1236
+381100,Davis & Elkins College,Elkins,WV,www.dewv.edu,0.5822,986,23840.5,7995,1,33,0.6341,0.3721,399,912,549,551,712,190,1060
+131600,University of California-Riverside,Riverside,CA,WWW.UCR.EDU,0.5829,1128,19500,10948,0.8362,11,0.1384,0.6933,400,296,208,71,326,427,254
+101900,Huntingdon College,Montgomery,AL,www.huntingdon.edu,0.5839,1026,26230,6435,0.4571,12,0.6388,0.4506,401,721,860,562,987,1035,885
+102900,University of Mobile,Mobile,AL,www.umobile.edu,0.5847,1014,27000,6766,1,41,0.6479,0.4106,402,765,1151,582,919,190,982
+207200,Frostburg State University,Frostburg,MD,www.frostburg.edu,0.5851,967,22250,7315,0.6859,23,0.5723,0.4854,405,987,397,407,831,659,779
+302900,Cincinnati Christian University,Cincinnati,OH,www.CCUniversity.edu,0.5851,969,26350,5856,0.9355,11,0.7359,0.3583,405,977,875,827,1069,298,1085
+362400,Stephen F Austin State University,Nacogdoches,TX,www.sfasu.edu,0.5851,998,25000,6816,0.8064,41,0.5666,0.4371,405,858,731,402,908,473,925
+298400,University of North Carolina Wilmington,Wilmington,NC,www.uncw.edu,0.5855,1145,20584,7955,0.6921,12,0.794,0.7052,406,262,269,1013,719,650,233
+228200,Madonna University,Livonia,MI,www.madonna.edu,0.5859,1049,25000,7733,0.3753,13,0.6371,0.5028,407,600,731,558,753,1118,734
+341900,Charleston Southern University,Charleston,SC,www.csuniv.edu,0.5866,997,27741,6179,0.5845,13,0.6033,0.341,408,862,1169,476,1026,860,1115
+183000,Rose-Hulman Institute of Technology,Terre Haute,IN,www.rose-hulman.edu,0.5879,1308,27000,20942,0.9196,13,0.7582,0.7208,409,80,1151,899,70,313,206
+323500,Arcadia University,Glenside,PA,https://www.arcadia.edu,0.588,1105,26972,7453,0.3077,21,0.6861,0.5953,410,375,913,694,803,1172,482
+3255300,Florida Gulf Coast University,Fort Myers,FL,www.fgcu.edu,0.5888,1059,18750,6069,0.6576,21,0.6615,0.4912,411,532,157,626,1042,715,767
+104400,Stillman College,Tuscaloosa,AL,www.stillman.edu,0.5901,811,38218,9567,1,13,0.0748,0.2036,413,1232,1247,61,472,190,1229
+312700,University of Dayton,Dayton,OH,https://www.udayton.edu,0.5901,1194,26000,11646,0.633,12,0.7894,0.7602,413,174,849,998,286,760,165
+177500,University of Illinois at Urbana-Champaign,Champaign,IL,www.illinois.edu/,0.5904,1326,20500,13924,0.7305,13,0.5071,0.8416,414,69,268,299,173,584,80
+193100,Manhattan Christian College,Manhattan,KS,www.mccks.edu,0.5909,1030,19822.5,4708,0.5,13,0.7855,0.4545,416,703,218,986,1190,980,878
+303700,The College of Wooster,Wooster,OH,www.wooster.edu,0.5909,1229,26000,13239,0.8009,32,0.7033,0.7568,416,133,849,740,206,476,168
+922600,Francis Marion University,Florence,SC,www.fmarion.edu,0.5911,933,31250,8702,0.7627,23,0.4521,0.4098,417,1098,1220,243,579,530,985
+284500,SUNY College at Geneseo,Geneseo,NY,www.geneseo.edu/,0.5913,1221,20500,10471,0.7291,32,0.7513,0.779,418,141,268,876,369,587,145
+209900,Towson University,Towson,MD,www.towson.edu,0.5921,1082,18500,5824,0.5383,13,0.6335,0.6825,419,448,148,550,1074,920,273
+110100,University of Arkansas at Little Rock,Little Rock,AR,ualr.edu/www/,0.5928,1048,21736,7485,0.9821,12,0.5297,0.2654,420,609,359,330,796,220,1200
+182500,Purdue University-Main Campus,West Lafayette,IN,www.purdue.edu,0.5929,1213,22500,16568,0.9493,22,0.6579,0.7295,421,153,427,614,107,278,193
+114700,California State University-Fresno,Fresno,CA,www.csufresno.edu,0.594,910,15993.5,6613,0.5096,11,0.231,0.5236,422,1148,80,104,952,967,683
+157400,Georgia State University,Atlanta,GA,www.gsu.edu,0.5944,1055,23090,7241,0.7763,11,0.2862,0.5334,423,550,473,127,845,510,648
+328500,Lancaster Bible College,Lancaster,PA,www.LBC.edu,0.5946,996,18750,8547,0.2821,21,0.4603,0.6186,426,868,157,256,605,1188,433
+344100,North Greenville University,Tigerville,SC,www.ngu.edu,0.5946,1152,21500,5010,1,41,0.8223,0.504,426,245,350,1097,1173,190,730
+362300,St Mary's University,San Antonio,TX,www.stmarytx.edu/,0.5946,1033,27000,13438,0.5916,11,0.1511,0.6262,426,671,1151,75,197,844,409
+317400,Oklahoma Panhandle State University,Goodwell,OK,www.opsu.edu,0.595,910,18187,6215,0.6222,42,0.5968,0.1701,427,1148,140,462,1023,788,1243
+103600,Samford University,Birmingham,AL,www.samford.edu,0.5954,1165,23000,14553,0.997,21,0.8183,0.661,428,221,472,1087,152,193,328
+210500,University of Maryland-Baltimore County,Baltimore,MD,www.umbc.edu,0.5961,1213,21943,9911,0.6955,21,0.442,0.6109,429,153,371,226,430,646,453
+370200,Averett University,Danville,VA,www.averett.edu,0.5964,923,25000,10312,1,32,0.6112,0.3291,430,1123,731,496,387,190,1131
+182700,Purdue University-Calumet Campus,Hammond,IN,www.purduecal.edu/,0.5968,965,22028,7768,0.9676,21,0.5584,0.3141,431,998,382,381,746,258,1162
+291600,Chowan University,Murfreesboro,NC,www.chowan.edu/,0.5981,773,32000,5071,0.6,32,0.182,0.2523,432,1244,1224,86,1168,829,1211
+173400,North Central College,Naperville,IL,northcentralcollege.edu,0.5984,1125,25515,8701,0.5,12,0.7337,0.6288,434,313,774,822,581,980,401
+321100,Oregon Institute of Technology,Klamath Falls,OR,www.oit.edu,0.5984,1044,25322.5,9764,0.9109,33,0.7336,0.4709,434,624,748,821,446,322,825
+115500,San Jose State University,San Jose,CA,www.sjsu.edu,0.5985,1038,15628,8357,0.3872,11,0.2098,0.516,436,646,71,98,657,1104,701
+296000,Salem College,Winston-Salem,NC,www.salem.edu/,0.5985,1102,25000,7565,0.415,12,0.5328,0.6525,436,384,731,337,782,1083,348
+3957400,New College of Florida,Sarasota,FL,www.ncf.edu,0.5987,1274,15000,12918,0.7739,13,0.7074,0.6937,437,96,61,755,221,513,253
+178600,Ball State University,Muncie,IN,www.bsu.edu,0.5988,1066,25000,10219,0.8183,13,0.8189,0.5945,438,508,731,1088,395,453,486
+247300,Kansas City Art Institute,Kansas City,MO,www.kcai.edu,0.5997,1086,27000,10567,0.469,11,0.6154,0.529,439,436,1151,505,357,1022,665
+351900,Rhodes College,Memphis,TN,www.rhodes.edu,0.5999,1296,27000,14453,0.8618,11,0.7608,0.8021,440,87,1151,905,157,383,121
+132500,University of San Francisco,San Francisco,CA,https://www.usfca.edu,0.6005,1152,25000,15387,0.3872,11,0.2927,0.7046,441,245,731,129,129,1104,235
+298600,Winston-Salem State University,Winston-Salem,NC,www.wssu.edu,0.6016,859,27000,11194,0.9853,12,0.1735,0.4575,442,1208,1151,82,310,212,866
+255300,Midland University,Fremont,NE,www.midlandu.edu,0.6018,1010,25250,4805,1,32,0.6497,0.4777,443,795,747,583,1185,190,810
+754000,Missouri Baptist University,Saint Louis,MO,www.mobap.edu,0.6023,984,21250,4304,0.2465,21,0.7362,0.4422,444,921,301,828,1216,1210,908
+373300,Randolph-Macon College,Ashland,VA,www.rmc.edu,0.6034,1086,27000,9850,0.6519,21,0.7712,0.6205,445,436,1151,938,437,727,428
+262901,Rutgers University-Camden,Camden,NJ,www.rutgers.edu,0.6038,1025,21745,14493,0.5102,13,0.5499,0.5264,446,728,363,358,156,964,673
+169600,Illinois Wesleyan University,Bloomington,IL,www.iwu.edu,0.6043,1249,27000,16167,0.7354,13,0.7095,0.806,447,111,1151,760,112,580,117
+137800,Central Connecticut State University,New Britain,CT,www.ccsu.edu,0.6044,1015,22750,9928,0.485,21,0.6649,0.5235,449,759,445,636,428,1002,684
+370800,Eastern Mennonite University,Harrisonburg,VA,www.emu.edu,0.6044,1003,21700,11522,1,13,0.7379,0.6175,449,834,358,835,293,190,436
+316400,Oklahoma Baptist University,Shawnee,OK,www.okbu.edu,0.6048,1171,26000,6153,0.674,32,0.7094,0.5065,450,207,849,759,1031,683,724
+262900,Rutgers University-New Brunswick,New Brunswick,NJ,www.rutgers.edu/,0.605,1215,21745,18006,0.5536,13,0.4327,0.8068,451,149,363,222,95,900,114
+245300,Central Methodist University-College of Liberal Arts and Sciences,Fayette,MO,www.centralmethodist.edu/,0.6053,1050,17093,10194,1,32,0.8034,0.5167,452,594,114,1042,398,190,697
+984100,University of North Florida,Jacksonville,FL,www.unf.edu,0.6057,1133,17402,5572,0.7785,11,0.6937,0.5519,454,286,119,715,1114,505,590
+343200,Erskine College,Due West,SC,www.erskine.edu,0.6057,1016,27000,7868,0.7439,42,0.661,0.4847,454,757,1151,621,730,558,783
+175000,Dominican University,River Forest,IL,www.dom.edu/,0.6067,1029,25000,10312,0.4248,21,0.4076,0.6274,455,713,731,198,387,1070,405
+141600,University of Bridgeport,Bridgeport,CT,www.bridgeport.edu,0.6072,899,27000,8099,1,12,0.2512,0.295,457,1167,1151,113,701,190,1182
+196900,Kentucky Wesleyan College,Owensboro,KY,WWW.KWC.EDU,0.6072,1021,23567.5,5301,0.5802,13,0.6845,0.4064,457,740,532,692,1152,864,993
+297600,University of North Carolina at Greensboro,Greensboro,NC,www.uncg.edu,0.6073,1043,22864,8999,0.8109,11,0.5457,0.5561,458,628,448,349,532,466,577
+381800,University of Charleston,Charleston,WV,www.ucwv.edu,0.6077,988,21940,6776,0.5723,13,0.6616,0.3505,459,907,369,627,914,876,1101
+223500,Albion College,Albion,MI,www.albion.edu,0.6079,1125,27000,13911,0.888,31,0.799,0.7175,460,313,1151,1027,175,343,212
+155400,Berry College,Mount Berry,GA,www.berry.edu,0.6083,1183,24000,12558,0.835,23,0.8305,0.6161,461,193,572,1119,243,428,438
+113300,California Lutheran University,Thousand Oaks,CA,www.callutheran.edu/,0.6097,1109,23000,8294,1,12,0.5098,0.6577,462,356,472,302,676,190,337
+298900,Dickinson State University,Dickinson,ND,www.dickinsonstate.edu,0.6103,957,19500,10550,0.5762,33,0.7758,0.3531,464,1026,208,950,360,866,1096
+367800,Southern Utah University,Cedar City,UT,www.suu.edu/,0.6103,1063,13237,7872,0.7741,33,0.7909,0.5036,464,522,40,1002,729,512,732
+347700,Aquinas College,Nashville,TN,www.aquinascollege.edu,0.6104,1123,21426,10033,1,11,0.7414,0.25,465,315,314,846,420,190,1216
+200700,Louisiana College,Pineville,LA,www.lacollege.edu,0.6106,990,23743.5,9049,1,23,0.6614,0.4664,466,901,541,624,522,190,843
+114000,California State University-Los Angeles,Los Angeles,CA,www.calstatela.edu,0.6107,871,13645,6587,0.4507,11,0.0757,0.4105,467,1196,42,62,959,1042,983
+250600,Saint Louis University,Saint Louis,MO,www.slu.edu,0.6108,1239,25500,18230,0.6116,11,0.6652,0.7155,468,126,773,638,94,805,215
+172200,McKendree University,Lebanon,IL,www.mckendree.edu/prospective/admissions/index.aspx,0.6115,1048,24447.5,5719,1,21,0.6909,0.5649,469,609,607,705,1086,190,556
+210600,University of Maryland Eastern Shore,Princess Anne,MD,www.umes.edu,0.6127,842,27000,8675,0.6037,31,0.1017,0.3671,470,1224,1151,68,585,819,1068
+345800,Augustana University,Sioux Falls,SD,www.augie.edu,0.6129,1162,27000,10732,0.8438,12,0.8672,0.6667,471,228,1151,1203,338,420,317
+219000,Worcester State University,Worcester,MA,www.worcester.edu,0.613,997,19500,6651,1,12,0.7178,0.5314,472,862,208,777,943,190,654
+986200,Clarkson College,Omaha,NE,www.clarksoncollege.edu/,0.6134,990,26000,9543,0.791,11,0.751,0.5909,473,901,849,875,475,485,495
+191800,Friends University,Wichita,KS,www.friends.edu,0.6138,1029,24500,5679,1,11,0.7043,0.3432,474,713,617,744,1096,190,1112
+222100,University of Massachusetts-Amherst,Amherst,MA,www.umass.edu,0.6139,1217,24300,13886,0.7878,21,0.6793,0.7509,475,146,598,677,177,491,172
+359100,McMurry University,Abilene,TX,ww2.mcm.edu,0.614,901,25000,9561,0.9873,12,0.5561,0.3614,477,1159,731,378,473,209,1078
+365600,The University of Texas at Arlington,Arlington,TX,WWW.UTA.EDU,0.614,1053,18750,6322,0.6226,11,0.4139,0.4188,477,561,157,200,1006,785,967
+108800,Lyon College,Batesville,AR,www.lyon.edu,0.6142,1109,25000,10540,0.7119,33,0.742,0.4902,478,356,731,848,361,617,769
+230800,Olivet College,Olivet,MI,www.olivetcollege.edu,0.6143,917,27000,5426,1,42,0.7735,0.3865,479,1134,1151,944,1133,190,1032
+192900,Kansas Wesleyan University,Salina,KS,www.kwu.edu,0.6147,1059,25000,5154,0.661,33,0.7372,0.3261,480,532,731,833,1160,711,1139
+284200,SUNY Buffalo State,Buffalo,NY,suny.buffalostate.edu/,0.6155,939,21500,9777,0.463,11,0.5641,0.4472,481,1083,350,396,445,1029,892
+146900,Florida Institute of Technology,Melbourne,FL,www.fit.edu,0.6157,1176,26987.5,12044,0.9968,13,0.4023,0.5496,482,203,914,190,265,195,597
+933300,University of Illinois at Springfield,Springfield,IL,www.uis.edu,0.6158,1081,19500,10299,0.6067,12,0.6595,0.4868,483,454,208,618,388,811,774
+218100,Massachusetts Maritime Academy,Buzzards Bay,MA,www.maritime.edu,0.616,1105,27000,8702,0.6,22,0.8832,0.7017,484,375,1151,1224,579,829,240
+273200,Hofstra University,Hempstead,NY,www.hofstra.edu,0.6161,1147,23500,16162,0.464,21,0.5643,0.5999,485,253,527,397,113,1027,469
+359200,Midwestern State University,Wichita Falls,TX,www.mwsu.edu,0.6164,995,22500,8527,0.7605,12,0.5508,0.4547,486,874,427,361,607,535,874
+184600,Briar Cliff University,Sioux City,IA,www.briarcliff.edu,0.6169,1005,24000,6604,0.9565,13,0.7718,0.4683,487,824,572,940,953,267,836
+337100,Temple University,Philadelphia,PA,www.temple.edu,0.6173,1125,25999.5,12889,0.494,11,0.5822,0.6918,488,313,804,429,226,987,258
+3011300,California State University-San Marcos,San Marcos,CA,www.csusm.edu,0.618,948,18000,8347,0.4613,21,0.323,0.4853,489,1055,137,141,663,1032,780
+250200,Southwest Baptist University,Bolivar,MO,www.sbuniv.edu,0.6185,1070,20990,5389,1,32,0.8321,0.4922,490,498,283,1124,1137,190,766
+134200,Whittier College,Whittier,CA,www.whittier.edu,0.6188,1061,25000,11796,0.6047,21,0.3128,0.6538,491,526,731,138,274,816,346
+223400,Adrian College,Adrian,MI,www.adrian.edu,0.6189,1009,27000,8616,0.5109,32,0.728,0.5657,492,803,1151,801,598,962,553
+277700,Medaille College,Buffalo,NY,www.medaille.edu,0.619,840,25000,6770,0.2334,11,0.6066,0.4436,493,1225,731,485,917,1218,905
+170700,Lewis University,Romeoville,IL,www.lewisu.edu,0.6191,1070,25000,8524,0.368,21,0.6554,0.6246,494,498,731,602,609,1121,416
+147300,Clearwater Christian College,Clearwater,FL,www.clearwater.edu,0.6192,974,20250,5278,0.6438,12,0.7482,0.4959,496,950,248,870,1154,737,756
+382721,West Virginia University Institute of Technology,Montgomery,WV,www.wvutech.edu,0.6192,983,23969,6765,0.79,41,0.7462,0.1921,496,924,556,862,920,487,1232
+974100,The University of Texas at Dallas,Richardson,TX,www.utdallas.edu,0.6194,1259,19000,10407,0.7414,13,0.388,0.7064,497,104,179,184,374,566,231
+216100,University of Massachusetts-Lowell,Lowell,MA,www.uml.edu,0.6201,1145,25000,10748,0.5407,21,0.6564,0.5449,498,262,731,607,337,916,616
+110800,University of Arkansas,Fayetteville,AR,www.uark.edu,0.6204,1155,21500,9069,0.8714,13,0.7798,0.6228,500,238,350,965,518,366,421
+210200,University of Baltimore,Baltimore,MD,www.ubalt.edu,0.6204,920,20500,9029,0.4873,11,0.3383,0.4294,500,1127,268,152,526,999,947
+380800,Bethany College,Bethany,WV,www.bethanywv.edu,0.6205,906,28549.5,7689,0.6304,41,0.5447,0.4661,501,1154,1190,346,762,766,845
+304900,Hiram College,Hiram,OH,WWW.HIRAM.EDU,0.6208,1004,27000,9183,0.5503,31,0.682,0.6344,502,831,1151,682,506,903,387
+294400,Mars Hill University,Mars Hill,NC,www.mhu.edu,0.6209,924,27000,5625,0.5823,21,0.6877,0.3686,503,1120,1151,696,1105,862,1065
+269900,Clarkson University,Potsdam,NY,www.clarkson.edu,0.6214,1195,27000,13300,0.8443,33,0.8345,0.7084,504,171,1151,1129,204,419,227
+325900,Eastern University,Saint Davids,PA,www.eastern.edu/about/student-consumer-information,0.6218,1038,25872,8357,0.3109,21,0.5136,0.6127,505,646,793,311,657,1171,446
+218500,Framingham State University,Framingham,MA,www.framingham.edu/index.html,0.6226,1011,23979,5518,1,13,0.7501,0.514,506,770,557,872,1123,190,708
+210700,Stevenson University,Stevenson,MD,www.stevenson.edu,0.6231,990,25803,9166,0.2907,41,0.5614,0.6278,507,901,790,388,510,1183,403
+710900,SUNY College at Old Westbury,Old Westbury,NY,www.oldwestbury.edu,0.6235,995,15609.5,9875,0.423,21,0.3082,0.3724,508,874,70,135,433,1073,1059
+348100,Carson-Newman University,Jefferson City,TN,www.cn.edu,0.624,1083,24648,7223,0.5265,23,0.843,0.4797,509,444,621,1160,847,932,799
+351100,Milligan College,Milligan College,TN,www.milligan.edu,0.6241,1097,23500,6417,1,22,0.8273,0.5795,510,398,527,1106,989,190,528
+212300,Becker College,Worcester,MA,www.becker.edu,0.6247,1015,26000,6358,0.2599,12,0.6937,0.309,511,759,849,715,996,1198,1166
+282300,St John's University-New York,Queens,NY,www.stjohns.edu,0.6252,1107,25910,11325,0.434,11,0.338,0.5875,512,360,795,150,301,1062,504
+258600,Rivier University,Nashua,NH,www.rivier.edu,0.6256,962,25500,6657,0.3317,13,0.7865,0.5122,513,1011,773,988,942,1161,714
+383100,Wheeling Jesuit University,Wheeling,WV,www.wju.edu,0.6263,1032,27000,6981,0.4,13,0.7657,0.6374,514,675,1151,922,877,1094,379
+290600,Appalachian State University,Boone,NC,www.appstate.edu/,0.6266,1148,20000,7384,0.7387,32,0.8582,0.6973,515,250,235,1185,817,572,245
+232600,University of Michigan-Dearborn,Dearborn,MI,www.umd.umich.edu/,0.6267,1105,25750,9576,0.5857,13,0.6994,0.5006,516,375,788,730,471,856,738
+315100,Oklahoma Wesleyan University,Bartlesville,OK,www.okwu.edu,0.627,999,21276.5,6009,0.3153,32,0.6574,0.3708,517,855,303,610,1056,1169,1063
+172400,Millikin University,Decatur,IL,https://www.millikin.edu,0.6273,1046,27000,8907,0.7041,13,0.7354,0.6136,518,616,1151,826,552,631,444
+262902,Rutgers University-Newark,Newark,NJ,www.rutgers.edu,0.6275,1035,21745,13707,0.6035,11,0.256,0.6589,519,662,363,117,186,820,335
+109800,Henderson State University,Arkadelphia,AR,www.hsu.edu,0.6278,989,19586,6495,1,32,0.6569,0.3619,520,904,212,608,975,190,1075
+359900,The University of Texas Rio Grande Valley,Edinburg,TX,www.utrgv.edu,0.628,953,12036.5,5949,0.9275,13,0.0308,0.4275,521,1032,31,42,1065,304,952
+271300,Dominican College of Blauvelt,Orangeburg,NY,www.dc.edu,0.6281,872,27000,7330,0.3348,21,0.3338,0.3882,522,1195,1151,147,825,1158,1029
+252400,William Jewell College,Liberty,MO,www.jewell.edu,0.6283,1141,26625,9847,0.589,21,0.768,0.5962,523,270,892,929,439,853,475
+295300,William Peace University,Raleigh,NC,www.peace.edu,0.6291,890,23500,4406,0.2109,11,0.4466,0.3588,524,1177,527,230,1208,1229,1084
+322400,University of Portland,Portland,OR,www.up.edu,0.6293,1195,24906,10653,0.5631,11,0.625,0.802,525,171,637,527,348,889,122
+365200,University of Houston,Houston,TX,www.uh.edu/,0.6299,1139,19702.5,7993,0.8564,11,0.2718,0.4811,526,273,216,119,714,394,793
+239400,Winona State University,Winona,MN,www.winona.edu,0.6304,1050,23664.5,6581,0.641,32,0.8751,0.5716,528,594,535,1214,960,742,540
+241500,Mississippi College,Clinton,MS,www.mc.edu,0.6304,1120,26145,7825,0.5043,21,0.6625,0.5352,528,322,855,630,741,969,644
+212200,Bay Path University,Longmeadow,MA,www.baypath.edu,0.6305,951,22878.5,6300,0.2379,21,0.5756,0.6319,529,1038,450,414,1011,1216,393
+265100,Eastern New Mexico University-Main Campus,Portales,NM,www.enmu.edu,0.6306,935,15750,6199,0.5909,33,0.4631,0.2797,530,1093,72,258,1024,849,1190
+157200,Georgia Southern University,Statesboro,GA,www.georgiasouthern.edu,0.631,1099,22500,6032,0.8999,32,0.6267,0.5132,531,393,427,533,1051,332,711
+171000,Loyola University Chicago,Chicago,IL,www.luc.edu,0.6334,1212,25000,11731,0.5031,11,0.6028,0.7335,532,154,731,475,279,972,190
+262100,New Jersey Institute of Technology,Newark,NJ,www.njit.edu/,0.6339,1168,21500,9177,0.6114,11,0.3284,0.5854,533,213,350,143,508,806,510
+259700,Bloomfield College,Bloomfield,NJ,www.bloomfield.edu/,0.634,810,30500,8240,1,21,0.0983,0.3189,534,1234,1209,65,686,190,1152
+387500,Northland College,Ashland,WI,www.northland.edu,0.6343,1085,27000,9723,0.8772,33,0.8052,0.4586,535,441,1151,1049,449,357,862
+238900,University of Minnesota-Morris,Morris,MN,www.morris.umn.edu/,0.6359,1148,19157,8474,0.9524,33,0.6395,0.6676,536,250,183,563,624,274,311
+345100,Coastal Carolina University,Conway,SC,www.coastal.edu,0.636,996,25000,8475,1,13,0.6958,0.4522,537,868,731,717,623,190,883
+253400,Rocky Mountain College,Billings,MT,rocky.edu,0.6361,1031,25626,7204,0.6765,12,0.7708,0.4162,538,685,780,936,852,675,971
+3101900,Trinity Baptist College,Jacksonville,FL,www.tbc.edu,0.6368,899,16343,2512,1,11,0.6278,0.413,539,1167,92,538,1247,190,978
+146700,Bethune-Cookman University,Daytona Beach,FL,www.cookman.edu,0.6371,803,36250,6759,0.7138,13,0.019,0.4965,540,1239,1243,29,922,613,752
+181100,Indiana University-East,Richmond,IN,www.iue.edu/,0.6376,943,21172,5445,0.3576,41,0.8831,0.268,541,1070,294,1223,1130,1130,1199
+141705,University of Connecticut-Avery Point,Groton,CT,uconn.edu/,0.6392,1050,21500,14517,1,22,0.6716,0.5357,542,594,350,653,155,190,641
+259800,Caldwell University,Caldwell,NJ,www.caldwell.edu,0.6393,950,26040,6637,0.8929,21,0.4229,0.6159,543,1046,851,211,946,340,439
+335400,Philadelphia University,Philadelphia,PA,www.philau.edu,0.6394,1074,27800,9712,1,11,0.5924,0.6603,544,480,1172,453,453,190,332
+316500,Oklahoma Christian University,Edmond,OK,www.oc.edu,0.6401,1127,24500,7261,0.982,11,0.71,0.4744,545,300,617,761,842,221,817
+278200,New York Institute of Technology,Old Westbury,NY,www.nyit.edu,0.6403,1069,24187.5,14043,0.2857,21,0.1885,0.4475,546,500,586,87,170,1186,890
+297500,University of North Carolina at Charlotte,Charlotte,NC,www.uncc.edu,0.6409,1079,23187,9126,0.724,11,0.6048,0.5453,547,461,480,480,511,593,615
+368400,Champlain College,Burlington,VT,www.champlain.edu,0.6417,1150,27000,8502,0.9773,13,0.7207,0.5712,548,247,1151,782,614,232,544
+319300,Eastern Oregon University,La Grande,OR,www.eou.edu,0.6418,948,22466,7027,0.9355,33,0.7611,0.3387,549,1055,406,906,869,298,1117
+294200,Livingstone College,Salisbury,NC,www.livingstone.edu,0.6425,720,41000,4591,0.9359,22,0.0031,0.238,550,1250,1250,8,1196,296,1220
+251800,University of Missouri-Kansas City,Kansas City,MO,www.umkc.edu/,0.6426,1129,20605,15441,0.6056,11,0.5735,0.5221,551,292,270,409,127,814,686
+234600,Concordia College at Moorhead,Moorhead,MN,www.concordiacollege.edu,0.6428,1166,27000,10948,0.8889,22,0.8397,0.7242,552,215,1151,1148,326,342,197
+164100,Bradley University,Peoria,IL,www.bradley.edu,0.643,1162,27000,14726,0.5891,12,0.7014,0.7383,553,228,1151,736,148,852,185
+2136600,Wisconsin Lutheran College,Milwaukee,WI,wlc.edu,0.6432,1079,25000,8970,0.9359,11,0.834,0.6143,554,461,731,1128,537,296,440
+299000,University of Jamestown,Jamestown,ND,www.uj.edu,0.6436,1178,27000,7858,1,33,0.8002,0.4869,555,200,1151,1031,733,190,773
+236500,Minneapolis College of Art and Design,Minneapolis,MN,MCAD.EDU,0.6441,1088,26875,12923,1,11,0.576,0.6408,556,429,907,416,219,190,374
+180100,Hanover College,Hanover,IN,www.hanover.edu,0.6447,1101,27000,11611,0.9608,32,0.8169,0.686,557,388,1151,1083,291,262,269
+167800,Eureka College,Eureka,IL,www.eureka.edu,0.6448,1053,25375,6400,0.5946,31,0.839,0.5294,558,561,751,1145,993,839,664
+246300,Evangel University,Springfield,MO,www.evangel.edu,0.6453,1055,22062,6895,0.592,12,0.7679,0.4793,559,550,383,927,890,843,803
+306900,Lourdes University,Sylvania,OH,www.lourdes.edu,0.6455,950,30500,9102,0.3939,21,0.7108,0.2946,560,1046,1209,763,514,1099,1183
+304100,Defiance College,Defiance,OH,www.defiance.edu,0.6469,975,27000,6875,0.4433,32,0.7715,0.4862,561,947,1151,939,896,1054,776
+934500,Stockton University,Galloway,NJ,www.stockton.edu,0.6475,1078,21500,8487,0.5237,22,0.7307,0.669,562,464,350,812,619,938,307
+3724300,DigiPen Institute of Technology,Redmond,WA,www.digipen.edu,0.6488,1211,31000,9059,0.4949,13,0.4174,0.5369,563,156,1218,202,520,984,639
+331300,Widener University-Main Campus,Chester,PA,www.widener.edu,0.6501,1023,28000,13704,0.4187,21,0.7061,0.532,564,733,1181,752,187,1080,651
+200800,Louisiana Tech University,Ruston,LA,www.latech.edu,0.6503,1104,20500,6006,0.8294,32,0.705,0.5236,565,379,268,745,1058,436,683
+162400,Northwest Nazarene University,Nampa,ID,www.nnu.edu,0.6507,1052,25500,8351,0.9925,22,0.76,0.5183,566,564,773,902,661,199,694
+223900,Aquinas College,Grand Rapids,MI,www.aquinas.edu,0.6509,1090,25000,6096,0.3975,12,0.8449,0.5241,567,419,731,1165,1040,1097,681
+163900,Blackburn College,Carlinville,IL,www.blackburn.edu,0.651,989,26000,7214,0.6,32,0.8201,0.386,568,904,849,1090,851,829,1034
+136000,Metropolitan State University of Denver,Denver,CO,www.msudenver.edu/,0.6511,973,24620,5132,1,11,0.5972,0.2414,569,952,620,463,1163,190,1219
+383200,Alverno College,Milwaukee,WI,www.alverno.edu,0.6519,930,32606.5,7920,0.4015,11,0.5269,0.3571,570,1109,1228,327,722,1093,1090
+344800,University of South Carolina-Columbia,Columbia,SC,www.sc.edu/,0.652,1217,23000,10729,0.7023,12,0.7725,0.73,571,146,472,942,339,637,192
+208300,Morgan State University,Baltimore,MD,www.morgan.edu,0.6525,874,31000,9454,0.8473,11,0.0204,0.321,572,1191,1218,30,481,413,1148
+134500,Adams State University,Alamosa,CO,www.adams.edu,0.6529,955,16255,8399,0.479,33,0.5071,0.2125,573,1027,91,299,643,1006,1226
+144300,Gallaudet University,Washington,DC,www.gallaudet.edu,0.6532,849,17750,35595,1,11,0.5614,0.4581,574,1219,132,388,21,190,863
+359400,University of North Texas,Denton,TX,www.unt.edu,0.6538,1096,20000,8373,1,12,0.488,0.502,575,400,235,278,652,190,736
+303000,Ohio Christian University,Circleville,OH,www.ohiochristian.edu,0.654,930,26736,4315,1,32,0.5487,0.3185,576,1109,895,354,1215,190,1154
+337903,University of Pittsburgh-Bradford,Bradford,PA,www.upb.pitt.edu/,0.6542,985,26813.5,8486,0.75,33,0.7278,0.5214,577,916,903,800,620,550,687
+340700,Rhode Island College,Providence,RI,www.ric.edu,0.6545,918,21500,7544,1,21,0.6315,0.426,578,1131,350,545,786,190,956
+344900,University of South Carolina-Aiken,Aiken,SC,web.usca.edu,0.6546,970,26250,6588,0.6188,21,0.5911,0.3864,579,973,869,449,958,791,1033
+313400,Ursuline College,Pepper Pike,OH,www.ursuline.edu,0.6551,1014,28000,11842,0.3553,21,0.647,0.4364,580,765,1181,580,272,1134,928
+200300,Centenary College of Louisiana,Shreveport,LA,www.centenary.edu,0.6567,1109,25000,13193,0.5566,12,0.6807,0.5203,582,356,731,679,209,896,688
+376500,Norfolk State University,Norfolk,VA,www.nsu.edu,0.6567,866,31000,7830,1,12,0.0507,0.3263,582,1202,1218,54,738,190,1138
+372100,James Madison University,Harrisonburg,VA,www.jmu.edu/,0.6573,1153,20500,8505,0.7621,13,0.7753,0.8243,583,240,268,948,612,532,91
+919200,Sierra Nevada College,Incline Village,NV,www.sierranevada.edu,0.6574,1010,23000,6701,0.2653,32,0.7299,0.4587,585,795,472,808,932,1194,861
+369200,Norwich University,Northfield,VT,www.norwich.edu,0.6574,1053,27000,7955,0.4877,32,0.7833,0.5766,585,561,1151,978,719,997,534
+141704,University of Connecticut-Tri-Campus,Waterbury,CT,uconn.edu/,0.6583,1004,21500,4571,0.9697,22,0.5409,0.5246,586,831,350,343,1199,247,678
+307700,Miami University-Oxford,Oxford,OH,www.miamioh.edu,0.6584,1240,25000,10181,0.9699,31,0.7984,0.7899,587,123,731,1026,402,245,136
+278800,Niagara University,Niagara University,NY,www.niagara.edu,0.6586,1040,25000,7464,1,21,0.7121,0.6409,589,636,731,766,800,190,373
+281600,Siena College,Loudonville,NY,www.siena.edu,0.6586,1127,27000,10563,0.6696,21,0.8029,0.7985,589,300,1151,1040,358,688,126
+2066200,The New School,New York,NY,www.newschool.edu/,0.659,1117,24384,13249,0.1948,11,0.3374,0.6021,590,326,603,149,205,1234,464
+140200,Quinnipiac University,Hamden,CT,www.quinnipiac.edu,0.6591,1104,26000,14176,1,21,0.7678,0.7596,591,379,849,926,166,190,166
+274800,Le Moyne College,Syracuse,NY,www.lemoyne.edu,0.6595,1071,26248.5,10173,0.4506,12,0.7933,0.7209,592,488,862,1010,404,1043,205
+115400,San Francisco State University,San Francisco,CA,www.sfsu.edu,0.6597,990,17501,8331,0.504,11,0.2195,0.4974,594,901,129,101,666,970,747
+332700,Slippery Rock University of Pennsylvania,Slippery Rock,PA,www.sru.edu,0.6597,999,25250,7365,0.853,32,0.8601,0.6745,594,855,747,1191,821,400,288
+203200,Xavier University of Louisiana,New Orleans,LA,www.xula.edu,0.6599,1039,27000,8378,0.8945,11,0.0402,0.4373,595,639,1151,47,647,337,921
+148100,Florida Atlantic University,Boca Raton,FL,www.fau.edu/,0.6603,1058,16836,6869,0.6664,13,0.4477,0.4595,596,534,106,232,898,699,859
+229000,Michigan State University,East Lansing,MI,www.msu.edu,0.6609,1158,25458,14779,0.8744,13,0.6813,0.7886,597,234,756,680,146,364,138
+364400,Texas Tech University,Lubbock,TX,www.ttu.edu,0.6613,1110,22500,7046,0.8597,12,0.6116,0.5908,598,351,427,497,865,389,496
+234300,The College of Saint Scholastica,Duluth,MN,www.css.edu,0.6618,1106,21500,8096,0.4565,13,0.8354,0.6139,599,364,350,1132,702,1036,442
+316300,Northwestern Oklahoma State University,Alva,OK,www.nwosu.edu,0.6623,930,14290,6769,1,33,0.6418,0.3438,600,1109,48,568,918,190,1110
+196200,University of the Cumberlands,Williamsburg,KY,www.ucumberlands.edu,0.6628,1038,16382.5,4353,0.4771,33,0.7706,0.3556,601,646,93,935,1214,1009,1092
+2270600,Life Pacific College,San Dimas,CA,www.lifepacific.edu,0.6633,903,21500,3228,0.1964,21,0.5365,0.4706,602,1156,350,339,1241,1233,827
+252300,Westminster College,Fulton,MO,WWW.WESTMINSTER-MO.EDU,0.6634,1114,27000,6678,0.7379,32,0.6532,0.6639,603,336,1151,596,936,575,322
+183300,Saint Josephs College,Rensselaer,IN,www.saintjoe.edu,0.6641,996,27000,6227,0.6304,32,0.8063,0.4561,604,868,1151,1052,1022,766,870
+125100,Otis College of Art and Design,Los Angeles,CA,www.otis.edu,0.6648,1010,27000,14922,0.1327,11,0.2376,0.6311,606,795,1151,105,144,1245,398
+180400,University of Indianapolis,Indianapolis,IN,uindy.edu,0.6648,1018,27000,8185,0.9887,11,0.669,0.5156,606,750,1151,646,692,206,703
+381200,Fairmont State University,Fairmont,WV,www.fairmontstate.edu/,0.6651,965,22529.5,6375,0.9154,32,0.8602,0.3338,607,998,428,1192,995,318,1125
+275800,Manhattan College,Riverdale,NY,www.manhattan.edu,0.6654,1097,26000,10328,0.4902,11,0.5621,0.7507,608,398,849,389,381,993,173
+2141500,Savannah College of Art and Design,Savannah,GA,www.scad.edu,0.6655,1081,27000,10192,0.7881,12,0.5588,0.6504,609,454,1151,383,400,490,353
+236000,Minnesota State University-Mankato,Mankato,MN,www.mnsu.edu,0.6658,1010,22997,6040,0.6381,13,0.7797,0.5036,610,795,455,964,1047,747,732
+125300,Fresno Pacific University,Fresno,CA,www.fresno.edu,0.6662,1010,19972.5,6076,0.8537,11,0.3681,0.6327,611,795,222,170,1041,399,391
+231800,Spring Arbor University,Spring Arbor,MI,www.arbor.edu,0.6664,1035,25000,7358,0.2397,23,0.7568,0.5395,612,662,731,893,822,1214,634
+374900,George Mason University,Fairfax,VA,www.gmu.edu,0.6665,1152,20000,12466,0.5395,21,0.4494,0.6688,613,245,235,237,248,917,308
+999200,Oak Hills Christian College,Bemidji,MN,www.oakhills.edu,0.6667,964,19125,8270,0.4167,33,0.879,0.2083,615,1001,182,1218,682,1082,1227
+352500,Tennessee Wesleyan College,Athens,TN,www.twcnet.edu,0.6667,1002,18750,5304,1,32,0.8094,0.4343,615,837,157,1059,1151,190,933
+386300,Marquette University,Milwaukee,WI,www.marquette.edu,0.6671,1220,27000,10161,0.5588,11,0.7367,0.7928,616,142,1151,829,405,893,133
+158000,Mercer University,Macon,GA,www.mercer.edu,0.6672,1205,25000,10757,0.9788,12,0.4753,0.626,617,164,731,265,336,228,411
+244100,University of Southern Mississippi,Hattiesburg,MS,www.usm.edu,0.6674,1029,25000,8219,0.7628,13,0.6135,0.4844,618,713,731,500,688,528,785
+372000,Lynchburg College,Lynchburg,VA,www.lynchburg.edu,0.6675,998,27000,10266,1,13,0.7335,0.5599,619,858,1151,820,390,190,567
+261700,Montclair State University,Montclair,NJ,www.montclair.edu,0.6683,975,23000,9110,0.3631,21,0.4565,0.638,620,947,472,251,513,1126,377
+208600,Mount St Mary's University,Emmitsburg,MD,www.msmary.edu,0.6687,1048,25995,9008,1,31,0.711,0.6439,621,609,802,764,531,190,366
+237500,Southwest Minnesota State University,Marshall,MN,www.smsu.edu,0.6694,990,22500,5745,0.5238,33,0.8241,0.432,622,901,427,1101,1082,937,937
+398200,Cleveland Institute of Art,Cleveland,OH,www.cia.edu,0.6699,1048,29000,12963,0.4206,11,0.7005,0.6505,623,609,1197,734,218,1076,352
+230700,Oakland University,Rochester Hills,MI,www.oakland.edu,0.67,1070,25000,7654,0.5169,21,0.7533,0.456,624,498,731,884,770,951,871
+292900,Gardner-Webb University,Boiling Springs,NC,www.gardner-webb.edu,0.6712,1020,23988,5645,1,32,0.6894,0.5397,625,745,559,701,1101,190,633
+332916,Pennsylvania State University-Penn State Shenango,Sharon,PA,shenango.psu.edu,0.6716,885,27000,6227,0.549,21,0.8226,0.3178,626,1184,1151,1098,1022,905,1158
+4127100,University of California-Merced,Merced,CA,www.ucmerced.edu,0.6718,1031,19500,7748,0.8678,41,0.1412,0.6356,627,685,208,72,750,372,386
+234200,St Catherine University,Saint Paul,MN,www.stkate.edu,0.6721,1032,28065,10127,0.5755,11,0.6523,0.5853,628,675,1182,594,408,870,511
+181400,Indiana University-Kokomo,Kokomo,IN,www.iuk.edu,0.6726,934,19052,5500,0.5268,13,0.8407,0.2786,629,1096,181,1153,1125,931,1192
+712100,Faith Baptist Bible College and Theological Seminary,Ankeny,IA,www.faith.edu,0.6733,1004,17500,6877,0.5143,21,0.9267,0.6374,630,831,128,1243,895,956,379
+288500,Albany College of Pharmacy and Health Sciences,Albany,NY,www.acphs.edu,0.674,1165,26144,12450,0.7891,13,0.6375,0.7743,631,221,854,560,249,488,153
+366500,West Texas A & M University,Canyon,TX,www.wtamu.edu,0.6742,970,21374,6645,0.7772,31,0.6159,0.4047,632,973,310,506,945,508,997
+388400,Ripon College,Ripon,WI,www.ripon.edu,0.6745,1108,27000,9719,0.7416,32,0.8402,0.6773,633,358,1151,1150,451,565,285
+162600,University of Idaho,Moscow,ID,www.uidaho.edu,0.6748,1057,24428,11119,0.7953,41,0.7725,0.5779,634,537,606,942,314,482,531
+377800,Gonzaga University,Spokane,WA,www.gonzaga.edu,0.6751,1207,25500,9857,0.5997,12,0.7316,0.8315,635,161,773,815,436,830,87
+316700,University of Science and Arts of Oklahoma,Chickasha,OK,www.usao.edu,0.6755,1039,22274,7758,0.6854,32,0.6355,0.4631,636,639,399,555,749,661,849
+211400,American International College,Springfield,MA,www.aic.edu,0.6757,887,27000,6417,0.2005,12,0.4216,0.3774,637,1178,1151,210,989,1231,1050
+167600,Elmhurst College,Elmhurst,IL,www.elmhurst.edu,0.6771,1089,22000,8231,0.4548,21,0.6971,0.7396,638,425,381,722,687,1038,183
+316600,Oklahoma City University,Oklahoma City,OK,www.okcu.edu,0.6777,1165,23835,12219,0.6226,11,0.6007,0.5865,639,221,548,468,259,785,507
+143100,University of Delaware,Newark,DE,www.udel.edu/,0.6783,1194,24195,17395,0.9606,21,0.7517,0.7898,640,174,587,879,100,263,137
+220100,Pine Manor College,Chestnut Hill,MA,www.pmc.edu,0.6784,780,32125,10992,0.4211,21,0.0673,0.3533,641,1242,1225,59,322,1075,1095
+101600,University of North Alabama,Florence,AL,www.una.edu,0.6788,1029,21500,7218,1,13,0.7123,0.3887,642,713,350,769,849,190,1028
+184700,Buena Vista University,Storm Lake,IA,www.bvu.edu,0.6789,1047,23877.5,7185,0.181,33,0.8066,0.4579,643,613,552,1053,854,1238,864
+282100,Saint John Fisher College,Rochester,NY,www.sjfc.edu,0.6791,1091,24980,9198,1,21,0.8373,0.7153,644,410,641,1138,504,190,216
+233400,Augsburg College,Minneapolis,MN,www.augsburg.edu,0.6802,1074,27000,9081,0.4751,11,0.5846,0.6264,645,480,1151,435,515,1010,407
+154600,Armstrong State University,Savannah,GA,www.armstrong.edu,0.6803,1006,21000,6105,1,12,0.582,0.3032,646,814,289,428,1038,190,1173
+260800,Georgian Court University,Lakewood,NJ,georgian.edu/,0.6806,945,25700,6982,0.4378,13,0.565,0.4821,648,1066,783,399,876,1058,790
+291300,Campbell University,Buies Creek,NC,www.campbell.edu,0.6806,1025,23992.5,11643,0.4724,31,0.5681,0.5056,648,728,560,405,288,1015,726
+178800,Butler University,Indianapolis,IN,www.butler.edu,0.6846,1205,27000,13481,1,11,0.8283,0.7784,649,164,1151,1110,195,190,148
+219300,Mount Ida College,Newton,MA,www.mountida.edu,0.6849,886,27000,8297,0.3913,13,0.5891,0.4083,650,1182,1151,441,675,1101,989
+352800,Union University,Jackson,TN,www.uu.edu,0.6858,1170,25000,8745,0.499,13,0.703,0.6619,651,210,731,739,569,981,326
+308900,Ohio Northern University,Ada,OH,www.onu.edu/,0.6859,1180,27000,12519,0.8067,31,0.842,0.6905,652,197,1151,1157,244,471,260
+386800,Milwaukee School of Engineering,Milwaukee,WI,www.msoe.edu,0.6865,1243,27000,11075,0.5175,11,0.6883,0.5616,653,119,1151,698,316,949,563
+214400,Dean College,Franklin,MA,www.dean.edu,0.6866,857,17184.5,7298,0.2562,21,0.4857,0.4316,654,1209,115,274,834,1203,942
+195200,Asbury University,Wilmore,KY,www.asbury.edu,0.687,1135,25250,9212,0.5185,31,0.8052,0.6773,655,280,747,1049,501,946,285
+332500,Millersville University of Pennsylvania,Millersville,PA,www.millersville.edu,0.6871,1012,25500,8254,0.6569,21,0.7673,0.6415,656,767,773,925,683,717,372
+336600,Saint Francis University,Loretto,PA,www.francis.edu,0.6872,1033,27000,8103,1,31,0.8183,0.7209,657,671,1151,1087,699,190,205
+2065300,Prescott College,Prescott,AZ,www.prescott.edu,0.6873,1073,24398.5,7738,0.8657,13,0.7004,0.3483,658,484,604,733,752,376,1104
+280500,Roberts Wesleyan College,Rochester,NY,WWW.Roberts.edu,0.6875,1059,21946.5,10621,0.8729,21,0.7221,0.6293,659,532,372,788,350,365,400
+271200,D'Youville College,Buffalo,NY,www.dyc.edu,0.6879,1035,25500,9847,0.6178,11,0.7433,0.4398,660,662,773,851,439,796,915
+374700,The University of Virginia's College at Wise,Wise,VA,https://www.uvawise.edu/,0.6882,946,20844.5,8272,0.4785,32,0.7847,0.459,661,1064,278,984,680,1007,860
+226600,Cornerstone University,Grand Rapids,MI,www.cornerstone.edu,0.6884,1051,23438,6235,0.9853,12,0.7866,0.4537,662,569,512,990,1020,212,880
+189500,Waldorf College,Forest City,IA,www.waldorf.edu,0.6885,913,20760.5,3447,0.6774,33,0.6733,0.3305,663,1141,275,661,1237,673,1127
+225900,Eastern Michigan University,Ypsilanti,MI,www.emich.edu,0.6887,1028,26000,8398,1,21,0.6595,0.3655,664,716,849,618,644,190,1070
+185000,Central College,Pella,IA,www.central.edu,0.689,1101,27000,13075,0.8684,32,0.8972,0.6807,665,388,1151,1234,215,369,276
+703200,MidAmerica Nazarene University,Olathe,KS,www.mnu.edu,0.6899,1010,17010,6311,0.9362,21,0.6104,0.5,666,795,113,494,1009,293,744
+172500,Monmouth College,Monmouth,IL,www.monmouthcollege.edu,0.6906,1033,27436,10582,0.6894,32,0.6432,0.5561,668,671,1159,571,355,653,577
+232300,University of Detroit Mercy,Detroit,MI,www.udmercy.edu,0.6906,1110,25000,13830,1,11,0.5622,0.5438,668,351,731,391,178,190,620
+754400,Appalachian Bible College,Mount Hope,WV,www.abc.edu,0.6914,1007,9300,4059,1,41,0.9643,0.625,670,810,11,1249,1225,190,415
+391100,Viterbo University,La Crosse,WI,www.viterbo.edu,0.6914,1089,27000,5846,0.4345,13,0.9004,0.4846,670,425,1151,1236,1071,1061,784
+175300,School of the Art Institute of Chicago,Chicago,IL,www.saic.edu,0.6915,1065,25000,13923,0.2013,11,0.4039,0.5714,672,513,731,191,174,1230,543
+178100,Wheaton College,Wheaton,IL,www.wheaton.edu,0.6915,1311,22500,13157,0.6782,21,0.7623,0.8931,672,78,427,908,210,672,53
+159100,Shorter University,Rome,GA,www.shorter.edu,0.6922,951,29000,5685,0.7086,13,0.6253,0.4515,674,1038,1197,528,1094,625,884
+179800,Franklin College,Franklin,IN,www.franklincollege.edu,0.6922,1031,27000,9207,0.7241,21,0.8376,0.6113,674,685,1151,1140,503,592,452
+291000,Belmont Abbey College,Belmont,NC,www.belmontabbeycollege.edu,0.6923,1000,27000,4841,0.5489,22,0.4065,0.3811,675,850,1151,195,1182,906,1045
+186000,Drake University,Des Moines,IA,www.drake.edu,0.6926,1239,24500,9898,0.6667,12,0.7903,0.778,676,126,617,1001,431,698,149
+224300,Central Michigan University,Mount Pleasant,MI,www.cmich.edu,0.6927,1050,27000,8491,0.6602,32,0.7954,0.5554,677,594,1151,1016,618,712,581
+214700,Emmanuel College,Boston,MA,www.emmanuel.edu,0.693,1093,27000,7602,0.4026,11,0.7194,0.6417,678,406,1151,780,779,1090,370
+373600,Roanoke College,Salem,VA,www.roanoke.edu,0.6932,1087,27000,9685,0.7626,22,0.8263,0.6371,679,430,1151,1104,459,531,382
+321600,Portland State University,Portland,OR,www.pdx.edu,0.6933,1030,23368.5,8454,0.581,11,0.6014,0.4205,680,703,507,471,628,863,964
+306600,Lake Erie College,Painesville,OH,www.lec.edu,0.6936,966,27000,5388,1,21,0.7648,0.4859,681,991,1151,919,1139,190,777
+266800,Alfred University,Alfred,NY,www.alfred.edu,0.6944,1064,27000,10968,0.8276,33,0.6911,0.5538,682,519,1151,707,323,437,586
+307300,Marietta College,Marietta,OH,www.marietta.edu,0.6946,1105,27000,12859,1,31,0.7283,0.6312,683,375,1151,803,227,190,397
+407200,Northwood University-Michigan,Midland,MI,www.northwood.edu,0.6947,1004,22750,5582,1,13,0.6635,0.5629,684,831,445,632,1111,190,559
+158500,University of North Georgia,Dahlonega,GA,www.ung.edu,0.6948,1016,15000,4906,0.6748,31,0.7778,0.2513,685,757,61,959,1178,678,1213
+337600,Thiel College,Greenville,PA,www.thiel.edu,0.6949,970,28000,7217,0.566,31,0.7834,0.3596,686,973,1181,979,850,885,1081
+126200,Point Loma Nazarene University,San Diego,CA,www.pointloma.edu,0.6953,1135,25000,8862,1,11,0.6176,0.7342,688,280,731,514,555,190,188
+190300,Baker University,Baldwin City,KS,www.bakeru.edu,0.6953,1059,25250,5319,0.1374,31,0.7107,0.5768,688,532,747,762,1150,1244,533
+237100,University of Northwestern-St Paul,Saint Paul,MN,www.unwsp.edu,0.6954,1110,22250,7434,1,21,0.8416,0.6681,690,351,397,1155,808,190,309
+335000,The University of the Arts,Philadelphia,PA,www.uarts.edu,0.6954,1006,27000,12486,1,11,0.6153,0.5956,690,814,1151,504,246,190,480
+235400,Hamline University,Saint Paul,MN,www.hamline.edu,0.6959,1101,25500,7489,0.4948,11,0.7232,0.6459,691,388,773,793,795,985,363
+265700,New Mexico State University-Main Campus,Las Cruces,NM,www.nmsu.edu/,0.696,984,18340,9196,0.7524,22,0.3084,0.4569,692,921,142,136,505,544,869
+157300,Georgia Southwestern State University,Americus,GA,https://gsw.edu/,0.6964,970,21500,6156,0.7396,32,0.6277,0.3206,694,973,350,536,1030,569,1149
+178000,Western Illinois University,Macomb,IL,www.wiu.edu,0.6964,970,24091,11581,0.8979,33,0.6308,0.5426,694,973,575,543,292,335,625
+227500,Kalamazoo College,Kalamazoo,MI,www.kzoo.edu,0.6965,1239,25936,15391,0.8769,13,0.6171,0.8159,696,126,796,511,128,358,102
+254800,Hastings College,Hastings,NE,www.hastings.edu,0.6965,1079,27000,8140,1,32,0.8326,0.5875,696,461,1151,1126,695,190,504
+256500,University of Nebraska-Lincoln,Lincoln,NE,www.unl.edu/,0.6989,1146,21500,10896,0.9254,11,0.7784,0.6679,697,256,350,961,330,305,310
+189300,Upper Iowa University,Fayette,IA,www.uiu.edu,0.6994,950,21250,3549,1,43,0.6612,0.383,698,1046,301,623,1235,190,1041
+184400,Wabash College,Crawfordsville,IN,www.wabash.edu,0.6998,1128,25000,15009,0.9314,32,0.7465,0.7349,699,296,731,866,139,300,187
+258901,University of New Hampshire at Manchester,Manchester,NH,manchester.unh.edu,0.7008,1010,27000,8302,0.2857,12,0.7493,0.4667,700,795,1151,871,672,1186,841
+260300,Drew University,Madison,NJ,www.drew.edu,0.7017,1118,27000,12802,0.5985,21,0.545,0.6231,701,324,1151,347,230,832,420
+262200,Kean University,Union,NJ,www.kean.edu,0.7036,907,24500,9932,0.263,21,0.3795,0.4848,702,1152,617,178,427,1195,781
+4095300,The King’s College,New York,NY,www.tkc.edu,0.7039,1127,23250,12346,0.6,11,0.7324,0.5294,703,300,498,818,253,829,664
+281700,St Bonaventure University,Saint Bonaventure,NY,www.sbu.edu,0.7043,1066,27000,8189,0.6652,33,0.6963,0.6803,704,508,1151,720,691,701,278
+241000,Jackson State University,Jackson,MS,www.jsums.edu,0.7047,911,29500,7627,0.6906,12,0.0415,0.4318,705,1142,1201,48,774,651,939
+110600,Williams Baptist College,Walnut Ridge,AR,www.wbcoll.edu,0.7049,983,19000,5047,0.9688,42,0.8504,0.4056,708,924,179,1174,1170,253,994
+181300,Indiana University-Purdue University-Indianapolis,Indianapolis,IN,www.iupui.edu,0.7049,1010,24147.5,15469,0.6291,11,0.7186,0.4343,708,795,581,778,126,769,933
+185200,Clarke University,Dubuque,IA,www.clarke.edu,0.7049,1029,26000,8648,0.5742,13,0.8692,0.741,708,713,849,1206,588,874,179
+143600,Capitol Technology University,Laurel,MD,www.captechu.edu,0.705,1075,23000,6546,0.1899,21,0.4507,0.4103,709,475,472,240,967,1236,984
+180500,Indiana Institute of Technology,Fort Wayne,IN,www.indianatech.edu,0.7057,965,27013.5,3392,1,11,0.4047,0.3118,711,998,1152,192,1239,190,1164
+218800,Salem State University,Salem,MA,www.salemstate.edu,0.7057,984,25000,8666,0.9891,21,0.6843,0.4598,711,921,731,690,587,205,858
+110200,Ouachita Baptist University,Arkadelphia,AR,www.obu.edu,0.7061,1112,23250,8934,1,32,0.8426,0.5817,712,339,498,1159,547,190,523
+245800,Cottey College,Nevada,MO,www.cottey.edu,0.7063,1019,12000,20532,0.7872,33,0.6431,0.6742,713,746,29,570,75,493,291
+231100,Kuyper College,Grand Rapids,MI,www.kuyper.edu,0.7065,1030,24750,10725,0.58,21,0.7765,0.6563,714,703,628,952,340,865,341
+282500,Saint Joseph's College-New York,Brooklyn,NY,www.sjcny.edu,0.7073,1031,22143.5,8251,1,11,0.6263,0.6803,715,685,385,531,684,190,278
+335700,Point Park University,Pittsburgh,PA,www.pointpark.edu,0.7074,995,27000,9247,0.2305,11,0.7019,0.5827,716,874,1151,737,500,1220,521
+326200,Elizabethtown College,Elizabethtown,PA,www.etown.edu,0.7082,1133,27000,13429,0.7164,21,0.8632,0.6949,717,286,1151,1195,198,609,250
+350500,Maryville College,Maryville,TN,www.maryvillecollege.edu,0.7083,1049,27000,6739,1,21,0.784,0.5421,718,600,1151,983,927,190,626
+221100,Springfield College,Springfield,MA,www.springfield.edu/,0.7087,1025,24826.5,10507,1,12,0.8305,0.6872,719,728,630,1119,367,190,267
+134900,University of Northern Colorado,Greeley,CO,www.unco.edu,0.7088,1033,22500,8348,0.6364,13,0.5633,0.4635,720,671,427,394,662,753,848
+262800,Rider University,Lawrenceville,NJ,www.rider.edu,0.7091,1026,26174,13081,0.472,21,0.6445,0.632,721,721,857,573,214,1016,392
+114600,California State University-Chico,Chico,CA,www.csuchico.edu,0.7096,996,16500,6913,0.5236,13,0.4917,0.5926,722,868,99,283,889,939,489
+242300,Mississippi State University,Mississippi State,MS,www.msstate.edu,0.7102,1126,23537,7318,0.8673,33,0.7217,0.6043,723,301,530,787,830,374,461
+363200,Texas A & M University-College Station,College Station,TX,www.tamu.edu,0.7103,1206,19000,14943,0.8763,13,0.661,0.7934,724,162,179,621,142,359,131
+326700,Geneva College,Beaver Falls,PA,www.geneva.edu,0.7106,1072,26000,8417,0.9694,21,0.8632,0.6468,725,486,849,1195,637,248,360
+187400,Luther College,Decorah,IA,www.luther.edu,0.7116,1157,27000,13112,0.7727,33,0.8465,0.8159,726,235,1151,1167,213,516,102
+345600,Winthrop University,Rock Hill,SC,www.winthrop.edu,0.7118,1053,27000,8526,0.5581,13,0.5809,0.5144,727,561,1151,422,608,894,706
+161100,University of Hawaii at Hilo,Hilo,HI,hilo.hawaii.edu,0.7134,936,19197,13729,0.7363,33,0.2273,0.3843,729,1091,186,103,185,578,1036
+180800,University of Southern Indiana,Evansville,IN,www.usi.edu,0.7134,1001,22866,6024,0.576,22,0.8581,0.4068,729,843,449,1184,1052,867,991
+110700,Southern Arkansas University Main Campus,Magnolia,AR,WWW.SAUMAG.EDU,0.7142,989,17000,6436,0.6942,33,0.6311,0.3061,730,904,112,544,986,647,1171
+324700,Misericordia University,Dallas,PA,www.misericordia.edu,0.7146,1074,27000,7079,1,21,0.9298,0.7116,731,480,1151,1244,860,190,221
+216000,Lesley University,Cambridge,MA,www.lesley.edu,0.7149,1086,25000,9026,0.8191,12,0.6833,0.5826,732,436,731,687,527,452,522
+341800,Anderson University,Anderson,SC,www.andersonuniversity.edu,0.7152,1038,27000,5479,0.3765,13,0.8312,0.5175,733,646,1151,1120,1126,1115,695
+140600,Southern Connecticut State University,New Haven,CT,www.southernct.edu,0.7154,932,24099,11023,0.4605,12,0.5757,0.5287,734,1100,577,415,320,1033,666
+196100,Centre College,Danville,KY,www.centre.edu,0.7157,1263,27000,16874,0.8811,32,0.8042,0.8214,735,101,1151,1044,104,350,94
+226200,Kettering University,Flint,MI,WWW.KETTERING.EDU,0.7164,1223,27000,11797,1,12,0.7644,0.5714,736,139,1151,917,273,190,543
+383900,Carthage College,Kenosha,WI,www.carthage.edu,0.7165,1104,27000,9053,1,22,0.7464,0.6069,737,379,1151,865,521,190,459
+370900,Emory & Henry College,Emory,VA,www.ehc.edu,0.7172,995,27000,10689,0.6286,41,0.7623,0.473,738,874,1151,908,343,771,820
+307200,Malone University,Canton,OH,www.malone.edu,0.7174,1045,25000,7392,0.5164,13,0.8409,0.5141,739,619,731,1154,816,952,707
+297900,Warren Wilson College,Swannanoa,NC,www.warren-wilson.edu,0.7177,1134,23250,11700,0.6068,21,0.823,0.51,741,282,498,1099,284,810,717
+323000,Allegheny College,Meadville,PA,www.allegheny.edu,0.7177,1170,29046,12779,1,32,0.7917,0.7829,741,210,1198,1003,231,190,141
+320800,Northwest Christian University,Eugene,OR,www.nwcu.edu/,0.7191,987,23750,4694,0.9286,12,0.7927,0.6625,742,909,546,1009,1192,303,324
+336800,Saint Vincent College,Latrobe,PA,www.stvincent.edu,0.7192,1034,27000,7509,0.9561,21,0.8446,0.7421,743,665,1151,1163,792,268,177
+352700,Tusculum College,Greeneville,TN,www.tusculum.edu,0.7194,990,28000,4227,1,32,0.7056,0.3619,744,901,1181,750,1221,190,1075
+204300,Husson University,Bangor,ME,www.husson.edu,0.7195,951,26250,6040,0.4169,13,0.894,0.4209,745,1038,869,1232,1047,1081,963
+406900,University of Minnesota-Crookston,Crookston,MN,www1.crk.umn.edu/,0.7196,1006,19500,6197,0.9545,32,0.7974,0.479,746,814,208,1023,1025,271,805
+304500,The University of Findlay,Findlay,OH,www.findlay.edu/,0.7197,1035,23734,8270,0.7817,32,0.8012,0.5463,747,662,540,1037,682,501,611
+223600,Alma College,Alma,MI,alma.edu,0.7198,1101,27000,11731,0.6,32,0.8355,0.6075,748,388,1151,1133,279,829,457
+102400,University of West Alabama,Livingston,AL,www.uwa.edu,0.7199,990,24253,7552,0.5096,43,0.4421,0.329,749,901,596,227,784,967,1132
+248200,Maryville University of Saint Louis,Saint Louis,MO,www.maryville.edu,0.7205,1137,24000,6558,0.2214,21,0.7537,0.6604,750,277,572,886,964,1225,330
+252100,Webster University,Saint Louis,MO,www.webster.edu,0.7206,1105,25000,6722,1,21,0.6238,0.6364,752,375,731,524,930,190,384
+351000,Middle Tennessee State University,Murfreesboro,TN,www.mtsu.edu,0.7206,1032,21743,8512,0.7446,12,0.6596,0.462,752,675,360,619,611,557,852
+230100,Northern Michigan University,Marquette,MI,www.nmu.edu,0.7209,1010,22000,7460,0.6817,33,0.8601,0.4847,753,795,381,1191,802,665,783
+142200,University of Hartford,West Hartford,CT,www.hartford.edu,0.7213,1000,26960,12724,0.4702,12,0.5819,0.527,754,850,912,427,234,1020,671
+198900,University of Kentucky,Lexington,KY,www.uky.edu,0.7221,1142,21500,11208,0.8198,11,0.7681,0.6139,755,268,350,930,309,448,442
+329300,Lycoming College,Williamsport,PA,www.lycoming.edu,0.7222,1043,27000,8436,0.704,13,0.756,0.6176,756,628,1151,889,632,632,435
+218700,Massachusetts College of Liberal Arts,North Adams,MA,www.mcla.edu,0.7227,977,25000,9487,0.5172,31,0.7594,0.5169,757,940,731,901,477,950,696
+218400,Fitchburg State University,Fitchburg,MA,www.fitchburgstate.edu,0.7231,1004,22650,8460,0.5339,22,0.7458,0.5675,758,831,432,860,627,925,549
+346500,Mount Marty College,Yankton,SD,www.mtmc.edu,0.7236,990,27000,7255,0.395,33,0.8139,0.5441,760,901,1151,1072,843,1098,619
+382300,West Liberty University,West Liberty,WV,www.westliberty.edu/,0.7236,965,24915,5416,0.6473,41,0.8759,0.4,760,998,638,1215,1134,731,1006
+109000,Arkansas State University-Main Campus,Jonesboro,AR,www2.astate.edu,0.7239,1088,19250,5358,0.7288,13,0.7372,0.393,761,429,187,833,1142,588,1022
+266600,Adelphi University,Garden City,NY,www.adelphi.edu/,0.7242,1092,25000,12729,0.3175,21,0.5409,0.6398,762,408,731,343,232,1167,375
+182600,Purdue University-North Central Campus,Westville,IN,www.pnc.edu,0.7251,959,25000,5080,0.9565,41,0.8158,0.2415,763,1020,731,1079,1167,267,1218
+301200,Ashland University,Ashland,OH,https://www.ashland.edu,0.7257,1048,27000,7174,0.4511,31,0.7806,0.5684,764,609,1151,967,855,1041,548
+3106200,Our Lady of the Lake College,Baton Rouge,LA,www.ololcollege.edu,0.726,1010,25000,7026,0.5032,12,0.6718,0.3068,765,795,731,654,870,971,1168
+375400,Virginia Polytechnic Institute and State University,Blacksburg,VA,WWW.VT.EDU,0.7263,1215,24250,11178,0.9818,13,0.6967,0.8258,766,149,595,721,311,222,90
+115000,California State University-Sacramento,Sacramento,CA,www.csus.edu,0.7265,937,16500,7426,0.4741,11,0.3028,0.4373,767,1089,99,134,810,1013,921
+254200,Creighton University,Omaha,NE,www.creighton.edu,0.7267,1200,23250,13517,0.6414,11,0.7257,0.7785,768,166,498,796,192,741,147
+195900,Campbellsville University,Campbellsville,KY,www.campbellsville.edu,0.7272,964,18500,5694,0.9349,32,0.7282,0.3937,769,1001,148,802,1090,299,1019
+148700,Eckerd College,Saint Petersburg,FL,www.eckerd.edu,0.7274,1153,27000,11485,0.7639,12,0.7711,0.6571,771,240,1151,937,294,525,338
+302300,Capital University,Columbus,OH,www.capital.edu,0.7274,1100,27000,9208,0.4485,21,0.7648,0.5902,771,391,1151,919,502,1046,499
+361500,Texas State University,San Marcos,TX,www.txstate.edu,0.729,1032,21358.5,6511,0.7171,23,0.5104,0.5511,772,675,309,303,973,606,593
+371900,Longwood University,Farmville,VA,www.longwood.edu,0.7292,1005,24588.5,7687,1,33,0.7777,0.6616,773,824,618,957,763,190,327
+218000,Massachusetts College of Art and Design,Boston,MA,www.massart.edu,0.7294,1077,26000,11227,0.8409,11,0.6536,0.7033,774,467,849,598,308,422,238
+202100,Northwestern State University of Louisiana,Natchitoches,LA,www.nsula.edu/,0.7298,1027,22375,5447,0.9904,33,0.5513,0.3779,775,718,404,363,1129,200,1048
+450800,University of Colorado Denver/Anschutz Medical Campus,Denver,CO,www.ucdenver.edu/,0.7299,1055,21500,26708,0.6694,11,0.5049,0.3996,777,550,350,295,41,689,1007
+185900,Dordt College,Sioux Center,IA,www.dordt.edu,0.7299,1100,23250,9273,1,33,0.7446,0.6558,777,391,498,856,495,190,343
+325800,Duquesne University,Pittsburgh,PA,www.duq.edu,0.7306,1144,27000,10922,0.4926,11,0.8303,0.7796,778,266,1151,1116,328,991,144
+352600,Trevecca Nazarene University,Nashville,TN,www.trevecca.edu,0.7308,1066,19500,6894,1,11,0.7122,0.5138,779,508,208,767,891,190,709
+132200,University of Redlands,Redlands,CA,www.redlands.edu,0.7309,1110,27000,9254,0.969,13,0.469,0.6871,780,351,1151,260,499,250,268
+293000,Greensboro College,Greensboro,NC,www.greensboro.edu,0.7311,876,26000,6394,1,11,0.5263,0.3697,781,1189,849,326,994,190,1064
+170000,Judson University,Elgin,IL,www.judsonu.edu,0.7312,1080,23500,6450,0.3641,12,0.6194,0.4972,782,457,527,519,984,1125,749
+224100,Calvin College,Grand Rapids,MI,www.calvin.edu,0.7314,1182,26999.5,12897,0.9843,12,0.7464,0.7369,784,194,916,865,223,218,186
+290700,University of North Carolina at Asheville,Asheville,NC,www.unca.edu,0.7314,1191,21451.5,8967,0.7663,13,0.821,0.6416,784,178,316,1091,538,520,371
+314400,Xavier University,Cincinnati,OH,www.xavier.edu,0.7315,1113,27000,10076,0.5158,11,0.7236,0.7113,785,337,1151,794,416,953,222
+295400,University of North Carolina at Pembroke,Pembroke,NC,www.uncp.edu,0.7326,930,21000,7060,0.8117,32,0.3811,0.3435,787,1109,289,180,863,465,1111
+327500,Holy Family University,Philadelphia,PA,www.holyfamily.edu,0.7326,925,27000,8916,0.2265,11,0.6333,0.5561,787,1119,1151,549,550,1224,577
+371100,Ferrum College,Ferrum,VA,www.ferrum.edu,0.7331,852,27000,6628,1,42,0.5473,0.2513,788,1214,1151,350,948,190,1213
+181600,Indiana University-South Bend,South Bend,IN,https://iusb.edu/,0.7333,942,25537,7553,0.5848,12,0.7514,0.2587,789,1073,775,877,783,859,1208
+285600,SUNY College of Agriculture and Technology at Cobleskill,Cobleskill,NY,www.cobleskill.edu/,0.7334,877,17492,8430,0.5291,32,0.7301,0.364,791,1188,121,809,633,929,1073
+353100,The University of Tennessee-Martin,Martin,TN,www.utm.edu,0.7334,1050,24109,8384,0.6578,33,0.7637,0.4704,791,594,579,916,646,714,828
+379000,Seattle University,Seattle,WA,www.seattleu.edu,0.7335,1183,25000,15163,0.6878,11,0.4458,0.7764,792,193,731,228,133,657,152
+346100,Dakota Wesleyan University,Mitchell,SD,www.dwu.edu,0.7343,1044,27000,5512,0.375,33,0.9007,0.441,793,624,1151,1237,1124,1119,912
+369600,University of Vermont,Burlington,VT,www.uvm.edu,0.7344,1191,21614.5,16893,0.8066,13,0.8305,0.7558,794,178,355,1119,103,472,169
+276900,Marymount Manhattan College,New York,NY,www.mmm.edu,0.735,1065,23000,11003,1,11,0.5756,0.4393,795,513,472,414,321,190,918
+308300,University of Mount Union,Alliance,OH,www.mountunion.edu,0.7355,1057,27000,9277,1,31,0.8302,0.6275,796,537,1151,1115,493,190,404
+185600,Cornell College,Mount Vernon,IA,www.cornellcollege.edu,0.7363,1200,27000,10924,0.9697,31,0.6617,0.6569,797,166,1151,628,327,247,339
+360600,Sam Houston State University,Huntsville,TX,www.shsu.edu/,0.7367,1000,22208,5925,0.7554,32,0.54,0.5306,798,850,390,341,1068,539,659
+199900,University of Louisville,Louisville,KY,www.louisville.edu,0.7386,1144,20493,15324,0.6319,21,0.763,0.5353,799,266,252,912,130,763,642
+196300,Eastern Kentucky University,Richmond,KY,www.eku.edu,0.7387,1008,23500,8940,0.5946,32,0.8469,0.4186,800,807,527,1168,545,839,969
+169200,Illinois State University,Normal,IL,illinoisstate.edu/,0.7388,1110,22500,9858,0.703,22,0.7817,0.7192,801,351,427,969,435,634,207
+3071900,Mount Carmel College of Nursing,Columbus,OH,www.mccn.edu,0.7389,1030,19000,5951,0.6395,11,0.8726,0.6447,802,703,179,1212,1064,744,364
+143700,Catholic University of America,Washington,DC,www.cua.edu,0.7391,1130,26000,16368,0.5,11,0.6342,0.6659,803,291,849,552,109,980,318
+330200,Mount Aloysius College,Cresson,PA,www.mtaloy.edu/,0.7398,913,23508,5815,0.3676,31,0.7776,0.4417,804,1141,528,955,1077,1122,910
+296800,Saint Augustine's University,Raleigh,NC,www.st-aug.edu,0.7403,740,35198,6308,0.539,11,0.0128,0.3285,805,1248,1240,18,1010,918,1134
+329600,Marywood University,Scranton,PA,www.marywood.edu/,0.7418,1030,27000,9623,0.4142,13,0.7939,0.6896,806,703,1151,1012,468,1084,262
+261600,Monmouth University,West Long Branch,NJ,www.monmouth.edu,0.7419,1055,26250,8956,0.4873,21,0.7627,0.6719,807,550,869,911,541,999,300
+746600,LIM College,New York,NY,www.limcollege.edu,0.7421,914,26335,4380,0.1085,11,0.5517,0.5066,808,1138,873,365,1211,1247,723
+238000,Saint Mary's University of Minnesota,Winona,MN,www.smumn.edu,0.7424,1067,20500,5392,0.2164,32,0.5514,0.646,809,504,268,364,1136,1227,362
+310000,Ohio University-Main Campus,Athens,OH,www.ohio.edu,0.7427,1106,21250,9704,0.7237,32,0.8313,0.672,810,364,301,1121,455,594,298
+182000,Manchester University,North Manchester,IN,www.manchester.edu,0.7428,1000,27000,8996,0.7246,32,0.8405,0.548,811,850,1151,1152,534,591,605
+100400,University of Montevallo,Montevallo,AL,www.montevallo.edu,0.743,1070,23266,7972,0.6552,21,0.7266,0.4438,812,498,499,798,716,721,904
+350200,Lincoln Memorial University,Harrogate,TN,www.lmunet.edu,0.7437,1055,18000,12918,0.6301,32,0.8718,0.4688,813,550,137,1211,221,767,834
+377500,Eastern Washington University,Cheney,WA,www.ewu.edu,0.7439,958,20800,6934,0.6563,31,0.6372,0.4577,814,1025,277,559,883,718,865
+246100,Drury University,Springfield,MO,www.drury.edu,0.7441,1185,23454,6561,0.9735,12,0.8222,0.626,815,188,513,1096,962,236,411
+177600,University of Illinois at Chicago,Chicago,IL,www.uic.edu,0.7448,1125,18750,26053,0.6696,11,0.3591,0.5968,817,313,157,162,44,688,473
+249500,Truman State University,Kirksville,MO,www.truman.edu,0.7448,1226,22250,9417,0.8625,33,0.8074,0.7054,817,137,397,1055,482,382,232
+174100,Olivet Nazarene University,Bourbonnais,IL,www.olivet.edu,0.7449,1105,25000,4911,0.3583,23,0.7945,0.5593,819,375,731,1015,1177,1129,568
+302500,Cedarville University,Cedarville,OH,www.cedarville.edu,0.7449,1187,24994,9969,0.7099,31,0.8712,0.7025,819,182,642,1210,424,623,239
+337904,University of Pittsburgh-Greensburg,Greensburg,PA,www.greensburg.pitt.edu/,0.7452,1011,26813.5,5824,0.7959,21,0.7921,0.5283,820,770,903,1004,1074,481,668
+218900,Westfield State University,Westfield,MA,www.westfield.ma.edu,0.7456,997,23175,7305,0.447,21,0.7849,0.6269,821,862,477,985,833,1050,406
+262500,William Paterson University of New Jersey,Wayne,NJ,www.wpunj.edu,0.7458,980,25000,10595,0.9685,21,0.4484,0.5091,822,934,731,233,354,256,719
+204100,University of Maine at Fort Kent,Fort Kent,ME,www.umfk.maine.edu,0.7461,899,18500,6945,0.381,43,0.7437,0.4955,823,1167,148,852,881,1112,757
+324500,Chestnut Hill College,Philadelphia,PA,www.chc.edu,0.7471,968,27000,7351,0.2582,11,0.4237,0.4742,824,982,1151,212,823,1201,818
+270900,Concordia College-New York,Bronxville,NY,www.concordia-ny.edu,0.7477,872,26000,8617,1,21,0.351,0.4808,825,1195,849,157,596,190,794
+332914,Pennsylvania State University-Penn State Schuylkill,Schuylkill Haven,PA,www.sl.psu.edu,0.7478,899,27000,5823,0.6377,32,0.6662,0.4255,826,1167,1151,640,1075,749,958
+323300,Alvernia University,Reading,PA,www.alvernia.edu,0.7479,970,27000,6818,1,13,0.6959,0.5326,827,973,1151,718,907,190,649
+353000,The University of Tennessee-Knoxville,Knoxville,TN,www.utk.edu,0.7483,1198,19998.5,22579,0.8322,12,0.7979,0.6931,828,168,223,1024,61,431,255
+150500,Lynn University,Boca Raton,FL,www.lynn.edu,0.7487,980,18833,8399,0.7059,13,0.4322,0.4049,829,934,159,221,643,629,996
+322300,University of Oregon,Eugene,OR,www.uoregon.edu,0.749,1116,21500,12386,0.6795,12,0.6191,0.6881,830,332,350,517,250,668,266
+317000,Oklahoma State University-Main Campus,Stillwater,OK,www.okstate.edu/,0.7495,1137,20083.5,8602,0.8791,32,0.7118,0.6103,831,277,237,765,599,354,456
+648700,Aultman College of Nursing and Health Sciences,Canton,OH,www.aultmancollege.edu,0.75,1085,19000,8729,0.875,13,0.8764,0.5,832,441,179,1216,575,361,744
+316100,Northeastern State University,Tahlequah,OK,www.nsuok.edu,0.7501,1009,17750,7917,0.661,33,0.5001,0.3074,834,803,132,289,723,711,1167
+378500,Pacific Lutheran University,Tacoma,WA,www.plu.edu,0.7501,1115,26800,11937,0.6276,21,0.6778,0.6798,834,334,899,674,270,775,279
+298500,Wingate University,Wingate,NC,www.wingate.edu,0.7506,1001,26500,8993,1,21,0.6368,0.5081,836,843,885,557,536,190,720
+304800,Heidelberg University,Tiffin,OH,www.heidelberg.edu,0.7506,1027,29000,9017,0.4882,32,0.7409,0.4701,836,718,1197,845,529,996,830
+201700,McNeese State University,Lake Charles,LA,www.mcneese.edu,0.7527,1030,20785,4921,1,13,0.7038,0.4119,837,703,276,742,1176,190,979
+324100,Cabrini University,Radnor,PA,www.cabrini.edu,0.7528,897,26000,7826,0.3587,21,0.6837,0.503,838,1168,849,689,740,1128,733
+311000,Otterbein University,Westerville,OH,www.otterbein.edu,0.7531,1094,27000,10325,0.5483,21,0.7217,0.5903,839,405,1151,787,382,908,498
+373500,Virginia Commonwealth University,Richmond,VA,www.vcu.edu/,0.7535,1105,24151,12722,0.6768,12,0.5095,0.5918,840,375,582,301,235,674,492
+112200,Biola University,La Mirada,CA,www.biola.edu,0.754,1122,24375,10696,0.9884,21,0.5165,0.6891,842,318,602,313,341,207,264
+277500,Molloy College,Rockville Centre,NY,www.molloy.edu,0.754,1072,27000,13066,0.2549,21,0.6259,0.6972,842,486,1151,529,216,1206,247
+384200,Concordia University-Wisconsin,Mequon,WI,www.cuw.edu,0.7541,1089,23476,7646,1,21,0.6993,0.6119,843,425,515,729,772,190,449
+229200,Michigan Technological University,Houghton,MI,www.mtu.edu,0.755,1244,26264,10843,0.8792,33,0.8538,0.6363,844,117,871,1183,334,353,385
+263200,Seton Hall University,South Orange,NJ,www.shu.edu,0.7554,1133,25000,10660,0.924,21,0.5031,0.6645,846,286,731,293,345,306,321
+342300,Citadel Military College of South Carolina,Charleston,SC,www.citadel.edu,0.7554,1073,25000,9361,0.6745,12,0.7697,0.6888,846,484,731,933,487,681,265
+648900,The Christ College of Nursing and Health Sciences,Cincinnati,OH,www.thechristcollege.edu,0.7568,947,20000,14194,0.5968,11,0.8216,0.7857,847,1058,235,1093,165,835,139
+325200,Delaware Valley University,Doylestown,PA,www.delval.edu,0.7574,990,26551,8734,0.4292,21,0.7778,0.5828,848,901,888,959,573,1067,520
+251900,University of Missouri-St Louis,Saint Louis,MO,www.umsl.edu/,0.7578,1105,21113.5,9752,0.5005,21,0.622,0.4165,850,375,293,523,447,974,970
+312500,University of Cincinnati-Main Campus,Cincinnati,OH,www.uc.edu,0.7578,1165,23100,10072,0.598,11,0.758,0.5956,850,221,474,897,418,833,480
+128100,William Jessup University,Rocklin,CA,WWW.JESSUP.EDU,0.7581,1009,21500,6551,0.2159,41,0.6844,0.6667,852,803,350,691,966,1228,317
+155600,Brenau University,Gainesville,GA,www.brenau.edu,0.7581,985,27429,6985,0.3535,13,0.4978,0.4659,852,916,1158,286,875,1137,846
+332910,Pennsylvania State University-Penn State Greater Allegheny,McKeesport,PA,ga.psu.edu,0.7584,967,27000,6147,0.5,21,0.6065,0.3836,853,987,1151,484,1032,980,1039
+122000,The Master's College and Seminary,Santa Clarita,CA,www.masters.edu,0.7588,1103,21250,7546,0.3065,21,0.6184,0.6243,854,382,301,516,785,1173,417
+1011500,The University of Texas at San Antonio,San Antonio,TX,www.utsa.edu/,0.7591,1037,23348,6866,0.7453,11,0.2607,0.3111,855,652,506,118,900,556,1165
+327600,Immaculata University,Immaculata,PA,www.immaculata.edu,0.7594,962,26020.5,5331,1,21,0.7311,0.6116,856,1011,850,814,1148,190,451
+130200,Saint Mary's College of California,Moraga,CA,www.stmarys-ca.edu,0.7595,1109,25750,12896,0.443,41,0.4564,0.6902,857,356,788,250,225,1055,261
+708500,Mount Vernon Nazarene University,Mount Vernon,OH,www.mvnu.edu,0.7598,1046,26769,7324,0.8679,32,0.8294,0.5842,858,616,897,1111,828,371,515
+183900,Trine University,Angola,IN,www.trine.edu,0.7599,1078,26000,7598,0.4233,32,0.783,0.5394,859,464,849,977,780,1071,635
+325600,Drexel University,Philadelphia,PA,www.drexel.edu,0.7601,1186,25500,14939,0.5459,11,0.5555,0.6736,860,183,773,376,143,910,294
+180900,Indiana University-Bloomington,Bloomington,IN,www.iub.edu,0.7609,1198,23000,13730,0.8611,13,0.7207,0.7764,861,168,472,782,184,385,152
+332915,Pennsylvania State University-Penn State Worthington Scranton,Dunmore,PA,worthingtonscranton.psu.edu/,0.7611,959,27000,5600,0.5208,21,0.8136,0.4601,862,1020,1151,1071,1108,944,857
+210900,McDaniel College,Westminster,MD,www.mcdaniel.edu,0.7613,1094,27000,9518,0.2432,23,0.7289,0.6784,863,405,1151,805,476,1212,282
+123800,Mills College,Oakland,CA,www.mills.edu,0.7614,1152,23471,15534,0.597,11,0.4488,0.7178,864,245,514,235,125,834,211
+335900,Robert Morris University,Moon Township,PA,www.rmu.edu,0.762,1051,27000,7471,1,21,0.753,0.6217,865,569,1151,881,798,190,426
+384800,Edgewood College,Madison,WI,www.edgewood.edu,0.7622,1048,26000,7616,0.5357,12,0.7966,0.6208,866,609,849,1021,777,922,427
+160200,Georgia College and State University,Milledgeville,GA,WWW.GCSU.EDU,0.7624,1132,21500,7436,0.8268,32,0.8462,0.6126,867,287,350,1166,806,438,447
+391900,University of Wisconsin-La Crosse,La Crosse,WI,www.uwlax.edu,0.7629,1145,23105,6871,0.8681,13,0.8964,0.6835,868,262,475,1233,897,370,272
+252500,William Woods University,Fulton,MO,www.williamwoods.edu,0.763,1042,22282.5,6356,0.2165,32,0.8273,0.5272,869,631,400,1106,998,1226,670
+215800,Lasell College,Newton,MA,www.lasell.edu/,0.7632,974,27000,6513,0.332,13,0.7446,0.5655,870,950,1151,856,972,1160,555
+248500,Midwestern Baptist Theological Seminary,Kansas City,MO,https://www.mbts.edu,0.7636,970,19000,3641,0.7917,11,0.8035,0.4,871,973,179,1043,1233,484,1006
+327000,Gwynedd Mercy University,Gwynedd Valley,PA,www.gmercyu.edu/,0.7638,961,25556,8930,0.2296,21,0.5894,0.5959,872,1014,777,443,549,1221,477
+308400,Muskingum University,New Concord,OH,www.muskingum.edu/,0.7644,1009,27000,8808,0.522,32,0.7897,0.5259,873,803,1151,999,561,942,674
+137100,University of Denver,Denver,CO,www.du.edu,0.7649,1231,23166,14380,0.5539,11,0.6763,0.7648,875,130,476,669,159,898,158
+192700,Emporia State University,Emporia,KS,www.emporia.edu,0.7649,1009,20848,7276,0.903,33,0.7082,0.3874,875,803,279,758,839,329,1030
+381500,Marshall University,Huntington,WV,www.marshall.edu/,0.7653,1021,22705,8402,0.7526,13,0.8521,0.4449,876,740,435,1178,640,543,902
+157900,Augusta University,Augusta,GA,www.augusta.edu,0.7654,1030,12350,20309,1,12,0.5535,0.303,877,703,32,372,77,190,1174
+114900,Humboldt State University,Arcata,CA,www.humboldt.edu,0.7655,986,19553,8376,0.518,33,0.4738,0.4384,878,912,209,264,649,947,919
+249600,Northwest Missouri State University,Maryville,MO,www.nwmissouri.edu,0.7658,1051,25375,7972,0.8523,33,0.811,0.499,879,569,751,1064,716,403,745
+148200,Florida College,Temple Terrace,FL,www.floridacollege.edu,0.7659,1063,13000,9075,0.74,21,0.8126,0.5106,881,522,38,1069,517,568,716
+261300,New Jersey City University,Jersey City,NJ,www.njcu.edu,0.7659,890,17500,10075,1,12,0.2442,0.3179,881,1177,128,110,417,190,1157
+254100,Concordia University-Nebraska,Seward,NE,www.cune.edu,0.7661,1067,26000,5567,0.8605,32,0.8653,0.663,882,504,849,1201,1116,386,323
+201000,Louisiana State University and Agricultural & Mechanical College,Baton Rouge,LA,www.lsu.edu,0.7663,1161,20000,10227,0.9016,12,0.7415,0.6739,883,230,235,847,394,331,293
+201300,Louisiana State University-Shreveport,Shreveport,LA,www.lsus.edu/,0.7667,1050,17250,6256,0.6782,12,0.5917,0.3066,884,594,117,451,1018,672,1169
+374600,University of Mary Washington,Fredericksburg,VA,www.umw.edu,0.7672,1114,22247.5,7328,0.646,22,0.6937,0.7288,885,336,391,715,827,735,194
+108102,Arizona State University-Polytechnic,Mesa,AZ,www.asu.edu/,0.7673,1138,20229,10320,0.9183,11,0.5765,0.5948,886,274,245,418,384,314,483
+386100,Marian University,Fond Du Lac,WI,www.marianuniversity.edu,0.7674,950,26798,6341,0.3786,13,0.789,0.5599,887,1046,898,996,1001,1113,567
+746800,School of Visual Arts,New York,NY,www.sva.edu,0.7677,1029,27000,15105,0.2292,11,0.3771,0.6552,888,713,1151,174,136,1223,344
+181500,Indiana University-Northwest,Gary,IN,www.iun.edu,0.7678,916,27000,6340,0.467,13,0.5572,0.2836,890,1135,1151,379,1002,1024,1189
+238800,University of Minnesota-Duluth,Duluth,MN,www.d.umn.edu/,0.7678,1110,25190,7011,0.8199,13,0.8647,0.5924,890,351,738,1197,873,447,490
+341400,University of Rhode Island,Kingston,RI,www.uri.edu/,0.7681,1077,23250,8202,0.6386,21,0.704,0.5887,891,467,498,743,689,746,501
+221000,University of Massachusetts-Dartmouth,North Dartmouth,MA,www.umassd.edu,0.7682,1025,25750,11024,0.6465,22,0.6576,0.4745,892,728,788,612,319,734,816
+249900,Rockhurst University,Kansas City,MO,www.rockhurst.edu,0.7694,1164,19950,7034,0.5205,11,0.7439,0.6927,893,223,221,853,868,945,256
+161600,Boise State University,Boise,ID,www.boisestate.edu,0.77,1042,23500,7399,0.5751,12,0.7516,0.3571,894,631,527,878,815,872,1090
+316800,Rogers State University,Claremore,OK,www.rsu.edu,0.7701,850,16000,5538,0.4093,31,0.5935,0.1877,895,1217,83,456,1118,1086,1235
+282000,St Francis College,Brooklyn Heights,NY,www.sfc.edu,0.7704,935,24774,7426,0.2374,11,0.3923,0.5477,896,1093,629,187,810,1217,607
+176700,Benedictine University,Lisle,IL,www.ben.edu,0.7717,1030,23000,6646,0.2383,21,0.4557,0.5092,897,703,472,247,944,1215,718
+202000,University of Louisiana at Monroe,Monroe,LA,www.ulm.edu,0.7722,1030,21082.5,6141,0.9968,13,0.6284,0.405,898,703,292,539,1033,195,995
+154100,Abraham Baldwin Agricultural College,Tifton,GA,www.abac.edu,0.7726,927,15085.5,4808,0.601,32,0.783,0.1618,900,1115,62,977,1184,822,1244
+338400,University of Scranton,Scranton,PA,www.scranton.edu,0.7726,1125,27000,11042,0.6674,13,0.8181,0.8044,900,313,1151,1085,317,692,119
+292300,East Carolina University,Greenville,NC,www.ecu.edu,0.7728,1036,24360,11749,0.8239,13,0.6898,0.5863,902,654,599,703,276,440,508
+352900,The University of Tennessee-Chattanooga,Chattanooga,TN,www.utc.edu,0.7728,1088,20090.5,7065,0.6466,12,0.7381,0.3983,902,429,238,836,861,733,1011
+232900,Wayne State University,Detroit,MI,www.wayne.edu,0.7733,1070,21393,13364,0.5446,11,0.5501,0.3431,903,498,312,360,201,911,1113
+321900,Southern Oregon University,Ashland,OR,www.sou.edu,0.7737,1029,23334,8340,0.569,22,0.6316,0.3956,904,713,504,546,665,880,1016
+345700,Wofford College,Spartanburg,SC,www.wofford.edu,0.7739,1194,25000,10695,0.8675,13,0.7999,0.7807,905,174,731,1030,342,373,143
+227300,Hope College,Holland,MI,www.hope.edu,0.7741,1185,27000,10084,0.6522,13,0.8388,0.7975,906,188,1151,1143,415,726,127
+383000,West Virginia Wesleyan College,Buckhannon,WV,www.wvwc.edu,0.7759,1005,26000,6326,0.5948,33,0.8015,0.5838,907,824,849,1038,1004,837,517
+159000,Savannah State University,Savannah,GA,www.savannahstate.edu/,0.7763,847,33202,5047,0.9383,12,0.0421,0.2751,908,1220,1233,49,1170,290,1195
+174900,Roosevelt University,Chicago,IL,www.roosevelt.edu,0.7764,1050,23562.5,10315,0.3521,11,0.4521,0.3035,909,594,531,243,385,1138,1172
+251600,University of Missouri-Columbia,Columbia,MO,missouri.edu/,0.7767,1166,21647,11448,0.7394,12,0.7923,0.6948,911,215,356,1006,297,571,251
+326600,Gannon University,Erie,PA,www.gannon.edu,0.7767,1037,27000,7759,0.5684,12,0.7861,0.6581,911,652,1151,987,748,881,336
+233700,Bethany Lutheran College,Mankato,MN,www.blc.edu,0.7768,1070,25000,12008,0.6212,13,0.8708,0.547,912,498,731,1209,266,790,609
+117900,Notre Dame de Namur University,Belmont,CA,www.ndnu.edu,0.7771,932,26865.5,7045,0.2762,21,0.254,0.5306,913,1100,906,115,866,1191,659
+189000,University of Northern Iowa,Cedar Falls,IA,www.uni.edu,0.7772,1050,21039,9802,0.75,13,0.8522,0.6395,914,594,290,1179,443,550,376
+319400,George Fox University,Newberg,OR,www.georgefox.edu,0.7776,1081,22000,8930,0.4194,31,0.6961,0.6484,916,454,381,719,549,1077,358
+321000,Oregon State University,Corvallis,OR,oregonstate.edu,0.7776,1112,23000,10914,0.7697,13,0.6774,0.6307,916,339,472,672,329,517,399
+108101,Arizona State University-West,Glendale,AZ,www.asu.edu/,0.778,1095,20229,8436,0.8571,11,0.5226,0.5918,917,402,245,322,632,392,492
+188300,Northwestern College,Orange City,IA,www.nwciowa.edu/,0.7783,1103,25962.5,8356,0.9778,32,0.8356,0.6314,918,382,798,1134,659,230,396
+189100,University of Dubuque,Dubuque,IA,www.dbq.edu,0.7788,941,26000,6773,1,13,0.6723,0.4806,919,1078,849,656,915,190,795
+303600,Franciscan University of Steubenville,Steubenville,OH,www.franciscan.edu,0.7792,1183,23316.5,7693,1,13,0.8276,0.7636,920,193,503,1108,761,190,161
+245400,University of Central Missouri,Warrensburg,MO,www.ucmo.edu,0.7795,1010,22983,7862,1,32,0.6538,0.5294,921,795,454,599,732,190,664
+332911,Pennsylvania State University-Penn State Mont Alto,Mont Alto,PA,www.montalto.psu.edu/,0.7802,948,27000,5428,0.6263,31,0.8124,0.5192,923,1055,1151,1067,1132,779,691
+342800,College of Charleston,Charleston,SC,www.cofc.edu,0.7802,1137,22251,8994,0.6269,12,0.8136,0.6655,923,277,398,1071,535,777,319
+255500,Nebraska Wesleyan University,Lincoln,NE,www.nebrwesleyan.edu/,0.7814,1124,27000,7123,0.4549,11,0.8375,0.6945,924,314,1151,1139,857,1037,252
+158600,Oglethorpe University,Atlanta,GA,www.oglethorpe.edu,0.7823,1139,27000,8735,1,21,0.3383,0.5123,926,273,1151,152,572,190,713
+328700,La Salle University,Philadelphia,PA,www.lasalle.edu,0.7823,994,27000,9274,0.4091,11,0.5475,0.6619,926,876,1151,351,494,1087,326
+124300,Mount Saint Mary's University,Los Angeles,CA,www.msmu.edu,0.783,902,25000,9347,0.2484,11,0.1012,0.655,927,1158,731,67,488,1208,345
+362100,Saint Edward's University,Austin,TX,https://www.stedwards.edu,0.7836,1116,25000,9863,0.4428,11,0.3789,0.6667,928,332,731,176,434,1056,317
+171700,MacMurray College,Jacksonville,IL,www.mac.edu,0.7837,970,28155,6867,0.5313,32,0.7601,0.2889,929,973,1184,903,899,926,1186
+226000,Ferris State University,Big Rapids,MI,www.ferris.edu/,0.7842,1010,24425.5,8867,0.5682,32,0.7924,0.4303,930,795,605,1007,554,882,945
+239600,Alcorn State University,Alcorn State,MS,www.alcorn.edu,0.7844,872,28000,6877,0.766,43,0.0226,0.4035,931,1195,1181,33,895,521,999
+295700,Queens University of Charlotte,Charlotte,NC,www.queens.edu,0.7845,1051,26000,9844,0.5224,11,0.5521,0.6189,932,569,849,367,440,941,432
+255400,University of Nebraska at Omaha,Omaha,NE,www.unomaha.edu,0.785,1050,20000,8428,0.5112,11,0.7012,0.4462,933,594,235,735,634,961,897
+205100,Saint Joseph's College of Maine,Standish,ME,www.sjcme.edu,0.7853,965,27000,6776,1,41,0.6103,0.6262,934,998,1151,493,914,190,409
+259000,Keene State College,Keene,NH,www.keene.edu,0.7859,965,26000,8848,0.4747,32,0.8492,0.6221,935,998,849,1172,557,1012,424
+204400,Maine Maritime Academy,Castine,ME,www.mainemaritime.edu,0.7863,1024,27000,10109,0.6374,42,0.9486,0.6966,937,732,1151,1247,411,750,249
+339400,Wilkes University,Wilkes-Barre,PA,www.wilkes.edu,0.7863,1045,26918,8243,0.559,13,0.737,0.5564,937,619,909,830,685,892,574
+232700,University of Michigan-Flint,Flint,MI,www.umflint.edu,0.7864,993,27500,8190,0.5576,12,0.6778,0.3428,938,879,1164,674,690,895,1114
+299200,University of Mary,Bismarck,ND,www.umary.edu/,0.7865,1050,22722,5990,0.2315,41,0.834,0.4611,939,594,437,1128,1060,1219,856
+317900,Southeastern Oklahoma State University,Durant,OK,www.se.edu,0.7867,970,15864,7447,1,32,0.5477,0.2882,940,973,77,353,804,190,1187
+237900,Saint Johns University,Collegeville,MN,www.csbsju.edu,0.7876,1155,27000,13539,0.84,41,0.8099,0.8048,941,238,1151,1061,191,424,118
+358100,Lamar University,Beaumont,TX,www.lamar.edu,0.7881,963,22486,4753,0.8128,12,0.4902,0.3289,942,1005,408,280,1187,464,1133
+161000,University of Hawaii at Manoa,Honolulu,HI,manoa.hawaii.edu,0.7882,1070,19000,19856,0.7871,11,0.1782,0.5619,943,498,179,85,81,495,561
+189600,Wartburg College,Waverly,IA,www.wartburg.edu,0.7883,1100,27000,9632,1,32,0.78,0.7104,944,391,1151,966,467,190,224
+649400,Good Samaritan College of Nursing and Health Science,Cincinnati,OH,www.GSCollege.edu,0.7885,910,23750,12661,0.7436,11,0.8385,0.7143,945,1148,546,1142,238,559,220
+108103,Arizona State University-Downtown Phoenix,Phoenix,AZ,www.asu.edu/,0.7886,1083,20229,9648,0.7627,11,0.5344,0.5833,946,444,245,338,464,530,518
+209500,St Mary's College of Maryland,St. Mary's City,MD,www.smcm.edu,0.7887,1188,20962.5,13744,0.7475,23,0.7296,0.8144,947,181,282,807,182,552,104
+373200,Radford University,Radford,VA,www.radford.edu,0.7891,968,21500,7905,0.6715,13,0.7402,0.5874,948,982,350,841,724,686,505
+214000,College of Our Lady of the Elms,Chicopee,MA,www.elms.edu,0.7897,946,26000,6617,0.8642,21,0.5202,0.7811,949,1064,849,316,951,380,142
+365400,University of St Thomas,Houston,TX,www.stthom.edu,0.7899,1111,23823,11944,1,11,0.2917,0.5188,950,340,547,128,269,190,692
+343000,Columbia College,Columbia,SC,www.columbiasc.edu/,0.7905,1033,27000,8566,0.5108,12,0.5067,0.4729,951,671,1151,297,602,963,822
+157000,Southern Polytechnic State University,Marietta,GA,www.spsu.edu/,0.7906,1134,25125,5988,0.7235,13,0.5477,0.352,952,282,735,353,1061,595,1099
+379802,University of Washington-Bothell Campus,Bothell,WA,www.uwb.edu,0.7915,1009,15797,5335,0.6051,21,0.4322,0.6741,953,803,75,221,1146,815,292
+192600,Pittsburg State University,Pittsburg,KS,www.pittstate.edu,0.7919,1010,19557,6468,0.7731,32,0.8076,0.501,954,795,210,1056,980,515,737
+224600,Cleary University,Howell,MI,www.cleary.edu,0.7929,990,25458,5103,0.05,22,0.8059,0.4545,956,901,756,1050,1165,1250,878
+379700,University of Puget Sound,Tacoma,WA,www.pugetsound.edu,0.7929,1230,23500,18755,0.8537,12,0.7467,0.7604,956,132,527,869,91,399,164
+218300,Bridgewater State University,Bridgewater,MA,www.bridgew.edu,0.7931,991,24500,5945,1,21,0.7828,0.5915,957,883,617,974,1066,190,493
+332913,Pennsylvania State University-Penn State Abington,Abington,PA,www.abington.psu.edu/,0.7934,951,27000,3557,0.5137,21,0.5039,0.4702,958,1038,1151,294,1234,957,829
+254400,Doane University-Arts & Sciences,Crete,NE,www.doane.edu,0.7935,1060,22158.5,10364,0.6905,32,0.8233,0.5911,959,528,386,1100,377,652,494
+134100,Westmont College,Santa Barbara,CA,www.westmont.edu,0.7936,1175,24954,14047,0.6009,22,0.6515,0.7788,960,206,640,591,169,823,146
+398600,DeSales University,Center Valley,PA,www.desales.edu,0.7965,1033,26500,8954,0.3381,41,0.7637,0.7065,961,671,885,916,542,1151,230
+112500,California Baptist University,Riverside,CA,www.calbaptist.edu,0.7967,976,27000,8080,0.4975,11,0.4068,0.5538,963,945,1151,196,706,982,586
+332200,Kutztown University of Pennsylvania,Kutztown,PA,www2.kutztown.edu/,0.7967,960,26000,8776,0.9504,31,0.7866,0.553,963,1017,849,990,566,277,588
+398500,Oral Roberts University,Tulsa,OK,oru.edu,0.7976,1010,27000,8754,0.5985,11,0.4934,0.5344,964,795,1151,284,568,832,645
+3091300,Regent University,Virginia Beach,VA,www.regent.edu,0.7982,1066,25000,7864,0.9444,11,0.6124,0.5,965,508,731,499,731,283,744
+358800,University of Mary Hardin-Baylor,Belton,TX,www.umhb.edu,0.7991,1064,25851.5,8668,1,23,0.5742,0.4779,966,519,791,410,586,190,808
+197700,Murray State University,Murray,KY,www.murraystate.edu,0.7996,1064,20907.5,8075,0.7426,33,0.8192,0.52,968,519,281,1089,707,562,689
+231400,Saginaw Valley State University,University Center,MI,www.svsu.edu,0.7996,1030,27000,6283,0.4016,41,0.7208,0.4044,968,703,1151,783,1014,1092,998
+140900,University of Saint Joseph,West Hartford,CT,www.usj.edu,0.7997,969,27000,11708,0.9724,13,0.5366,0.5067,969,977,1151,340,280,239,722
+329800,Messiah College,Mechanicsburg,PA,www.messiah.edu,0.7998,1125,25989.5,10514,0.5491,21,0.8474,0.7969,970,313,801,1169,366,904,128
+115600,Sonoma State University,Rohnert Park,CA,www.sonoma.edu,0.8002,984,17881,7664,0.4395,21,0.5105,0.5549,972,921,134,304,766,1057,584
+258900,University of New Hampshire-Main Campus,Durham,NH,www.unh.edu,0.8002,1104,27000,10676,0.6357,23,0.8125,0.7613,972,379,1151,1068,344,755,163
+376400,Virginia State University,Petersburg,VA,www.vsu.edu,0.8006,837,28685.5,8139,0.6532,21,0.0268,0.4248,973,1226,1192,39,696,724,960
+260700,Fairleigh Dickinson University-Metropolitan Campus,Teaneck,NJ,www.fdu.edu,0.8011,944,26250,7993,0.3833,21,0.2556,0.4794,974,1068,869,116,714,1109,801
+180000,Grace College and Theological Seminary,Winona Lake,IN,www.grace.edu,0.8012,1110,22375,6263,1,32,0.7537,0.6486,975,351,404,886,1016,190,357
+222600,Western New England University,Springfield,MA,www.wne.edu,0.8015,1077,27000,9678,0.6612,12,0.7421,0.5946,976,467,1151,849,461,708,485
+831000,Auburn University at Montgomery,Montgomery,AL,www.aum.edu,0.8017,1009,21335,6837,0.9538,12,0.5328,0.2194,977,803,308,337,904,272,1223
+337902,University of Pittsburgh-Johnstown,Johnstown,PA,www.upj.pitt.edu,0.8018,1014,26813.5,6320,0.9133,23,0.8921,0.5068,978,765,903,1230,1008,319,721
+293300,High Point University,High Point,NC,www.highpoint.edu,0.8019,1096,23250,9376,1,12,0.8146,0.6318,979,400,498,1075,485,190,394
+268100,Canisius College,Buffalo,NY,WWW.Canisius.edu,0.8023,1085,25000,9078,0.4784,11,0.7445,0.6791,980,441,731,854,516,1008,280
+181700,Indiana University-Southeast,New Albany,IN,https://ius.edu/,0.8032,959,22500,6754,0.9955,21,0.861,0.3155,981,1020,427,1193,924,196,1161
+392000,University of Wisconsin-Oshkosh,Oshkosh,WI,www.uwosh.edu,0.8034,1030,23982,7368,0.7029,13,0.8731,0.5434,982,703,558,1213,820,636,623
+226800,Grand Valley State University,Allendale,MI,www.gvsu.edu,0.8043,1089,25500,8086,0.6458,21,0.8325,0.6494,983,425,773,1125,705,736,356
+321200,Pacific University,Forest Grove,OR,www.pacificu.edu,0.8045,1090,26604,12254,0.7005,21,0.5255,0.5942,984,419,890,324,257,641,487
+135000,Colorado State University-Fort Collins,Fort Collins,CO,www.colostate.edu,0.8048,1128,21000,10857,0.6797,12,0.7467,0.6525,985,296,289,869,332,666,348
+313500,Walsh University,North Canton,OH,www.walsh.edu,0.8068,1043,28000,7468,1,21,0.7687,0.5484,986,628,1181,931,799,190,604
+260701,Fairleigh Dickinson University-College at Florham,Madison,NJ,www.fdu.edu,0.8075,1031,26250,11908,0.3312,21,0.5905,0.5571,987,685,869,447,271,1162,573
+2075800,Southern California Institute of Architecture,Los Angeles,CA,www.sciarc.edu,0.8079,1151,39500,12626,0.3562,11,0.2129,0.7241,988,246,1248,99,239,1133,199
+283200,St. Thomas Aquinas College,Sparkill,NY,www.stac.edu,0.8082,958,23250,7969,0.3675,21,0.5527,0.5739,989,1025,498,368,717,1123,538
+383800,Carroll University,Waukesha,WI,www.carrollu.edu,0.8084,1090,27000,6015,0.3757,13,0.8596,0.6107,990,419,1151,1188,1055,1117,455
+139700,University of New Haven,West Haven,CT,www.newhaven.edu,0.8086,1063,27000,8446,0.4187,21,0.5927,0.496,991,522,1151,455,629,1080,755
+318000,Southwestern Christian University,Bethany,OK,www.swcu.edu,0.8088,981,25000,3752,0.382,21,0.4496,0.359,992,931,731,239,1232,1110,1082
+119600,Dominican University of California,San Rafael,CA,www.dominican.edu,0.8092,1047,27000,14391,0.3198,13,0.3287,0.618,993,613,1151,144,158,1164,434
+189200,University of Iowa,Iowa City,IA,www.uiowa.edu,0.8095,1164,21612,14593,0.8637,13,0.6823,0.7004,994,223,354,684,151,381,243
+342100,Bob Jones University,Greenville,SC,www.bju.edu,0.8101,1052,19000,6692,0.7427,13,0.7697,0.7082,996,564,179,933,935,561,228
+373400,Randolph College,Lynchburg,VA,www.randolphcollege.edu,0.8101,1086,27000,14248,1,13,0.6733,0.4097,996,436,1151,661,163,190,986
+332904,Pennsylvania State University-Penn State Beaver,Monaca,PA,www.beaver.psu.edu/,0.8107,954,27000,5448,0.5714,21,0.7504,0.4096,997,1030,1151,874,1128,879,987
+163400,Aurora University,Aurora,IL,aurora.edu,0.811,1010,21677.5,4736,0.2733,21,0.5705,0.5756,998,795,357,406,1188,1192,536
+244000,University of Mississippi,University,MS,www.olemiss.edu,0.8122,1098,20500,14232,0.7845,33,0.7735,0.6136,999,396,268,944,164,498,444
+332912,Pennsylvania State University-Penn State New Kensington,New Kensington,PA,nk.psu.edu/,0.8123,974,27000,6137,0.5909,41,0.8868,0.4787,1000,950,1151,1226,1035,849,806
+322700,Willamette University,Salem,OR,www.willamette.edu,0.8131,1209,23500,13307,0.8327,12,0.6167,0.7718,1001,158,527,509,203,430,155
+318400,University of Oklahoma-Norman Campus,Norman,OK,www.ou.edu,0.8133,1189,19500,12188,0.8207,22,0.626,0.6744,1002,179,208,530,260,444,289
+367500,University of Utah,Salt Lake City,UT,www.utah.edu,0.8142,1131,15000,12899,0.8191,12,0.7051,0.6221,1003,289,61,746,222,452,424
+332000,East Stroudsburg University of Pennsylvania,East Stroudsburg,PA,www4.esu.edu/,0.8146,954,24250,7383,0.7872,13,0.6462,0.5555,1004,1030,595,578,818,493,579
+175800,Southern Illinois University-Carbondale,Carbondale,IL,www.siu.edu,0.8153,1055,22250,15675,0.8508,13,0.633,0.4433,1005,550,397,548,122,406,906
+389200,Saint Norbert College,De Pere,WI,www.snc.edu,0.8171,1125,27000,8114,0.7405,22,0.9001,0.7006,1006,313,1151,1235,697,567,242
+392600,University of Wisconsin-Whitewater,Whitewater,WI,www.uww.edu,0.8179,1050,25000,6055,0.8019,32,0.8394,0.5769,1007,594,731,1147,1044,475,532
+290300,Yeshiva University,New York,NY,www.yu.edu,0.818,1221,19000,33568,0.591,11,0.9364,0.8547,1008,141,179,1245,23,845,73
+111700,Azusa Pacific University,Azusa,CA,www.apu.edu,0.8183,1037,22500,10128,0.386,21,0.4714,0.6716,1009,652,427,263,407,1107,302
+372800,Old Dominion University,Norfolk,VA,www.odu.edu,0.8189,1007,23178.5,8498,0.9592,12,0.5004,0.5158,1010,810,478,290,615,264,702
+259900,Centenary College,Hackettstown,NJ,www.centenarycollege.edu,0.8191,926,25437.5,5579,1,21,0.5633,0.6129,1011,1117,753,394,1112,190,445
+105500,University of Alabama in Huntsville,Huntsville,AL,www.uah.edu,0.8203,1219,24097,10211,0.6221,12,0.6988,0.4614,1012,143,576,726,396,789,854
+332920,Pennsylvania State University-Penn State Harrisburg,Middletown,PA,hbg.psu.edu/,0.8208,1024,27000,5788,0.6469,21,0.5939,0.6734,1014,732,1151,457,1079,732,295
+380000,Washington State University,Pullman,WA,wsu.edu/,0.8208,1030,20500,9952,0.7776,32,0.6499,0.6724,1014,703,268,585,426,507,297
+357500,Howard Payne University,Brownwood,TX,www.hputx.edu,0.8212,976,25125,7529,1,33,0.6297,0.4474,1015,945,735,541,787,190,891
+234100,College of Saint Benedict,Saint Joseph,MN,www.csbsju.edu,0.8218,1179,26000,11311,0.8644,22,0.8109,0.8131,1016,198,849,1062,303,379,105
+237700,Saint Cloud State University,Saint Cloud,MN,www.stcloudstate.edu,0.8219,1010,23185,7329,0.6418,13,0.7464,0.4476,1017,795,479,865,826,740,889
+271800,Elmira College,Elmira,NY,www.elmira.edu,0.8221,1073,27000,8318,0.4294,13,0.67,0.5804,1018,484,1151,648,670,1066,527
+135800,Colorado Mesa University,Grand Junction,CO,www.coloradomesa.edu,0.8227,970,22000,5710,0.4945,13,0.7177,0.3313,1019,973,381,776,1088,986,1126
+184200,Valparaiso University,Valparaiso,IN,www.valpo.edu,0.8236,1155,27000,10528,0.6987,21,0.7333,0.6718,1020,238,1151,819,365,642,301
+354100,Angelo State University,San Angelo,TX,www.angelo.edu,0.8244,976,21319.5,7413,0.7571,13,0.5225,0.2975,1021,945,306,321,812,537,1180
+180700,Indiana State University,Terre Haute,IN,www.indstate.edu,0.8254,913,23713,7289,0.7361,13,0.6637,0.3991,1022,1141,538,633,835,579,1008
+205300,University of Maine,Orono,ME,www.umaine.edu/,0.8257,1078,26150,10098,0.656,23,0.8176,0.5966,1023,464,856,1084,413,719,474
+373700,Shenandoah University,Winchester,VA,www.su.edu,0.8259,994,25000,9066,0.5734,13,0.6512,0.5464,1024,876,731,589,519,875,610
+640400,Nebraska Methodist College of Nursing & Allied Health,Omaha,NE,www.methodistcollege.edu,0.8261,1090,24688,9321,0.8485,11,0.8598,0.6607,1025,419,622,1189,489,411,329
+198700,Transylvania University,Lexington,KY,www.transy.edu,0.8262,1230,27000,9988,0.8571,11,0.8028,0.7048,1027,132,1151,1039,422,392,234
+720600,University of Puerto Rico-Cayey,Cayey,PR,www.cayey.upr.edu,0.8262,1147,4500,6168,1,21,0,0.4293,1027,253,1,2,1028,190,948
+222500,Wentworth Institute of Technology,Boston,MA,WWW.WIT.EDU,0.8264,1116,27000,9040,1,11,0.607,0.6371,1028,332,1151,488,523,190,382
+2358000,Thomas Aquinas College,Santa Paula,CA,www.thomasaquinas.edu,0.827,1261,16500,11783,1,42,0.7063,0.7191,1029,103,99,753,275,190,208
+347900,Belmont University,Nashville,TN,www.belmont.edu,0.8272,1176,22707,9317,0.4939,11,0.8049,0.6972,1030,203,436,1047,490,988,247
+299700,North Dakota State University-Main Campus,Fargo,ND,https://www.ndsu.edu,0.8274,1092,24000,8329,0.978,12,0.8703,0.5608,1031,408,572,1208,667,229,565
+109900,Hendrix College,Conway,AR,www.hendrix.edu,0.8282,1244,25500,11426,1,13,0.7753,0.7256,1032,117,773,948,298,190,195
+346600,Northern State University,Aberdeen,SD,www.northern.edu,0.8289,1025,24847,6889,0.9043,33,0.8435,0.4422,1033,728,631,1161,892,327,908
+305000,John Carroll University,University Heights,OH,sites.jcu.edu/,0.8291,1116,27000,9268,0.9951,21,0.8534,0.7148,1034,332,1151,1181,497,197,219
+179500,University of Evansville,Evansville,IN,www.evansville.edu/,0.8295,1144,26450,10614,0.6289,12,0.7568,0.6445,1035,266,877,893,351,770,365
+383700,Cardinal Stritch University,Milwaukee,WI,www.stritch.edu,0.8298,1003,27000,4521,0.2588,21,0.5647,0.4651,1036,834,1151,398,1201,1199,847
+275100,LIU Post,Brookville,NY,liu.edu/CWPost,0.8302,950,25499,10578,0.4072,21,0.4701,0.4067,1037,1046,757,261,356,1088,992
+332600,Shippensburg University of Pennsylvania,Shippensburg,PA,www.ship.edu/,0.8313,981,25000,8947,0.7182,31,0.7922,0.5495,1038,931,731,1005,543,601,599
+102000,Jacksonville State University,Jacksonville,AL,www.jsu.edu/,0.8326,1041,23000,7283,0.6852,13,0.6834,0.3009,1039,633,472,688,838,662,1177
+314500,Youngstown State University,Youngstown,OH,www.ysu.edu,0.833,985,27000,7275,0.9977,13,0.7627,0.3294,1040,916,1151,911,840,191,1130
+183600,Saint Mary's College,Notre Dame,IN,www.saintmarys.edu,0.8334,1144,27000,14546,0.6763,21,0.7825,0.8088,1041,266,1151,973,153,676,113
+105700,University of South Alabama,Mobile,AL,www.southalabama.edu,0.8335,1048,24711,10870,0.6305,12,0.6149,0.3824,1043,609,623,501,331,764,1044
+332918,Pennsylvania State University-Penn State York,York,PA,www.yk.psu.edu/,0.8335,1021,27000,5599,0.5146,22,0.6593,0.4727,1043,740,1151,615,1109,954,823
+195400,Bellarmine University,Louisville,KY,www.bellarmine.edu,0.834,1120,25000,8774,0.4337,21,0.8447,0.6755,1045,322,731,1164,567,1063,287
+378800,Seattle Pacific University,Seattle,WA,www.spu.edu,0.834,1140,25000,10181,0.5536,11,0.6277,0.7514,1045,271,731,536,402,900,171
+349000,Fisk University,Nashville,TN,www.fisk.edu,0.8345,946,27000,8400,0.6186,11,0.0069,0.4019,1046,1064,1151,15,641,793,1001
+100900,Auburn University,Auburn,AL,www.auburn.edu,0.8347,1215,21831,11704,0.8816,13,0.8507,0.7086,1047,149,366,1176,281,349,225
+339100,Waynesburg University,Waynesburg,PA,www.waynesburg.edu,0.8356,1008,27000,8616,0.2967,32,0.9107,0.5851,1048,807,1151,1239,598,1179,512
+363900,Texas A & M University-Kingsville,Kingsville,TX,WWW.TAMUK.EDU,0.8357,922,20000,6289,0.6372,32,0.1986,0.3541,1049,1124,235,91,1012,751,1094
+1116300,The University of Texas at Tyler,Tyler,TX,www.uttyler.edu/,0.8358,1051,18345,8851,0.786,13,0.5948,0.4486,1050,569,143,460,556,496,888
+332908,Pennsylvania State University-Penn State Fayette- Eberly,Lemont Furnace,PA,www.fe.psu.edu/,0.8359,914,27000,5388,0.6282,41,0.8814,0.4706,1051,1138,1151,1221,1139,774,827
+391700,University of Wisconsin-Eau Claire,Eau Claire,WI,www.uwec.edu,0.8369,1110,23304,7221,0.8314,13,0.8903,0.6823,1052,351,502,1227,848,432,274
+202400,Southeastern Louisiana University,Hammond,LA,www.southeastern.edu,0.8373,1030,21313,5717,0.82,13,0.6688,0.3724,1053,703,305,644,1087,446,1059
+332917,Pennsylvania State University-Penn State Wilkes-Barre,Lehman,PA,wb.psu.edu/,0.838,964,27000,5338,0.6667,41,0.8682,0.4888,1054,1001,1151,1204,1144,698,771
+253200,Montana State University,Bozeman,MT,www.montana.edu/,0.8385,1128,24854,7321,0.6271,33,0.8506,0.4964,1055,296,632,1175,829,776,753
+256800,University of Nevada-Reno,Reno,NV,www.unr.edu/,0.8388,1081,18733,15140,0.9514,12,0.624,0.5478,1056,454,150,525,134,276,606
+221800,Suffolk University,Boston,MA,www.suffolk.edu,0.8391,1049,27000,9476,0.4705,11,0.3917,0.5453,1057,600,1151,186,478,1019,615
+205400,University of Southern Maine,Portland,ME,www.usm.maine.edu,0.8395,998,22913,9665,0.4668,13,0.8148,0.3239,1058,858,452,1076,463,1025,1141
+372400,Marymount University,Arlington,VA,www.marymount.edu,0.8396,1001,25000,8835,0.4134,12,0.4187,0.5124,1059,843,731,205,560,1085,712
+216500,MCPHS University,Boston,MA,www.mcphs.edu,0.8401,1074,27000,9636,0.9898,11,0.4194,0.7105,1060,480,1151,207,465,203,223
+158200,Morehouse College,Atlanta,GA,www.morehouse.edu,0.8403,1004,27000,11327,0.761,11,5E-04,0.5286,1061,831,1151,5,300,534,667
+233000,Western Michigan University,Kalamazoo,MI,www.wmich.edu,0.8406,1030,26587,10047,0.6256,13,0.732,0.5401,1062,703,889,817,419,781,629
+255100,University of Nebraska at Kearney,Kearney,NE,www.unk.edu,0.8411,1049,20700,7658,0.7522,32,0.7935,0.5643,1063,600,273,1011,768,546,557
+137000,University of Colorado Boulder,Boulder,CO,www.colorado.edu,0.8416,1207,19500,14987,0.6936,13,0.7225,0.6982,1065,161,208,789,140,648,244
+261000,Felician University,Lodi,NJ,www.felician.edu,0.8416,870,25000,8792,0.4869,21,0.3481,0.3551,1065,1198,731,154,564,1000,1093
+361200,University of Houston-Downtown,Houston,TX,www.uhd.edu,0.8417,894,19003,4396,0.5258,11,0.1726,0.1917,1066,1172,180,81,1209,934,1233
+236700,Minnesota State University Moorhead,Moorhead,MN,www.mnstate.edu,0.8419,1049,22250,7267,0.6179,22,0.7773,0.4193,1067,600,397,954,841,795,965
+346300,Dakota State University,Madison,SD,dsu.edu,0.842,1026,24750,8374,0.679,32,0.8418,0.407,1068,721,628,1156,650,669,990
+303200,Cleveland State University,Cleveland,OH,www.csuohio.edu/,0.8421,1014,22656,8111,0.4812,11,0.6322,0.393,1069,765,433,547,698,1004,1022
+257500,Franklin Pierce University,Rindge,NH,www.franklinpierce.edu,0.843,949,27000,8643,0.2965,41,0.7579,0.4557,1070,1049,1151,896,590,1180,873
+108100,Arizona State University-Tempe,Tempe,AZ,www.asu.edu/,0.8433,1145,20229,9671,0.8611,12,0.5457,0.6343,1071,262,245,349,462,385,388
+305100,Kent State University at Kent,Kent,OH,www.kent.edu,0.8438,1050,25997,7718,0.8552,21,0.7504,0.5505,1072,594,803,874,755,396,594
+197600,Morehead State University,Morehead,KY,www.moreheadstate.edu,0.8443,1029,25000,7086,0.7906,33,0.9027,0.4273,1073,713,731,1238,859,486,954
+114200,California State University-San Bernardino,San Bernardino,CA,www.csusb.edu,0.8445,884,17500,6809,0.5006,12,0.1588,0.4796,1074,1185,128,77,911,973,800
+379801,University of Washington-Tacoma Campus,Tacoma,WA,www.tacoma.uw.edu/,0.8452,979,15797,5539,0.7209,12,0.4488,0.55,1075,936,75,235,1117,598,596
+344600,South Carolina State University,Orangeburg,SC,www.scsu.edu,0.8454,810,34500,9363,1,32,0.0236,0.3824,1076,1234,1238,35,486,190,1044
+380200,Western Washington University,Bellingham,WA,www.wwu.edu,0.8457,1110,19500,8911,0.6543,13,0.7424,0.715,1077,351,208,850,551,722,218
+1116100,Texas A & M University-Corpus Christi,Corpus Christi,TX,www.tamucc.edu,0.8462,970,23000,6456,0.6743,11,0.383,0.3801,1078,973,472,181,982,682,1046
+155900,Clark Atlanta University,Atlanta,GA,www.cau.edu,0.8467,860,31000,8160,0.6064,11,4E-04,0.4115,1079,1206,1218,3,694,812,980
+332921,Pennsylvania State University-Penn State Brandywine,Media,PA,www.brandywine.psu.edu/,0.8477,968,27000,4357,0.5,21,0.6462,0.4304,1080,982,1151,578,1213,980,944
+250100,Southeast Missouri State University,Cape Girardeau,MO,www.semo.edu,0.8478,1050,22105,6658,1,13,0.7839,0.512,1081,594,384,982,940,190,715
+146800,St Thomas University,Miami Gardens,FL,www.stu.edu,0.849,919,22452,7797,1,21,0.0924,0.327,1082,1129,405,63,744,190,1135
+279100,Pace University-New York,New York,NY,www.pace.edu,0.8499,1054,25000,10470,1,11,0.501,0.5489,1083,556,731,291,370,190,600
+250300,Missouri State University-Springfield,Springfield,MO,www.missouristate.edu,0.8503,1090,22313,6932,0.6675,12,0.8114,0.5474,1084,419,402,1065,885,691,608
+332902,Pennsylvania State University-Penn State Lehigh Valley,Center Valley,PA,www.lv.psu.edu/,0.8512,1003,27000,4578,0.5301,21,0.6516,0.5399,1085,834,1151,592,1197,927,632
+365100,University of Dallas,Irving,TX,www.udallas.edu,0.8513,1211,23250,8643,0.5931,12,0.6556,0.7038,1086,156,498,603,590,842,237
+318100,Southwestern Oklahoma State University,Weatherford,OK,www.swosu.edu,0.8526,1010,16675,8087,1,33,0.6724,0.3359,1087,795,101,657,704,190,1124
+355700,Concordia University-Texas,Austin,TX,www.concordia.edu,0.8529,1021,25680.5,6097,0.9726,11,0.4767,0.3231,1088,740,781,266,1039,238,1142
+364600,Texas Woman's University,Denton,TX,www.twu.edu,0.8531,953,20000,6844,0.9726,12,0.4054,0.4394,1089,1032,235,193,901,238,917
+188700,Simpson College,Indianola,IA,www.simpson.edu,0.8545,1125,27000,8297,0.5263,31,0.8796,0.7254,1090,313,1151,1219,675,933,196
+160500,Chaminade University of Honolulu,Honolulu,HI,www.chaminade.edu,0.8562,958,22000,8320,1,11,0.1706,0.4873,1091,1025,381,80,669,190,772
+194600,Tabor College,Hillsboro,KS,tabor.edu/,0.8568,1037,21500,5332,1,33,0.678,0.4823,1093,652,350,675,1147,190,789
+205000,University of New England,Biddeford,ME,www.une.edu/,0.8568,1073,27000,10350,0.5551,22,0.7406,0.5661,1093,484,1151,844,379,897,552
+105200,University of Alabama at Birmingham,Birmingham,AL,www.uab.edu,0.8569,1107,21941.5,17920,0.9072,12,0.5922,0.5554,1094,360,370,452,96,324,581
+382700,West Virginia University,Morgantown,WV,www.wvu.edu/,0.8579,1069,23969,11703,0.7643,13,0.814,0.5725,1095,500,556,1073,282,524,539
+251700,Missouri University of Science and Technology,Rolla,MO,www.mst.edu/,0.8585,1283,25000,13337,0.7688,33,0.7773,0.6332,1096,93,731,954,202,518,389
+332909,Pennsylvania State University-Penn State Hazleton,Hazleton,PA,hazleton.psu.edu/,0.8598,946,27000,5676,0.7105,23,0.589,0.5379,1097,1064,1151,440,1097,622,638
+300500,University of North Dakota,Grand Forks,ND,und.edu,0.86,1090,24000,15698,0.9432,13,0.8151,0.5549,1098,419,572,1077,121,284,584
+501500,University of Wisconsin-Parkside,Kenosha,WI,https://www.uwp.edu,0.8602,990,22899,6246,0.7348,22,0.6944,0.3061,1099,901,451,716,1019,581,1171
+2070500,Concordia University-Irvine,Irvine,CA,www.cui.edu,0.8608,1038,22589,5536,0.3537,12,0.4628,0.5583,1100,646,430,257,1119,1136,570
+330100,Moravian College,Bethlehem,PA,www.moravian.edu,0.862,1022,27000,11700,1,13,0.757,0.6925,1101,735,1151,894,284,190,257
+108900,Arkansas Tech University,Russellville,AR,www.atu.edu,0.8626,1010,17480,4516,1,33,0.7751,0.4455,1102,795,120,946,1202,190,901
+377100,Central Washington University,Ellensburg,WA,www.cwu.edu,0.8646,978,21500,8475,0.6579,32,0.6151,0.5341,1103,939,350,502,623,713,646
+267000,Summit University of Pennsylvania,Clarks Summit,PA,www.summitu.edu,0.8649,1004,17772,5281,0.8444,21,0.8807,0.5437,1104,831,133,1220,1153,418,621
+234500,University of St Thomas,Saint Paul,MN,www.stthomas.edu,0.8662,949,26722.5,13637,0.4967,11,0.8166,0.7222,1105,1049,894,1081,188,983,200
+273700,Iona College,New Rochelle,NY,www.iona.edu,0.867,1022,25400,8094,0.493,21,0.5816,0.5841,1107,735,752,426,703,990,516
+332905,Pennsylvania State University-Penn State Erie-Behrend College,Erie,PA,psbehrend.psu.edu/,0.867,1054,27000,5366,0.8062,22,0.8008,0.6853,1107,556,1151,1035,1140,474,271
+214300,Curry College,Milton,MA,www.curry.edu,0.8688,948,26000,10358,0.2569,21,0.6862,0.4496,1108,1055,849,695,378,1202,886
+256900,University of Nevada-Las Vegas,Las Vegas,NV,www.unlv.edu/,0.8689,1000,19000,8805,1,12,0.3663,0.3914,1109,850,179,167,562,190,1026
+186900,Iowa State University,Ames,IA,www.iastate.edu,0.8691,1145,24365,9179,0.8459,13,0.765,0.6893,1110,262,601,920,507,415,263
+175900,Southern Illinois University-Edwardsville,Edwardsville,IL,www.siue.edu,0.8696,1070,21875,12666,0.7029,21,0.7406,0.505,1112,498,368,844,237,636,727
+209200,St John's College,Annapolis,MD,www.sjc.edu,0.8696,1323,27000,19343,0.7683,21,0.7459,0.719,1112,71,1151,861,84,519,209
+993000,The University of Texas of the Permian Basin,Odessa,TX,www.utpb.edu,0.87,963,13750,8174,0.5755,13,0.4065,0.3373,1113,1005,44,195,693,870,1118
+140100,Post University,Waterbury,CT,www.post.edu/,0.8707,855,26512,2508,0.114,22,0.3582,0.2615,1114,1210,886,161,1248,1246,1203
+389900,University of Wisconsin-Green Bay,Green Bay,WI,www.uwgb.edu,0.8735,1050,21065,6040,0.6747,12,0.8639,0.506,1115,594,291,1196,1047,679,725
+4193700,John Paul the Great Catholic University,Escondido,CA,www.jpcatholic.com/,0.875,1086,25748.5,10134,0.625,21,0.559,0.6,1116,436,784,384,406,782,468
+222800,Wheelock College,Boston,MA,www.wheelock.edu,0.8752,963,27000,12496,0.388,11,0.5975,0.5513,1117,1005,1151,465,245,1102,592
+303300,Mount Saint Joseph University,Cincinnati,OH,www.msj.edu,0.8762,1005,28000,7648,1,21,0.8004,0.5267,1118,824,1181,1032,771,190,672
+331500,Bloomsburg University of Pennsylvania,Bloomsburg,PA,www.bloomu.edu,0.8781,970,26000,8464,0.8469,13,0.8095,0.6482,1119,973,849,1060,626,414,359
+194000,Southwestern College,Winfield,KS,www.sckans.edu,0.8793,1007,25450,5360,1,32,0.6165,0.538,1120,810,754,508,1141,190,637
+347000,South Dakota School of Mines and Technology,Rapid City,SD,www.sdsmt.edu,0.8802,1181,27000,10832,0.8523,13,0.839,0.5382,1121,196,1151,1145,335,403,636
+183800,Taylor University,Upland,IN,https://www.taylor.edu,0.8803,1184,24500,10270,0.6154,32,0.8652,0.7419,1122,190,617,1200,389,801,178
+332903,Pennsylvania State University-Penn State Altoona,Altoona,PA,www.altoona.psu.edu/,0.8835,1001,27000,4372,0.6611,13,0.7605,0.6462,1123,843,1151,904,1212,709,361
+200500,Nicholls State University,Thibodaux,LA,www.nicholls.edu,0.8837,1031,20308,5685,1,13,0.6739,0.3969,1125,685,249,665,1094,190,1013
+215300,Gordon College,Wenham,MA,www.gordon.edu,0.8837,1161,27000,10259,0.9231,21,0.754,0.716,1125,230,1151,887,391,309,214
+392500,University of Wisconsin-Superior,Superior,WI,www.uwsuper.edu,0.8857,1010,23375,7920,0.8182,22,0.8283,0.4323,1126,795,510,1110,722,455,936
+277800,Mount Saint Mary College,Newburgh,NY,www.msmc.edu,0.8862,1011,25941.5,7611,0.3371,21,0.6264,0.588,1128,770,797,532,778,1154,502
+332907,Pennsylvania State University-Penn State DuBois,DuBois,PA,www.dubois.psu.edu/,0.8862,925,27000,6485,0.6833,33,0.9184,0.5193,1128,1119,1151,1242,977,663,690
+303900,Columbus College of Art and Design,Columbus,OH,WWW.CCAD.EDU,0.8864,1044,27000,10539,0.2907,11,0.6798,0.5556,1129,624,1151,678,362,1183,578
+332906,Pennsylvania State University-Penn State Berks,Reading,PA,www.berks.psu.edu/,0.8866,973,27000,4390,0.5714,21,0.6991,0.5693,1130,952,1151,727,1210,879,546
+320900,Western Oregon University,Monmouth,OR,www.wou.edu,0.8874,1001,24500,8300,0.5899,31,0.6784,0.4683,1131,843,617,676,673,850,836
+196400,Georgetown College,Georgetown,KY,www.georgetowncollege.edu,0.8875,1102,27000,8363,0.6622,31,0.7963,0.5488,1132,384,1151,1019,655,706,601
+347400,University of South Dakota,Vermillion,SD,WWW.USD.EDU,0.8882,1044,24250,9166,0.7522,32,0.87,0.5552,1134,624,595,1207,510,546,582
+379400,Saint Martin's University,Lacey,WA,www.stmartin.edu,0.8882,1057,24887,7237,0.387,22,0.5638,0.4772,1134,537,634,395,846,1105,811
+109400,University of the Ozarks,Clarksville,AR,www.ozarks.edu,0.8892,1061,24200,9797,1,33,0.6713,0.4769,1135,526,588,652,444,190,812
+174500,Quincy University,Quincy,IL,www.quincy.edu,0.8893,1024,22727.5,5645,0.4524,33,0.7126,0.4898,1136,732,438,772,1101,1039,770
+376700,Virginia Wesleyan College,Norfolk,VA,www.vwc.edu,0.8904,991,27000,9304,0.7286,11,0.561,0.4802,1137,883,1151,386,491,589,798
+350000,Lee University,Cleveland,TN,www.leeuniversity.edu,0.8905,1076,27723.5,5604,1,13,0.7887,0.5448,1138,471,1167,995,1106,190,618
+647700,Cabarrus College of Health Sciences,Concord,NC,www.cabarruscollege.edu/index.cfm,0.8913,970,15800,7284,0.4493,13,0.8594,0.375,1139,973,76,1187,837,1044,1053
+347800,Austin Peay State University,Clarksville,TN,www.apsu.edu,0.8927,1010,23202,7338,1,12,0.6468,0.365,1140,795,481,579,824,190,1071
+392400,University of Wisconsin-Stevens Point,Stevens Point,WI,www.uwsp.edu,0.8941,1050,24922,6811,0.8004,32,0.8822,0.602,1141,594,639,1222,910,477,465
+308500,Notre Dame College,Cleveland,OH,www.notredamecollege.edu,0.895,937,27000,4643,0.9844,21,0.656,0.3616,1142,1089,1151,604,1194,217,1077
+392300,University of Wisconsin-River Falls,River Falls,WI,www.uwrf.edu,0.8954,1050,24124,6743,0.6556,32,0.8907,0.5428,1143,594,580,1229,926,720,624
+389600,University of Wisconsin-Milwaukee,Milwaukee,WI,www.uwm.edu,0.8955,1010,25000,8619,0.6856,11,0.6933,0.435,1144,795,731,712,595,660,930
+331600,California University of Pennsylvania,California,PA,www.calu.edu,0.8967,934,25000,7490,0.6974,23,0.7818,0.5253,1145,1096,731,970,794,643,676
+360200,Paul Quinn College,Dallas,TX,www.pqc.edu,0.8997,1070,38125,3540,0.25,11,0.0147,0.038,1146,498,1245,24,1236,1207,1250
+177100,Trinity Christian College,Palos Heights,IL,www.trnty.edu,0.9022,1080,26196.5,10457,0.5742,21,0.6896,0.5787,1147,457,858,702,371,874,529
+201600,Loyola University New Orleans,New Orleans,LA,www.loyno.edu,0.9025,1135,25500,12082,0.7265,11,0.5095,0.6194,1148,280,773,301,261,590,430
+300800,Valley City State University,Valley City,ND,www.vcsu.edu,0.9027,1020,21550,11284,0.6333,33,0.8067,0.4805,1149,745,351,1054,305,758,797
+315200,University of Central Oklahoma,Edmond,OK,www.uco.edu,0.9032,990,21325,8494,0.9801,21,0.5824,0.373,1150,901,307,430,617,225,1056
+1212300,University of Puerto Rico-Aguadilla,Ramey,PR,www.uprag.edu,0.9047,1054,5500,5603,0.756,21,0.0084,0.337,1151,556,3,17,1107,538,1122
+246400,Fontbonne University,Saint Louis,MO,www.fontbonne.edu,0.9061,1052,26959,8353,0.3348,21,0.6878,0.4813,1152,564,911,697,660,1158,792
+330300,Carlow University,Pittsburgh,PA,www.carlow.edu,0.907,941,27000,7288,1,11,0.5926,0.5973,1154,1078,1151,454,836,190,472
+332400,Mansfield University of Pennsylvania,Mansfield,PA,www.mansfield.edu,0.907,950,27000,9456,0.6359,32,0.8169,0.5308,1154,1046,1151,1083,480,754,657
+927500,Northern Kentucky University,Highland Heights,KY,www.nku.edu,0.9072,1046,24184,7407,0.9701,21,0.8218,0.3618,1155,616,584,1094,813,244,1076
+253100,Montana Tech of the University of Montana,Butte,MT,www.mtech.edu,0.9075,1125,20667,9707,0.7119,33,0.7816,0.4406,1156,313,271,968,454,617,913
+391500,University of Wisconsin-Stout,Menomonie,WI,www.uwstout.edu,0.908,1050,25000,7528,0.6973,32,0.8771,0.5315,1157,594,731,1217,788,644,653
+135300,Fort Lewis College,Durango,CO,fortlewis.edu/,0.9082,1020,19621.5,6479,0.7544,32,0.5497,0.3839,1158,745,214,356,979,541,1038
+182800,Indiana University-Purdue University-Fort Wayne,Fort Wayne,IN,www.ipfw.edu,0.9087,1002,25500,7804,0.9554,11,0.8295,0.264,1159,837,773,1112,743,269,1201
+229300,Lake Superior State University,Sault Ste Marie,MI,www.lssu.edu,0.9109,1028,24454,7893,0.8906,33,0.7926,0.4571,1160,716,608,1008,726,341,868
+236900,North Central University,Minneapolis,MN,www.northcentral.edu,0.912,1062,25500,6438,0.3462,11,0.611,0.4729,1161,524,773,495,985,1144,822
+194800,University of Kansas,Lawrence,KS,www.ku.edu,0.9142,1145,19793,17259,0.7843,13,0.7349,0.6,1162,262,217,824,101,500,468
+368300,Castleton University,Castleton,VT,www.castleton.edu,0.9164,967,25000,7639,0.9709,32,0.8534,0.4858,1163,987,731,1181,773,243,778
+348700,East Tennessee State University,Johnson City,TN,www.etsu.edu,0.9174,1030,20000,12995,0.6785,13,0.8361,0.4317,1164,703,235,1137,217,670,941
+347100,South Dakota State University,Brookings,SD,www.sdstate.edu/,0.9201,1068,25245,7951,0.8089,33,0.8935,0.5687,1165,501,739,1231,720,469,547
+328000,Keystone College,La Plume,PA,www.keystone.edu,0.9205,921,25789.5,6411,0.261,21,0.7582,0.4237,1166,1125,789,899,990,1197,962
+240300,Delta State University,Cleveland,MS,www.deltastate.edu,0.9234,968,22500,7064,0.7176,33,0.5914,0.3229,1167,982,427,450,862,604,1143
+155800,College of Coastal Georgia,Brunswick,GA,www.ccga.edu,0.9235,920,16500,6533,0.513,13,0.6643,0.1547,1168,1127,99,635,969,958,1246
+450900,University of Colorado Colorado Springs,Colorado Springs,CO,www.uccs.edu,0.924,1089,21187.5,7093,0.6141,11,0.6733,0.4735,1169,425,295,661,858,803,819
+331800,Clarion University of Pennsylvania,Clarion,PA,www.clarion.edu,0.9271,928,26000,7999,0.7301,33,0.8404,0.495,1170,1113,849,1151,711,586,759
+253600,The University of Montana,Missoula,MT,www.umt.edu,0.9272,1075,23431,8367,0.7007,13,0.7967,0.4823,1171,475,511,1022,653,640,789
+2234500,Boise Bible College,Boise,ID,www.boisebible.edu,0.9275,996,19596,6926,1,21,0.8663,0.4186,1172,868,213,1202,886,190,969
+136500,Colorado State University-Pueblo,Pueblo,CO,www.csupueblo.edu,0.9278,971,20500,5205,0.4695,12,0.4987,0.3184,1173,955,268,288,1156,1021,1155
+161700,The College of Idaho,Caldwell,ID,www.collegeofidaho.edu,0.929,1076,27000,6695,0.6324,22,0.6415,0.5985,1174,471,1151,567,933,762,471
+330600,University of Valley Forge,Phoenixville,PA,www.valleyforge.edu,0.9304,941,27000,6596,1,21,0.5752,0.4805,1175,1078,1151,412,954,190,797
+726300,Holy Cross College,Notre Dame,IN,www.hcc-nd.edu,0.9316,969,25000,5319,0.4375,21,0.6758,0.3216,1176,977,731,668,1150,1059,1146
+357800,University of the Incarnate Word,San Antonio,TX,www.uiw.edu,0.9321,963,27000,6935,0.447,11,0.1918,0.4273,1177,1005,1151,90,882,1050,954
+200100,Thomas More College,Crestview Hills,KY,www.thomasmore.edu,0.9328,982,27000,6692,0.5891,21,0.7377,0.4621,1178,927,1151,834,935,852,851
+200200,Western Kentucky University,Bowling Green,KY,www.wku.edu,0.9332,1047,24010.5,8290,0.6635,13,0.7624,0.4355,1179,613,573,909,677,704,929
+1258000,Saint Louis Christian College,Florissant,MO,www.stlchristian.edu,0.9333,990,27000,6464,0.4706,21,0.6024,0.4444,1180,901,1151,473,981,1018,903
+332300,Lock Haven University,Lock Haven,PA,www.lhup.edu,0.9339,947,27000,7851,0.9203,32,0.8496,0.4697,1182,1058,1151,1173,735,312,832
+349200,Freed-Hardeman University,Henderson,TN,www.fhu.edu,0.9339,1117,26000,6658,0.9688,32,0.8588,0.516,1182,326,849,1186,940,253,701
+362500,Sul Ross State University,Alpine,TX,www.sulross.edu,0.934,890,15250,6409,0.6503,33,0.2393,0.2794,1183,1177,65,107,991,729,1191
+233600,Bemidji State University,Bemidji,MN,www.bemidjistate.edu,0.9353,1010,21500,5853,0.5848,33,0.8536,0.4573,1185,795,350,1182,1070,859,867
+361000,Schreiner University,Kerrville,TX,www.schreiner.edu,0.9353,997,25000,7053,0.6325,33,0.5974,0.4286,1185,862,731,464,864,761,951
+374200,Sweet Briar College,Sweet Briar,VA,www.sbc.edu,0.9354,1056,25500,21942,0.7731,22,0.7077,0.6515,1186,543,773,756,64,515,351
+242200,Mississippi University for Women,Columbus,MS,www.muw.edu,0.9361,988,14560,6554,0.6637,33,0.5622,0.3929,1187,907,50,391,965,703,1023
+339200,Westminster College,New Wilmington,PA,www.westminster.edu,0.9366,1055,27000,8960,1,31,0.7942,0.7642,1188,550,1151,1014,540,190,160
+369300,Southern Vermont College,Bennington,VT,www.svc.edu,0.9373,849,24750,4560,0.5238,41,0.5941,0.3588,1189,1219,628,458,1200,937,1084
+319800,Linfield College-McMinnville Campus,McMinnville,OR,www.linfield.edu,0.9377,1083,25000,13440,0.9286,32,0.636,0.7068,1190,444,731,556,196,303,229
+273400,Houghton College,Houghton,NY,www.houghton.edu,0.9381,1121,25500,10197,0.7214,43,0.7901,0.7584,1191,319,773,1000,397,597,167
+398700,La Roche College,Pittsburgh,PA,www.laroche.edu,0.9394,926,25000,6178,0.328,21,0.6194,0.4317,1192,1117,731,519,1027,1163,941
+398800,Neumann University,Aston,PA,www.neumann.edu,0.9404,853,27000,5736,0.3493,21,0.5317,0.5455,1193,1213,1151,333,1083,1141,613
+345900,Black Hills State University,Spearfish,SD,www.bhsu.edu,0.941,951,25625,5968,0.8481,32,0.8361,0.3303,1194,1038,779,1137,1063,412,1128
+109200,University of Central Arkansas,Conway,AR,www.uca.edu,0.9426,1049,21500,6788,0.7507,13,0.6545,0.4467,1195,600,350,600,912,547,894
+269800,College of Staten Island CUNY,Staten Island,NY,www.csi.cuny.edu,0.9427,1005,14666,8302,0.3445,11,0.4868,0.2734,1196,824,51,277,672,1145,1196
+358600,Lubbock Christian University,Lubbock,TX,https://www.lcu.edu,0.9432,1010,23628.5,6404,0.5435,12,0.6821,0.4349,1197,795,534,683,992,913,931
+392100,University of Wisconsin-Platteville,Platteville,WI,www.uwplatt.edu,0.944,1090,24000,6008,0.8171,32,0.912,0.5163,1198,419,572,1240,1057,457,699
+352300,Tennessee Technological University,Cookeville,TN,www.tntech.edu,0.9441,1105,15587,7404,1,33,0.8032,0.4937,1199,375,69,1041,814,190,763
+313100,University of Toledo,Toledo,OH,www.utoledo.edu/,0.9473,1031,24000,12241,0.7085,11,0.691,0.4372,1201,685,572,706,258,626,923
+327700,Indiana University of Pennsylvania-Main Campus,Indiana,PA,www.iup.edu,0.9473,958,27000,9021,0.7071,32,0.7631,0.5312,1201,1025,1151,913,528,628,655
+182200,Indiana Wesleyan University-Marion,Marion,IN,www.indwes.edu,0.9505,1081,24160,3941,1,32,0.7531,0.6253,1202,454,583,883,1227,190,414
+187300,Loras College,Dubuque,IA,www.loras.edu,0.9513,1088,27000,6733,0.7468,13,0.8351,0.6373,1203,429,1151,1131,928,555,380
+270300,College of Mount Saint Vincent,Bronx,NY,www.mountsaintvincent.edu,0.9521,931,27000,8693,0.4278,11,0.2843,0.5668,1204,1101,1151,126,583,1069,550
+884900,Palm Beach Atlantic University,West Palm Beach,FL,www.pba.edu,0.9527,1071,24750,7901,0.9474,13,0.6054,0.5495,1205,488,628,482,725,279,599
+314200,Wilmington College,Wilmington,OH,www.wilmington.edu,0.9537,970,27058,6349,0.9863,41,0.7784,0.468,1206,973,1153,961,1000,210,837
+905800,Bethel University,Saint Paul,MN,https://www.bethel.edu,0.9543,1146,24069,8633,0.3863,21,0.8478,0.7405,1207,256,574,1170,593,1106,181
+372300,Mary Baldwin College,Staunton,VA,www.mbc.edu,0.9545,979,27500,8542,0.2976,13,0.5656,0.4318,1208,936,1164,400,606,1177,939
+368800,Johnson State College,Johnson,VT,www.jsc.edu,0.9546,941,26000,8716,1,42,0.8401,0.3581,1209,1078,849,1149,576,190,1087
+312300,University of Akron Main Campus,Akron,OH,www.uakron.edu,0.9571,1050,26000,9013,0.5127,12,0.7406,0.4156,1210,594,849,844,530,959,972
+368100,Westminster College,Salt Lake City,UT,www.westminstercollege.edu,0.9576,1122,25000,11475,1,12,0.7153,0.5955,1211,318,731,774,295,190,481
+248800,Missouri Southern State University,Joplin,MO,www.mssu.edu,0.96,990,21000,6657,1,13,0.7794,0.3673,1212,901,289,963,942,190,1067
+136300,Regis University,Denver,CO,www.regis.edu/,0.9604,1108,23000,6455,0.317,11,0.5895,0.5905,1213,358,472,445,983,1168,497
+188900,Saint Ambrose University,Davenport,IA,www.sau.edu,0.9607,1050,26000,9031,1,13,0.8123,0.5709,1214,594,849,1066,525,190,545
+378300,Northwest University,Kirkland,WA,www.northwestu.edu,0.9612,1018,23724.5,8442,0.2405,21,0.6827,0.5303,1215,750,539,685,630,1213,661
+159700,Truett-McConnell College,Cleveland,GA,www.truett.edu,0.9633,971,23500,3807,1,41,0.8422,0.2216,1216,955,527,1158,1229,190,1222
+348400,Covenant College,Lookout Mountain,GA,www.covenant.edu,0.9664,1175,21441,8640,1,21,0.8687,0.5655,1217,206,315,1205,591,190,555
+183200,University of Saint Francis-Fort Wayne,Fort Wayne,IN,www.sf.edu,0.9686,981,25750,7011,0.4732,11,0.8007,0.4969,1218,931,788,1034,873,1014,750
+394600,University of the Virgin Islands,Charlotte Amalie,VI,www.uvi.edu,0.9707,796,15150,9696,1,33,0.0533,0.2598,1219,1241,63,55,456,190,1205
+180300,Huntington University,Huntington,IN,www.huntington.edu,0.9711,1034,26745,9279,1,32,0.8651,0.5891,1220,665,896,1199,492,190,500
+315400,East Central University,Ada,OK,https://www.ecok.edu,0.9719,1005,18010,6827,1,33,0.5803,0.3365,1221,824,138,421,905,190,1123
+346900,University of Sioux Falls,Sioux Falls,SD,www.usiouxfalls.edu/,0.9724,1028,23489,6919,1,12,0.8854,0.5315,1222,716,516,1225,888,190,653
+236100,Martin Luther College,New Ulm,MN,www.mlc-wels.edu,0.9732,1125,22194,8476,0.8161,32,0.9409,0.7168,1223,313,389,1246,621,461,213
+137200,Western State Colorado University,Gunnison,CO,www.western.edu,0.9741,990,21421,8328,0.7871,33,0.7541,0.356,1224,901,313,888,668,495,1091
+190400,Bethany College,Lindsborg,KS,www.bethanylb.edu,0.9745,969,27000,4923,1,33,0.6217,0.3736,1225,977,1151,522,1175,190,1054
+393200,University of Wyoming,Laramie,WY,www.uwyo.edu,0.9766,1118,18750,14616,0.9361,33,0.7791,0.54,1226,324,157,962,150,294,630
+366300,Wayland Baptist University,Plainview,TX,www.wbu.edu,0.9774,946,18875,7435,1,33,0.4319,0.3198,1227,1064,161,219,807,190,1150
+1025600,Benedictine College,Atchison,KS,www.benedictine.edu,0.9778,1120,26000,6322,0.6522,32,0.787,0.596,1228,322,849,993,1006,726,476
+335100,Cairn University-Langhorne,Langhorne,PA,www.cairn.edu,0.978,993,27000,7527,0.4615,21,0.7342,0.6603,1229,879,1151,823,789,1031,332
+367700,Utah State University,Logan,UT,www.usu.edu,0.9783,1067,13000,8365,0.953,13,0.8085,0.4977,1230,504,38,1058,654,273,746
+370300,Bluefield College,Bluefield,VA,www.bluefield.edu,0.9799,907,18873,4143,0.4444,32,0.6611,0.5,1231,1152,160,622,1222,1053,744
+382200,Shepherd University,Shepherdstown,WV,www.shepherd.edu/,0.9829,999,22478,6032,0.51,31,0.8315,0.3983,1232,855,407,1122,1051,965,1011
+186700,Grand View University,Des Moines,IA,www.grandview.edu,0.987,967,23848.5,6321,0.447,12,0.7294,0.4665,1233,987,550,806,1007,1050,842
+815500,The Evergreen State College,Olympia,WA,www.evergreen.edu,0.989,1043,17264,8785,0.7379,22,0.6515,0.5623,1234,628,118,591,565,575,560
+162100,Lewis-Clark State College,Lewiston,ID,www.lcsc.edu,0.9904,923,22250,6996,0.983,13,0.8213,0.2689,1235,1123,397,1092,874,219,1198
+109700,Harding University,Searcy,AR,www.harding.edu,0.9912,1131,26077,9684,0.7419,32,0.8299,0.6255,1236,289,853,1114,460,564,412
+368900,Lyndon State College,Lyndonville,VT,WWW.LYNDONSTATE.EDU,0.9914,937,27000,7807,1,33,0.8381,0.3732,1237,1089,1151,1141,742,190,1055
+193300,McPherson College,McPherson,KS,www.mcpherson.edu,0.9928,1005,25000,8340,0.7119,33,0.6737,0.4815,1238,824,731,663,665,617,791
+332100,Edinboro University of Pennsylvania,Edinboro,PA,www.edinboro.edu/,0.993,928,27000,9407,0.8495,31,0.8153,0.4471,1239,1113,1151,1078,483,409,893
+279000,Nyack College,Nyack,NY,www.nyack.edu,0.9936,909,25000,7724,0.4902,21,0.2189,0.419,1240,1150,731,100,754,993,966
+162500,Brigham Young University-Idaho,Rexburg,ID,www.byui.edu,0.9962,1041,11000,4263,0.3473,32,0.8011,0.5609,1241,633,23,1036,1217,1142,564
+2270400,Southeastern Bible College,Birmingham,AL,www.sebc.edu,1,930,24000,4617,0.875,21,0.6176,0.1765,1250,1109,572,514,1195,361,1241
+3115500,Adventist University of Health Sciences,Orlando,FL,www.adu.edu,1,928,22702,8494,0.9898,12,0.4551,0.3455,1250,1113,434,246,617,203,1107
+177200,Trinity International University-Illinois,Deerfield,IL,www.tiu.edu,1,1062,27000,9396,0.2768,21,0.6161,0.4627,1250,524,1151,507,484,1190,850
+183500,Saint Mary-of-the-Woods College,Saint Mary of the Woods,IN,www.smwc.edu,1,943,28000,10603,0.2941,41,0.7212,0.4545,1250,1070,1181,785,353,1181,878
+198000,University of Pikeville,Pikeville,KY,www.upike.edu,1,966,23000,6131,0.75,33,0.8247,0.3955,1250,991,472,1102,1036,550,1017
+245000,Calvary Bible College and Theological Seminary,Kansas City,MO,www.calvary.edu,1,1014,19399,6264,0.4677,11,0.8044,0.475,1250,765,189,1045,1015,1023,815
+2090700,Cleveland University-Kansas City,Overland Park,KS,www.cleveland.edu,1,1050,9062.5,8373,0.7647,12,0.4468,1,1250,594,10,231,652,523,1
+253300,Montana State University-Northern,Havre,MT,www.msun.edu,1,917,15873,7771,0.7159,33,0.768,0.2613,1250,1134,78,929,745,611,1204
+3516300,The King's University,Southlake,TX,tku.edu,1,1016,26500,4865,0.0946,21,0.6152,0.6667,1250,757,885,503,1179,1248,317
