@@ -34,8 +34,8 @@ c150_4_rank INT NOT NULL
 );
 
 \COPY school(opeid, city, instnm, insturl, stabbr) FROM '~/CS316Project/SampleData/school.csv' DELIMITER ',' CSV HEADER
-\COPY admissiondata(opeid, adm_rate, adm_rate_rank, sat_avg, sat_avg_rank) FROM '~/CS316Project/SampleData/admissiondata.csv' DELIMITER ',' CSV HEADER
-\COPY collegedata(opeid, pftfac, pftfac_rank, locale, ugds_white, ugds_white_rank, inexpfte, inexpfte_rank, grad_debt_mdn, grad_debt_mdn_rank) FROM '~/CS316Project/SampleData/collegedata.csv' DELIMITER ',' CSV HEADER
+\COPY admissiondata(opeid, adm_rate, sat_avg,adm_rate_rank, sat_avg_rank) FROM '~/CS316Project/SampleData/admissiondata.csv' DELIMITER ',' CSV HEADER
+\COPY collegedata(opeid, pftfac, locale, ugds_white, inexpfte, grad_debt_mdn, pftfac_rank,ugds_white_rank,inexpfte_rank,grad_debt_mdn_rank) FROM '~/CS316Project/SampleData/collegedata.csv' DELIMITER ',' CSV HEADER
 \COPY graddata(opeid, c150_4, c150_4_rank) FROM '~/CS316Project/SampleData/graddata.csv' DELIMITER ',' CSV HEADER
 
 -- Output all data
