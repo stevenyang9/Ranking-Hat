@@ -61,8 +61,8 @@ h2{
   				<tr>
 				    <th>Acceptance Rate</th>
 				    <th>SAT Average</th>
-				    <th>Instructional Expenditure per Student</th>
-				    <th>Median Student Debt</th>
+				    <th>Instructional Expenditure</th>
+				    <th>Student Debt</th>
 				    <th>Full-time Faculty</th>
 				    <th>Locale</th>
 				    <th>Student Body Nonwhite Percentage</th>
@@ -70,12 +70,12 @@ h2{
   				</tr>
   				<tr>
 				    <td>{{output.adm_rate * 100}}%</td>
-				    <td>{{output.sat_avg|int}}</td>
-				    <td>${{output.inexpfte|int}}</td>
-				    <td>${{output.grad_debt_mdn|int}}</td>
-				    <td>{{output.pftfac * 100}}%</td>
-				    <td>{{localedict[output.locale]}}</td>
-				    <td>{{100 - output.ugds_white*100}}%</td>
+				    <td>{{output.sat_avg}}</td>
+				    <td>{{output.inexpfte}}</td>
+				    <td>{{output.grad_debt_mdn}}</td>
+				    <td>{{output.pftfac}}</td>
+				    <td>{{output.locale}}</td>
+				    <td>{{100 - output.ugds_white}}</td>
 				    <td>{{output.c150_4 * 100}}%</td>
 				</tr>
 			</table> 

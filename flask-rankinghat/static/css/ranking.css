@@ -1,23 +1,49 @@
-body{
-margin:0;
-padding:0;
+.boxed {
+	/*background-color: #4CAF50;*/
+	background-color: rgb(41,127,184);
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    font-family: inherit;
+    cursor: pointer;
 }
 
-p{
+h1{
+	margin-top: 20px;
+}
+
+.categories{
+	margin-top: 100px;
+}
+
+body {
+  background: rgb(222,184,135);
+  font-family: 'Lato', sans-serif;
+  color: #FDFCFB;
   text-align: center;
-  color:white !important;
-  font-family:arial;
-  font-size:50px;
-
-}
-
-.rankbutton{
-  text-align: center;
 }
 
 
-.button {
-  top:30px;
+.points{
+	 position: relative;
+	 letter-spacing: 1px;
+	 top:70px;
+ }
+
+
+.input {
+
+  width: 100%;
+  background: #FDFCFB;
+  font-family: inherit;
+  color: #737373;
+  align-items: center;
+}
+
+
+  
+.rankbutton {
+  top:50px;
   display: inline-block;
   height: 50px;
   line-height: 50px;
@@ -47,39 +73,11 @@ p{
 }
 
 
-.billboard{
-height:620px;
-width:100%;
 
+input:focus {
+  outline: none;
+  outline: 2px solid #E86C8D;
+  box-shadow: 0 0 2px #E86C8D;
+}
 
- }
-
- html{
-  background-repeat: no-repeat !important;
-  width:100%;
-  height:100%;
-  background-image: url('http://i300.photobucket.com/albums/nn18/ojijimanuel/Midtown_Manhattan_and_Times_Square_district_2015_zpsqimz80ub.jpg');
-  -webkit-background-size: cover;
-  background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size:cover;
- }
-
- .text-wrapper{
-   position:absolute;
-   top: 50%;
-   left: 50%;
-   width: 400px;
-   height: 200px;
-   margin-left: -200px;
-   margin-top: -29px;
-   }
-
- h1{
- margin:0;
- text-align:center;
- color:white !important;
- font-family:arial;
- font-size:50px;
- }
 

@@ -1,0 +1,12 @@
+{% extends 'layout.html' %}
+{% block heading %}Top 25 Schools By SAT Scores{% endblock %}
+{% block content %}
+<ul>
+  {% for school in schools %}
+  
+  <li>{{school.instnm}} - {{school.sat_avg}} - {{school.adm_rate}} - {{school.c150_4}}</li>
+  {% endfor %}
+</ul>
+<hr/>
+
+{% endblock %}

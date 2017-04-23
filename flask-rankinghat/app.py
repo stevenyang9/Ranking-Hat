@@ -44,8 +44,7 @@ def results(page=1):
 	outputs = schools.paginate(page, POSTS_PER_PAGE, False)
 	#remove 0s
 	inputdict = {inputnames[k]:v for k, v in wdict.items() if v}
-	return render_template('results.html', outputs=outputs, pagenum = page, 
-							inputdict = inputdict, localedict = localedict)
+	return render_template('results.html', outputs=outputs, pagenum = page, inputdict = inputdict)
 
 @app.template_filter('pluralize')
 def pluralize(number, singular='', plural='s'):

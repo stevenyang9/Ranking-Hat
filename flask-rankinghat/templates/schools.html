@@ -1,0 +1,10 @@
+{% extends 'layout.html' %}
+{% block heading %}School Information: {{school.instnm}}{% endblock %}
+{% block content %}
+<p>Institution Name: {{school.instnm}}</p>
+
+
+<hr/>
+<p><a href="{{url_for('edit_drinker', name=drinker.name)}}">Edit</a>
+  this information or see <a href="/">all drinkers</a>.</p>
+{% endblock %}

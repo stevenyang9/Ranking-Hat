@@ -5,14 +5,21 @@
 {% block heading %}{% endblock %}
 {% block content %}
 
-<body background="/static/img/DukeU.jpg">
+<link href='https://fonts.googleapis.com/css?family=Titillium+Web:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/static/css/style.css"> 
+  </head>
+  <body>
 
-<div id="header">
-    
-        <h2>Hello</h2>
-        <a href="{{url_for('inputweights')}}">Rank Colleges</a>
-        
-</div>
+
+  <div class="text-wrapper">
+    <h1>The Ranking Hat</h1>
+    	
+    	<div class="rankbutton">
+    		<a href="{{url_for('inputweights')}}" class="button">Rank Colleges</a>
+    	</div>
+ 
+   </div>
+  </body>
 
 {% endblock %}
 
