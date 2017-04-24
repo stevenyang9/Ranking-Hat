@@ -69,13 +69,13 @@ h2{
 				    <th>Graduation Rate</th>
   				</tr>
   				<tr>
-				    <td>{{output.adm_rate * 100}}%</td>
-				    <td>{{output.sat_avg}}</td>
-				    <td>{{output.inexpfte}}</td>
-				    <td>{{output.grad_debt_mdn}}</td>
-				    <td>{{output.pftfac}}</td>
-				    <td>{{output.locale}}</td>
-				    <td>{{100 - output.ugds_white}}</td>
+				   	<td>{{output.adm_rate * 100}}%</td>
+				    <td>{{output.sat_avg|int}}</td>
+				    <td>${{output.inexpfte|int}}</td>
+				    <td>${{output.grad_debt_mdn|int}}</td>
+				    <td>{{output.pftfac * 100}}%</td>
+				    <td>{{localedict[output.locale]}}</td>
+				    <td>{{100 - output.ugds_white*100}}%</td>
 				    <td>{{output.c150_4 * 100}}%</td>
 				</tr>
 			</table> 
